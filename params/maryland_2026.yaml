@@ -4,7 +4,8 @@
 
 meta:
   location: Baltimore City
-  rules_as_of: "2026-11-15"
+  rules_as_of: "2026-11-17"
+
 # ---------- Housing (needed for the SNAP shelter deduction) ----------
 housing:
   rent_monthly: 1955                # TODO: replace with Baltimore 2-bedroom Fair Market Rent
@@ -15,7 +16,7 @@ fpl:
   year: 2026
   first_person: 15960
   each_additional_person: 5680
-  source: https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00755.htm  #verified
+  source: https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00755.htm  # verified
 
 # ---------- SNAP (monthly amounts, effective 2026-10-01) ----------
 snap:
@@ -52,25 +53,45 @@ snap:
     maryland_standards: https://dhs.maryland.gov/documents/FIA/Manuals/Supplemental%20Nutrition%20Assistance%20Program%20(SNAP)/600%20Standards/600%20Standards%20for%20Income%20and%20Deductions%20SEPT%202026.pdf
     income_limits: https://dhs.maryland.gov/documents/FIA/Manuals/Supplemental%20Nutrition%20Assistance%20Program%20(SNAP)/115%20Categorical%20Eligibility/October%202026%20Income%20Guidelines-%20revised%209.2026.pdf
 
-# ---------- Child Care Scholarship (annual income limits) ----------
+# ---------- Medicaid and MCHP (limits as % of FPL) ----------
+medicaid:
+  adult_limit_pct_fpl: 138
+  child_medicaid_limit_pct_fpl:
+    under_1: 199
+    age_1_to_5: 143
+    age_6_to_18: 138
+  mchp_free_limit_pct_fpl: 211      # MCHP with no premium
+  mchp_premium_limit_pct_fpl: 322   # MCHP Premium, above 211% up to 322%
+  mchp_premium_monthly:             # per family: [up to % FPL, $ per month]
+    - [264, 54]                     # approximate: 2017 MDH chart
+    - [322, 67]                     # approximate: 2017 MDH chart
+  sources:
+    limits: https://health.maryland.gov/mmcp/Coverage%20Groups/coverage-group-quick-reference-guide.pdf
+    premiums: https://health.maryland.gov/mmcp/Medicaid%20Applications/MCHP%20Premium%20Manual%20Revised%209-2017.pdf
+
+# ---------- Child Care Scholarship ----------
 childcare:
   new_enrollment_frozen: true       # frozen since 2025-05-01; model both cases
-  initial_income_limit:             # verified for family of 4 (Banner, 2026)
+  initial_income_limit:             # annual; family of 4 verified (Banner, 2026)
     2: 76116                        # estimate: 68% of family-of-4 limit
     3: 94026                        # estimate: 84% of family-of-4 limit
     4: 111936                       # verified
-  continuing_income_limit: null     # TODO: MSDE page still shows 2022 scale
-  copay_current_weekly: [1, 3]      # typical range today
-  copay_new_model:                  # approved Aug 2026; starts no earlier than 2027-01-01
-    weekly_range: [10.58, 106.74]
+  continuing_income_limit: null     # TODO: not published; model uses initial limit
+  price_weekly:                     # Baltimore City centers, Maryland Family Network 2025
+    preschool: 302.22               # ages 2-4
+    school_age: 191.15              # before and after school
+  preschool_max_age: 4
+  school_age_max_age: 12
+  copay:                            # new scale approved Aug 2026, starts 2027 at the earliest
+    current_weekly_range: [1, 3]    # typical copay today, for comparison
+    free_at_or_below_pct_fpl: 100
+    free_if_receiving_snap: true    # also free with housing voucher, SSI, TCA, WIC
+    lowest_weekly: 10.58
+    highest_weekly: 106.74
     cap_pct_income: 0.07
-    free_if_at_or_below_pct_fpl: 100
-    free_if_receiving: [SNAP, housing_voucher, SSI, TCA, WIC]
-    weekly_tiers: null              # TODO Session 3
-  market_price_monthly:
-    preschool_full_time: null       # TODO Session 3
-    school_age_before_after: null   # TODO Session 3
+    method: linear_placeholder      # TODO: replace with real tiers from Model A
   sources:
+    prices: https://www.marylandfamilynetwork.org/sites/default/files/2025-03/BaltimoreCity.pdf
     income_and_copay: https://www.thebanner.com/education/early-childhood/maryland-child-care-scholarship-copayments-VOXG2JYMQBCTVBCTNONYWG3TKY/
     copay_model: https://marylandpublicschools.org/stateboard/Documents/2026/0825/Child-Care-Scholarship-Copayment-Model-A.pdf
     old_income_scale: https://earlychildhood.marylandpublicschools.org/system/files/filedepot/2/income_eligibility_scale.pdf
