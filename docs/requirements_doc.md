@@ -67,3 +67,4 @@ All households live in Baltimore City. Earnings range from $0 to $120,000 a year
 | What are the copay limits for continuing families? | Not published with the new numbers. | Not modeled yet; listed as a limitation. |
 | What share of the federal EITC does Maryland give? | Refundable credit of 45% for families with children, or a nonrefundable 50%, not both. | The refundable 45%. |
 | Do families on SNAP pay a child care copay? | No. Families receiving SNAP pay no copay under the new model. | Losing SNAP also starts a child care copay. The model checks for this combined effect. |
+| What is the SNAP maximum benefit? | Maryland's SNAP income guidelines PDF lists $773 for a family of 3, but USDA's official FY2027 table and Maryland's SNAP standards manual both give $808. | USDA's figures, since USDA sets SNAP benefit amounts. |

@@ -5,6 +5,10 @@
 meta:
   location: Baltimore City
   rules_as_of: "2026-11-15"
+# ---------- Housing (needed for the SNAP shelter deduction) ----------
+housing:
+  rent_monthly: 1955                # TODO: replace with Baltimore 2-bedroom Fair Market Rent
+  source: https://nlihc.org/sites/default/files/oor/2026-OOR-MD.pdf
 
 # ---------- Federal Poverty Level (annual) ----------
 fpl:
@@ -17,15 +21,25 @@ fpl:
 snap:
   gross_limit_pct_fpl: 200          # Maryland broad-based categorical eligibility
   benefit_reduction_rate: 0.30      # benefit = max allotment - 30% of net income
-  earned_income_deduction: 0.20     # federal rule; confirm in Session 2
-  standard_deduction: null          # TODO Session 2
-  max_benefit:
-    1: 348
-    2: 612
-    3: 773
-    4: 926
-    5: 1074
-    6: 1180
+  earned_income_deduction: 0.20     # 20% of earnings
+  min_benefit: 25                   # for households of 1-2 people
+  min_benefit_max_size: 2
+  max_excess_shelter: 769
+  standard_utility_allowance: 592
+  standard_deduction:
+    1: 217
+    2: 217
+    3: 217
+    4: 229
+    5: 268
+    6: 308
+  max_benefit:                      # corrected from USDA FY2027 table
+    1: 306
+    2: 562
+    3: 808
+    4: 1023
+    5: 1217
+    6: 1463
   gross_limit_monthly:
     1: 2660
     2: 3607
@@ -33,19 +47,10 @@ snap:
     4: 5500
     5: 6447
     6: 7393
-  source: https://dhs.maryland.gov/documents/FIA/Manuals/Supplemental%20Nutrition%20Assistance%20Program%20(SNAP)/115%20Categorical%20Eligibility/October%202026%20Income%20Guidelines-%20revised%209.2026.pdf   #verified
-
-# ---------- Medicaid and MCHP (limits as % of FPL) ----------
-medicaid:
-  adult_limit_pct_fpl: 138
-  child_limits_pct_fpl:
-    under_1: 199
-    age_1_to_5: 143
-    age_6_to_18: 138
-    mchp_free: 211                  # MCHP with no premium
-    mchp_with_premium: 322          # MCHP Premium, 212-322% FPL
-  mchp_premium_monthly: null        # TODO Session 3
-  source: https://health.maryland.gov/mmcp/Coverage%20Groups/coverage-group-quick-reference-guide.pdf   #verified
+  sources:
+    max_benefit_and_deductions: https://www.usda.gov/sites/default/files/guidance-documents/fna.snap-cola2027.pdf
+    maryland_standards: https://dhs.maryland.gov/documents/FIA/Manuals/Supplemental%20Nutrition%20Assistance%20Program%20(SNAP)/600%20Standards/600%20Standards%20for%20Income%20and%20Deductions%20SEPT%202026.pdf
+    income_limits: https://dhs.maryland.gov/documents/FIA/Manuals/Supplemental%20Nutrition%20Assistance%20Program%20(SNAP)/115%20Categorical%20Eligibility/October%202026%20Income%20Guidelines-%20revised%209.2026.pdf
 
 # ---------- Child Care Scholarship (annual income limits) ----------
 childcare:
