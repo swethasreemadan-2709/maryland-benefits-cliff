@@ -112,8 +112,12 @@ federal_tax:
     - [24800, 0.12]
     - [100800, 0.22]
   child_tax_credit_per_child: 2200
+  ctc_max_child_age: 16             # child must be under 17 at year end
   ctc_refundable_max_per_child: 1700
-  eitc:                             # by number of children
+  ctc_refundable_earnings_floor: 2500   # refundable part starts above $2,500 earned
+  ctc_refundable_rate: 0.15             # 15 cents per dollar above the floor
+  eitc:                             # by number of children (3 = three or more)
+    max_children_counted: 3
     max_credit:      {1: 4427, 2: 7316, 3: 8231}
     phase_in_end:    {1: 13020, 2: 18290, 3: 18290}
     phaseout_start_single: 23890
@@ -123,6 +127,7 @@ federal_tax:
   sources:
     irs: https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill
     eitc_table: Rev. Proc. 2025-32
+    ctc_refundable: https://www.kiplinger.com/taxes/child-tax-credit-faqs
 
 # ---------- Maryland taxes and credits ----------
 maryland_tax:
@@ -137,10 +142,11 @@ maryland_tax:
     - [150000, 0.05]
   local_rate_baltimore_city: 0.032
   eitc_pct_of_federal: 0.45         # verified: refundable, families with children (Tax Policy Center)
-  local_eitc: null                  # TODO Session 4
-  personal_exemption: null          # TODO Session 4
+  local_eitc: null                  # not modeled: nonrefundable, small at these incomes
+  personal_exemption: 3200          # per person; full amount below $150,000 for joint/head of household
   sources:
     rates: https://www.marylandcomptroller.gov/content/dam/mdcomp/md/state-payroll/memos/2026/2026-maryland-state-and-local-withholding-information.pdf
     deduction: https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/alerts/tax-alert-changes-to-standard-and-itemized-deductions-and-to-state-and-local-income-tax-rates-from-the-2025-legislative-session.pdf
     eitc: https://www.marylandcomptroller.gov/content/dam/mdcomp/md/state-payroll/memos/2025/2025-earned-income-tax-credit.pdf
     eitc_rate: https://taxpolicycenter.org/sites/default/files/2026-07/state_eitc_rates.pdf
+    exemption: https://www.marylandcomptroller.gov/content/dam/mdcomp/md/state-payroll/memos/2026/payroll-changes-effective-january-1-2026.pdf

@@ -38,6 +38,8 @@ All households live in Baltimore City. Earnings range from $0 to $120,000 a year
 - The 3-year-old is in full-time center care; the 7-year-old needs before and after school care.
 - Lost Medicaid is valued at what replacement coverage would cost. Since this is a judgment call, results are shown with and without it.
 - All rules are as of November 2026.
+- Single parents file as head of household; two-parent families file jointly.
+- The Maryland EITC is modeled as the refundable 45% credit. Local EITCs are not modeled.
 
 ## Outputs
 1. Net resources for each household at each earnings level
@@ -70,3 +72,4 @@ All households live in Baltimore City. Earnings range from $0 to $120,000 a year
 | What is the SNAP maximum benefit? | Maryland's SNAP income guidelines PDF lists $773 for a family of 3, but USDA's official FY2027 table and Maryland's SNAP standards manual both give $808. | USDA's figures, since USDA sets SNAP benefit amounts. |
 | What are the new child care copay tiers? | The approved scale runs from $10.58 to $106.74 a week, capped at 7% of income, but I haven't yet recorded each tier from the State Board document. | A placeholder that rises in a straight line between those amounts. To be replaced with the real tiers. |
 | What are the current MCHP premiums? | The most recent official chart I found (2017) shows $54 and $67 a month per family. | Those amounts, labeled approximate. |
+| Do the EITC results match the IRS lookup table? | The IRS publishes the 2026 EITC table in early 2027. The model's phase-in and phase-out rates, worked out from the 2026 IRS parameters, match the official rates (34% and 15.98% for one child). | The formula, using official 2026 parameters. Recheck against the IRS table when it is published. |
