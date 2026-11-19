@@ -40,6 +40,9 @@ All households live in Baltimore City. Earnings range from $0 to $120,000 a year
 - All rules are as of November 2026.
 - Single parents file as head of household; two-parent families file jointly.
 - The Maryland EITC is modeled as the refundable 45% credit. Local EITCs are not modeled.
+- The parent earns Maryland's $15 minimum wage; child care need grows with hours worked, up to full time at $31,200 a year.
+- Losing public coverage is valued at the average worker contribution to employer insurance ($1,440 for one person, $6,850 for two or more, KFF 2025). This assumes the job offers coverage.
+- When SNAP and child care affect each other, the model first checks whether the family qualifies for SNAP with the copay waived; if not, the family pays the copay.
 
 ## Outputs
 1. Net resources for each household at each earnings level

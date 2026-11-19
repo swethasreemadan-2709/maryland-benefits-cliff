@@ -1,0 +1,1447 @@
+earnings,snap,childcare_paid,childcare_subsidy,health_costs,adults_on_medicaid,children_coverage,taxes_paid,tax_credits,net_resources,net_resources_no_health,household,scenario,metr,is_cliff
+0,6744,0.0,0.0,0,1,Medicaid,0.0,0.0,6744.0,6744.0,"A: single parent, 1 child",enrolled,,False
+500,6744,0.0,251.85,0,1,Medicaid,38.25,246.51,7452.26,7452.26,"A: single parent, 1 child",enrolled,-0.417,False
+1000,6744,0.0,503.7,0,1,Medicaid,76.5,493.02,8160.52,8160.52,"A: single parent, 1 child",enrolled,-0.417,False
+1500,6744,0.0,755.55,0,1,Medicaid,114.75,739.53,8868.78,8868.78,"A: single parent, 1 child",enrolled,-0.417,False
+2000,6744,0.0,1007.4,0,1,Medicaid,153.0,986.04,9577.04,9577.04,"A: single parent, 1 child",enrolled,-0.417,False
+2500,6744,0.0,1259.25,0,1,Medicaid,191.25,1232.56,10285.31,10285.31,"A: single parent, 1 child",enrolled,-0.417,False
+3000,6744,0.0,1511.1,0,1,Medicaid,229.5,1554.07,11068.57,11068.57,"A: single parent, 1 child",enrolled,-0.567,False
+3500,6744,0.0,1762.95,0,1,Medicaid,267.75,1875.58,11851.83,11851.83,"A: single parent, 1 child",enrolled,-0.567,False
+4000,6744,0.0,2014.8,0,1,Medicaid,306.0,2197.09,12635.09,12635.09,"A: single parent, 1 child",enrolled,-0.567,False
+4500,6744,0.0,2266.65,0,1,Medicaid,344.25,2518.6,13418.35,13418.35,"A: single parent, 1 child",enrolled,-0.567,False
+5000,6744,0.0,2518.5,0,1,Medicaid,382.5,2840.11,14201.61,14201.61,"A: single parent, 1 child",enrolled,-0.567,False
+5500,6744,0.0,2770.35,0,1,Medicaid,420.75,3161.62,14984.87,14984.87,"A: single parent, 1 child",enrolled,-0.567,False
+6000,6744,0.0,3022.2,0,1,Medicaid,459.0,3483.13,15768.13,15768.13,"A: single parent, 1 child",enrolled,-0.567,False
+6500,6744,0.0,3274.05,0,1,Medicaid,497.25,3804.64,16551.39,16551.39,"A: single parent, 1 child",enrolled,-0.567,False
+7000,6744,0.0,3525.9,0,1,Medicaid,535.5,4126.16,17334.66,17334.66,"A: single parent, 1 child",enrolled,-0.567,False
+7500,6744,0.0,3777.75,0,1,Medicaid,573.75,4447.67,18117.92,18117.92,"A: single parent, 1 child",enrolled,-0.567,False
+8000,6744,0.0,4029.6,0,1,Medicaid,612.0,4769.18,18901.18,18901.18,"A: single parent, 1 child",enrolled,-0.567,False
+8500,6744,0.0,4281.45,0,1,Medicaid,650.25,5090.69,19684.44,19684.44,"A: single parent, 1 child",enrolled,-0.567,False
+9000,6744,0.0,4533.3,0,1,Medicaid,688.5,5412.2,20467.7,20467.7,"A: single parent, 1 child",enrolled,-0.567,False
+9500,6744,0.0,4785.15,0,1,Medicaid,726.75,5733.71,21250.96,21250.96,"A: single parent, 1 child",enrolled,-0.567,False
+10000,6744,0.0,5037.0,0,1,Medicaid,765.0,6055.22,22034.22,22034.22,"A: single parent, 1 child",enrolled,-0.567,False
+10500,6744,0.0,5288.85,0,1,Medicaid,803.25,6376.73,22817.48,22817.48,"A: single parent, 1 child",enrolled,-0.567,False
+11000,6744,0.0,5540.7,0,1,Medicaid,841.5,6698.25,23600.75,23600.75,"A: single parent, 1 child",enrolled,-0.567,False
+11500,6744,0.0,5792.55,0,1,Medicaid,879.75,7019.76,24384.01,24384.01,"A: single parent, 1 child",enrolled,-0.567,False
+12000,6744,0.0,6044.4,0,1,Medicaid,918.0,7341.27,25167.27,25167.27,"A: single parent, 1 child",enrolled,-0.567,False
+12500,6744,0.0,6296.25,0,1,Medicaid,956.25,7662.78,25950.53,25950.53,"A: single parent, 1 child",enrolled,-0.567,False
+13000,6744,0.0,6548.1,0,1,Medicaid,994.5,7984.29,26733.79,26733.79,"A: single parent, 1 child",enrolled,-0.567,False
+13500,6744,0.0,6799.95,0,1,Medicaid,1053.55,8069.15,27259.6,27259.6,"A: single parent, 1 child",enrolled,-0.052,False
+14000,6744,0.0,7051.8,0,1,Medicaid,1117.8,8119.15,27745.35,27745.35,"A: single parent, 1 child",enrolled,0.028,False
+14500,6744,0.0,7303.65,0,1,Medicaid,1186.05,8119.15,28177.1,28177.1,"A: single parent, 1 child",enrolled,0.136,False
+15000,6684,0.0,7555.5,0,1,Medicaid,1255.3,8119.15,28547.85,28547.85,"A: single parent, 1 child",enrolled,0.258,False
+15500,6564,0.0,7807.35,0,1,Medicaid,1328.55,8119.15,28854.6,28854.6,"A: single parent, 1 child",enrolled,0.386,False
+16000,6444,0.0,8059.2,0,1,Medicaid,1402.8,8119.15,29160.35,29160.35,"A: single parent, 1 child",enrolled,0.388,False
+16500,6324,0.0,8311.05,0,1,Medicaid,1480.05,8119.15,29463.1,29463.1,"A: single parent, 1 child",enrolled,0.394,False
+17000,6204,0.0,8562.9,0,1,Medicaid,1558.05,8119.15,29765.1,29765.1,"A: single parent, 1 child",enrolled,0.396,False
+17500,6084,0.0,8814.75,0,1,Medicaid,1636.05,8119.15,30067.1,30067.1,"A: single parent, 1 child",enrolled,0.396,False
+18000,5964,0.0,9066.6,0,1,Medicaid,1714.05,8119.15,30369.1,30369.1,"A: single parent, 1 child",enrolled,0.396,False
+18500,5844,0.0,9318.45,0,1,Medicaid,1792.05,8119.15,30671.1,30671.1,"A: single parent, 1 child",enrolled,0.396,False
+19000,5724,0.0,9570.3,0,1,Medicaid,1870.05,8119.15,30973.1,30973.1,"A: single parent, 1 child",enrolled,0.396,False
+19500,5604,0.0,9822.15,0,1,Medicaid,1948.05,8119.15,31275.1,31275.1,"A: single parent, 1 child",enrolled,0.396,False
+20000,5484,0.0,10074.0,0,1,Medicaid,2026.05,8119.15,31577.1,31577.1,"A: single parent, 1 child",enrolled,0.396,False
+20500,5364,0.0,10325.85,0,1,Medicaid,2104.05,8119.15,31879.1,31879.1,"A: single parent, 1 child",enrolled,0.396,False
+21000,5244,0.0,10577.7,0,1,Medicaid,2182.05,8119.15,32181.1,32181.1,"A: single parent, 1 child",enrolled,0.396,False
+21500,5124,0.0,10829.55,0,1,Medicaid,2260.05,8119.15,32483.1,32483.1,"A: single parent, 1 child",enrolled,0.396,False
+22000,5004,0.0,11081.4,0,1,Medicaid,2338.05,8119.15,32785.1,32785.1,"A: single parent, 1 child",enrolled,0.396,False
+22500,4884,0.0,11333.25,0,1,Medicaid,2416.05,8119.15,33087.1,33087.1,"A: single parent, 1 child",enrolled,0.396,False
+23000,4764,0.0,11585.1,0,1,Medicaid,2494.05,8119.15,33389.1,33389.1,"A: single parent, 1 child",enrolled,0.396,False
+23500,4644,0.0,11836.95,0,1,Medicaid,2572.05,8119.15,33691.1,33691.1,"A: single parent, 1 child",enrolled,0.396,False
+24000,4524,0.0,12088.8,0,1,Medicaid,2650.05,8093.66,33967.61,33967.61,"A: single parent, 1 child",enrolled,0.447,False
+24500,4404,0.0,12340.65,0,1,Medicaid,2728.05,7977.8,34153.75,34153.75,"A: single parent, 1 child",enrolled,0.628,False
+25000,4284,0.0,12592.5,0,1,Medicaid,2806.05,7861.95,34339.9,34339.9,"A: single parent, 1 child",enrolled,0.628,False
+25500,4164,0.0,12844.35,0,1,Medicaid,2884.05,7746.09,34526.04,34526.04,"A: single parent, 1 child",enrolled,0.628,False
+26000,4044,0.0,13096.2,0,1,Medicaid,2962.05,7630.24,34712.19,34712.19,"A: single parent, 1 child",enrolled,0.628,False
+26500,3924,0.0,13348.05,0,1,Medicaid,3040.05,7514.38,34898.33,34898.33,"A: single parent, 1 child",enrolled,0.628,False
+27000,3804,0.0,13599.9,0,1,Medicaid,3118.05,7398.52,35084.47,35084.47,"A: single parent, 1 child",enrolled,0.628,False
+27500,3684,0.0,13851.75,0,1,Medicaid,3196.05,7282.67,35270.62,35270.62,"A: single parent, 1 child",enrolled,0.628,False
+28000,3564,0.0,14103.6,0,1,Medicaid,3274.05,7166.81,35456.76,35456.76,"A: single parent, 1 child",enrolled,0.628,False
+28500,3444,0.0,14355.45,0,1,Medicaid,3352.05,7050.95,35642.9,35642.9,"A: single parent, 1 child",enrolled,0.628,False
+29000,3324,0.0,14607.3,0,1,Medicaid,3430.05,6935.1,35829.05,35829.05,"A: single parent, 1 child",enrolled,0.628,False
+29500,3204,0.0,14859.15,0,1,Medicaid,3508.05,6784.24,35980.19,35980.19,"A: single parent, 1 child",enrolled,0.698,False
+30000,3084,0.0,15111.0,1440,0,Medicaid,3586.05,6618.38,34676.33,36116.33,"A: single parent, 1 child",enrolled,3.608,True
+30500,2964,0.0,15362.85,1440,0,Medicaid,3664.05,6452.53,34812.48,36252.48,"A: single parent, 1 child",enrolled,0.728,False
+31000,2844,0.0,15614.7,1440,0,MCHP,3742.05,6286.67,34948.62,36388.62,"A: single parent, 1 child",enrolled,0.728,False
+31500,2724,0.0,15715.44,1440,0,MCHP,3820.05,6120.81,35084.76,36524.76,"A: single parent, 1 child",enrolled,0.728,False
+32000,2604,0.0,15715.44,1440,0,MCHP,3898.05,5954.96,35220.91,36660.91,"A: single parent, 1 child",enrolled,0.728,False
+32500,2484,0.0,15715.44,1440,0,MCHP,3976.05,5789.1,35357.05,36797.05,"A: single parent, 1 child",enrolled,0.728,False
+33000,2364,0.0,15715.44,1440,0,MCHP,4054.05,5623.24,35493.19,36933.19,"A: single parent, 1 child",enrolled,0.728,False
+33500,2244,0.0,15715.44,1440,0,MCHP,4132.05,5457.39,35629.34,37069.34,"A: single parent, 1 child",enrolled,0.728,False
+34000,2124,0.0,15715.44,1440,0,MCHP,4210.05,5291.53,35765.48,37205.48,"A: single parent, 1 child",enrolled,0.728,False
+34500,2004,0.0,15715.44,1440,0,MCHP,4288.05,5125.67,35901.62,37341.62,"A: single parent, 1 child",enrolled,0.728,False
+35000,1884,0.0,15715.44,1440,0,MCHP,4366.05,4959.82,36037.77,37477.77,"A: single parent, 1 child",enrolled,0.728,False
+35500,1764,0.0,15715.44,1440,0,MCHP,4444.05,4793.96,36173.91,37613.91,"A: single parent, 1 child",enrolled,0.728,False
+36000,1644,0.0,15715.44,1440,0,MCHP,4522.05,4628.1,36310.05,37750.05,"A: single parent, 1 child",enrolled,0.728,False
+36500,1524,0.0,15715.44,1440,0,MCHP,4600.05,4462.25,36446.2,37886.2,"A: single parent, 1 child",enrolled,0.728,False
+37000,1404,0.0,15715.44,1440,0,MCHP,4678.05,4296.39,36582.34,38022.34,"A: single parent, 1 child",enrolled,0.728,False
+37500,1284,0.0,15715.44,1440,0,MCHP,4756.05,4130.53,36718.48,38158.48,"A: single parent, 1 child",enrolled,0.728,False
+38000,1164,0.0,15715.44,1440,0,MCHP,4834.05,3964.68,36854.63,38294.63,"A: single parent, 1 child",enrolled,0.728,False
+38500,1044,0.0,15715.44,1440,0,MCHP,4912.05,3798.82,36990.77,38430.77,"A: single parent, 1 child",enrolled,0.728,False
+39000,924,0.0,15715.44,1440,0,MCHP,4990.05,3632.96,37126.91,38566.91,"A: single parent, 1 child",enrolled,0.728,False
+39500,804,0.0,15715.44,1440,0,MCHP,5068.05,3467.11,37263.06,38703.06,"A: single parent, 1 child",enrolled,0.728,False
+40000,684,0.0,15715.44,1440,0,MCHP,5146.05,3301.25,37399.2,38839.2,"A: single parent, 1 child",enrolled,0.728,False
+40500,564,0.0,15715.44,1440,0,MCHP,5224.05,3135.39,37535.34,38975.34,"A: single parent, 1 child",enrolled,0.728,False
+41000,444,0.0,15715.44,1440,0,MCHP,5302.05,2969.54,37671.49,39111.49,"A: single parent, 1 child",enrolled,0.728,False
+41500,324,0.0,15715.44,1440,0,MCHP,5380.05,2803.68,37807.63,39247.63,"A: single parent, 1 child",enrolled,0.728,False
+42000,300,0.0,15715.44,1440,0,MCHP,5458.05,2634.82,38036.77,39476.77,"A: single parent, 1 child",enrolled,0.542,False
+42500,300,0.0,15715.44,1440,0,MCHP,5536.05,2458.97,38282.92,39722.92,"A: single parent, 1 child",enrolled,0.508,False
+43000,300,0.0,15715.44,1440,0,MCHP,5614.05,2283.11,38529.06,39969.06,"A: single parent, 1 child",enrolled,0.508,False
+43500,0,2556.68,13158.76,1440,0,MCHP,5692.05,2107.25,35918.52,37358.52,"A: single parent, 1 child",enrolled,6.221,True
+44000,0,2602.57,13112.87,1440,0,MCHP,5770.05,1931.4,36118.78,37558.78,"A: single parent, 1 child",enrolled,0.599,False
+44500,0,2648.47,13066.97,1440,0,MCHP,5848.05,1755.54,36319.02,37759.02,"A: single parent, 1 child",enrolled,0.6,False
+45000,0,2694.36,13021.08,1440,0,MCHP,5926.05,1579.68,36519.27,37959.27,"A: single parent, 1 child",enrolled,0.599,False
+45500,0,2740.26,12975.18,1440,0,MCHP,6012.05,1411.83,36719.52,38159.52,"A: single parent, 1 child",enrolled,0.599,False
+46000,0,2786.15,12929.29,2088,0,MCHP Premium,6150.05,1295.97,36271.77,38359.77,"A: single parent, 1 child",enrolled,1.896,True
+46500,0,2832.04,12883.4,2088,0,MCHP Premium,6288.05,1180.12,36472.03,38560.03,"A: single parent, 1 child",enrolled,0.599,False
+47000,0,2877.94,12837.5,2088,0,MCHP Premium,6426.05,1064.26,36672.27,38760.27,"A: single parent, 1 child",enrolled,0.6,False
+47500,0,2923.83,12791.61,2088,0,MCHP Premium,6564.05,948.4,36872.52,38960.52,"A: single parent, 1 child",enrolled,0.599,False
+48000,0,2969.73,12745.71,2088,0,MCHP Premium,6702.05,832.55,37072.77,39160.77,"A: single parent, 1 child",enrolled,0.599,False
+48500,0,3015.62,12699.82,2088,0,MCHP Premium,6840.05,716.69,37273.02,39361.02,"A: single parent, 1 child",enrolled,0.599,False
+49000,0,3061.52,12653.92,2088,0,MCHP Premium,6978.05,600.83,37473.26,39561.26,"A: single parent, 1 child",enrolled,0.6,False
+49500,0,3107.41,12608.03,2088,0,MCHP Premium,7116.05,484.98,37673.52,39761.52,"A: single parent, 1 child",enrolled,0.599,False
+50000,0,3153.31,12562.13,2088,0,MCHP Premium,7254.05,369.12,37873.76,39961.76,"A: single parent, 1 child",enrolled,0.6,False
+50500,0,3199.2,12516.24,2088,0,MCHP Premium,7392.05,253.26,38074.01,40162.01,"A: single parent, 1 child",enrolled,0.599,False
+51000,0,3245.1,12470.34,2088,0,MCHP Premium,7530.05,137.41,38274.26,40362.26,"A: single parent, 1 child",enrolled,0.599,False
+51500,0,3290.99,12424.45,2088,0,MCHP Premium,7668.05,21.55,38474.51,40562.51,"A: single parent, 1 child",enrolled,0.599,False
+52000,0,3336.89,12378.55,2088,0,MCHP Premium,7806.05,0.0,38769.06,40857.06,"A: single parent, 1 child",enrolled,0.411,False
+52500,0,3382.78,12332.66,2088,0,MCHP Premium,7944.05,0.0,39085.17,41173.17,"A: single parent, 1 child",enrolled,0.368,False
+53000,0,3428.68,12286.76,2088,0,MCHP Premium,8082.05,0.0,39401.27,41489.27,"A: single parent, 1 child",enrolled,0.368,False
+53500,0,3474.57,12240.87,2088,0,MCHP Premium,8220.05,0.0,39717.38,41805.38,"A: single parent, 1 child",enrolled,0.368,False
+54000,0,3520.47,12194.97,2088,0,MCHP Premium,8358.05,0.0,40033.48,42121.48,"A: single parent, 1 child",enrolled,0.368,False
+54500,0,3566.36,12149.08,2088,0,MCHP Premium,8496.05,0.0,40349.59,42437.59,"A: single parent, 1 child",enrolled,0.368,False
+55000,0,3612.25,12103.19,2088,0,MCHP Premium,8634.05,0.0,40665.7,42753.7,"A: single parent, 1 child",enrolled,0.368,False
+55500,0,3658.15,12057.29,2088,0,MCHP Premium,8772.05,0.0,40981.8,43069.8,"A: single parent, 1 child",enrolled,0.368,False
+56000,0,3704.04,12011.4,2088,0,MCHP Premium,8910.05,0.0,41297.91,43385.91,"A: single parent, 1 child",enrolled,0.368,False
+56500,0,3749.94,11965.5,2088,0,MCHP Premium,9048.05,0.0,41614.01,43702.01,"A: single parent, 1 child",enrolled,0.368,False
+57000,0,3795.83,11919.61,2088,0,MCHP Premium,9186.05,0.0,41930.12,44018.12,"A: single parent, 1 child",enrolled,0.368,False
+57500,0,3841.73,11873.71,2244,0,MCHP Premium,9324.05,0.0,42090.22,44334.22,"A: single parent, 1 child",enrolled,0.68,False
+58000,0,3887.62,11827.82,2244,0,MCHP Premium,9462.05,0.0,42406.33,44650.33,"A: single parent, 1 child",enrolled,0.368,False
+58500,0,3933.52,11781.92,2244,0,MCHP Premium,9600.05,0.0,42722.43,44966.43,"A: single parent, 1 child",enrolled,0.368,False
+59000,0,3979.41,11736.03,2244,0,MCHP Premium,9738.05,0.0,43038.54,45282.54,"A: single parent, 1 child",enrolled,0.368,False
+59500,0,4025.31,11690.13,2244,0,MCHP Premium,9876.05,0.0,43354.64,45598.64,"A: single parent, 1 child",enrolled,0.368,False
+60000,0,4071.2,11644.24,2244,0,MCHP Premium,10014.05,0.0,43670.75,45914.75,"A: single parent, 1 child",enrolled,0.368,False
+60500,0,4117.1,11598.34,2244,0,MCHP Premium,10152.05,0.0,43986.85,46230.85,"A: single parent, 1 child",enrolled,0.368,False
+61000,0,4162.99,11552.45,2244,0,MCHP Premium,10290.05,0.0,44302.96,46546.96,"A: single parent, 1 child",enrolled,0.368,False
+61500,0,4208.89,11506.55,2244,0,MCHP Premium,10428.05,0.0,44619.06,46863.06,"A: single parent, 1 child",enrolled,0.368,False
+62000,0,4254.78,11460.66,2244,0,MCHP Premium,10566.05,0.0,44935.17,47179.17,"A: single parent, 1 child",enrolled,0.368,False
+62500,0,4300.68,11414.76,2244,0,MCHP Premium,10704.05,0.0,45251.27,47495.27,"A: single parent, 1 child",enrolled,0.368,False
+63000,0,4346.57,11368.87,2244,0,MCHP Premium,10842.05,0.0,45567.38,47811.38,"A: single parent, 1 child",enrolled,0.368,False
+63500,0,4392.46,11322.98,2244,0,MCHP Premium,10980.05,0.0,45883.49,48127.49,"A: single parent, 1 child",enrolled,0.368,False
+64000,0,4438.36,11277.08,2244,0,MCHP Premium,11118.05,0.0,46199.59,48443.59,"A: single parent, 1 child",enrolled,0.368,False
+64500,0,4484.25,11231.19,2244,0,MCHP Premium,11256.05,0.0,46515.7,48759.7,"A: single parent, 1 child",enrolled,0.368,False
+65000,0,4530.15,11185.29,2244,0,MCHP Premium,11394.05,0.0,46831.8,49075.8,"A: single parent, 1 child",enrolled,0.368,False
+65500,0,4576.04,11139.4,2244,0,MCHP Premium,11532.05,0.0,47147.91,49391.91,"A: single parent, 1 child",enrolled,0.368,False
+66000,0,4620.0,11095.44,2244,0,MCHP Premium,11670.05,0.0,47465.95,49709.95,"A: single parent, 1 child",enrolled,0.364,False
+66500,0,4655.0,11060.44,2244,0,MCHP Premium,11808.05,0.0,47792.95,50036.95,"A: single parent, 1 child",enrolled,0.346,False
+67000,0,4690.0,11025.44,2244,0,MCHP Premium,11946.05,0.0,48119.95,50363.95,"A: single parent, 1 child",enrolled,0.346,False
+67500,0,4725.0,10990.44,2244,0,MCHP Premium,12084.05,0.0,48446.95,50690.95,"A: single parent, 1 child",enrolled,0.346,False
+68000,0,4760.0,10955.44,2244,0,MCHP Premium,12222.05,0.0,48773.95,51017.95,"A: single parent, 1 child",enrolled,0.346,False
+68500,0,4795.0,10920.44,2244,0,MCHP Premium,12360.05,0.0,49100.95,51344.95,"A: single parent, 1 child",enrolled,0.346,False
+69000,0,4830.0,10885.44,2244,0,MCHP Premium,12498.05,0.0,49427.95,51671.95,"A: single parent, 1 child",enrolled,0.346,False
+69500,0,4865.0,10850.44,2244,0,MCHP Premium,12636.05,0.0,49754.95,51998.95,"A: single parent, 1 child",enrolled,0.346,False
+70000,0,4900.0,10815.44,6850,0,None,12774.05,0.0,45475.95,52325.95,"A: single parent, 1 child",enrolled,9.558,True
+70500,0,4935.0,10780.44,6850,0,None,12912.05,0.0,45802.95,52652.95,"A: single parent, 1 child",enrolled,0.346,False
+71000,0,4970.0,10745.44,6850,0,None,13050.05,0.0,46129.95,52979.95,"A: single parent, 1 child",enrolled,0.346,False
+71500,0,5005.0,10710.44,6850,0,None,13188.05,0.0,46456.95,53306.95,"A: single parent, 1 child",enrolled,0.346,False
+72000,0,5040.0,10675.44,6850,0,None,13326.05,0.0,46783.95,53633.95,"A: single parent, 1 child",enrolled,0.346,False
+72500,0,5075.0,10640.44,6850,0,None,13464.05,0.0,47110.95,53960.95,"A: single parent, 1 child",enrolled,0.346,False
+73000,0,5110.0,10605.44,6850,0,None,13602.05,0.0,47437.95,54287.95,"A: single parent, 1 child",enrolled,0.346,False
+73500,0,5145.0,10570.44,6850,0,None,13740.05,0.0,47764.95,54614.95,"A: single parent, 1 child",enrolled,0.346,False
+74000,0,5180.0,10535.44,6850,0,None,13878.05,0.0,48091.95,54941.95,"A: single parent, 1 child",enrolled,0.346,False
+74500,0,5215.0,10500.44,6850,0,None,14016.05,0.0,48418.95,55268.95,"A: single parent, 1 child",enrolled,0.346,False
+75000,0,5250.0,10465.44,6850,0,None,14154.05,0.0,48745.95,55595.95,"A: single parent, 1 child",enrolled,0.346,False
+75500,0,5285.0,10430.44,6850,0,None,14292.05,0.0,49072.95,55922.95,"A: single parent, 1 child",enrolled,0.346,False
+76000,0,5320.0,10395.44,6850,0,None,14430.05,0.0,49399.95,56249.95,"A: single parent, 1 child",enrolled,0.346,False
+76500,0,15715.44,0.0,6850,0,None,14568.05,0.0,39366.51,46216.51,"A: single parent, 1 child",enrolled,21.067,True
+77000,0,15715.44,0.0,6850,0,None,14706.05,0.0,39728.51,46578.51,"A: single parent, 1 child",enrolled,0.276,False
+77500,0,15715.44,0.0,6850,0,None,14844.05,0.0,40090.51,46940.51,"A: single parent, 1 child",enrolled,0.276,False
+78000,0,15715.44,0.0,6850,0,None,14982.05,0.0,40452.51,47302.51,"A: single parent, 1 child",enrolled,0.276,False
+78500,0,15715.44,0.0,6850,0,None,15120.05,0.0,40814.51,47664.51,"A: single parent, 1 child",enrolled,0.276,False
+79000,0,15715.44,0.0,6850,0,None,15258.05,0.0,41176.51,48026.51,"A: single parent, 1 child",enrolled,0.276,False
+79500,0,15715.44,0.0,6850,0,None,15396.05,0.0,41538.51,48388.51,"A: single parent, 1 child",enrolled,0.276,False
+80000,0,15715.44,0.0,6850,0,None,15534.05,0.0,41900.51,48750.51,"A: single parent, 1 child",enrolled,0.276,False
+80500,0,15715.44,0.0,6850,0,None,15672.05,0.0,42262.51,49112.51,"A: single parent, 1 child",enrolled,0.276,False
+81000,0,15715.44,0.0,6850,0,None,15810.05,0.0,42624.51,49474.51,"A: single parent, 1 child",enrolled,0.276,False
+81500,0,15715.44,0.0,6850,0,None,15948.05,0.0,42986.51,49836.51,"A: single parent, 1 child",enrolled,0.276,False
+82000,0,15715.44,0.0,6850,0,None,16086.05,0.0,43348.51,50198.51,"A: single parent, 1 child",enrolled,0.276,False
+82500,0,15715.44,0.0,6850,0,None,16224.05,0.0,43710.51,50560.51,"A: single parent, 1 child",enrolled,0.276,False
+83000,0,15715.44,0.0,6850,0,None,16362.05,0.0,44072.51,50922.51,"A: single parent, 1 child",enrolled,0.276,False
+83500,0,15715.44,0.0,6850,0,None,16500.05,0.0,44434.51,51284.51,"A: single parent, 1 child",enrolled,0.276,False
+84000,0,15715.44,0.0,6850,0,None,16638.05,0.0,44796.51,51646.51,"A: single parent, 1 child",enrolled,0.276,False
+84500,0,15715.44,0.0,6850,0,None,16776.05,0.0,45158.51,52008.51,"A: single parent, 1 child",enrolled,0.276,False
+85000,0,15715.44,0.0,6850,0,None,16914.05,0.0,45520.51,52370.51,"A: single parent, 1 child",enrolled,0.276,False
+85500,0,15715.44,0.0,6850,0,None,17052.05,0.0,45882.51,52732.51,"A: single parent, 1 child",enrolled,0.276,False
+86000,0,15715.44,0.0,6850,0,None,17190.05,0.0,46244.51,53094.51,"A: single parent, 1 child",enrolled,0.276,False
+86500,0,15715.44,0.0,6850,0,None,17328.05,0.0,46606.51,53456.51,"A: single parent, 1 child",enrolled,0.276,False
+87000,0,15715.44,0.0,6850,0,None,17466.05,0.0,46968.51,53818.51,"A: single parent, 1 child",enrolled,0.276,False
+87500,0,15715.44,0.0,6850,0,None,17604.05,0.0,47330.51,54180.51,"A: single parent, 1 child",enrolled,0.276,False
+88000,0,15715.44,0.0,6850,0,None,17742.05,0.0,47692.51,54542.51,"A: single parent, 1 child",enrolled,0.276,False
+88500,0,15715.44,0.0,6850,0,None,17880.05,0.0,48054.51,54904.51,"A: single parent, 1 child",enrolled,0.276,False
+89000,0,15715.44,0.0,6850,0,None,18018.05,0.0,48416.51,55266.51,"A: single parent, 1 child",enrolled,0.276,False
+89500,0,15715.44,0.0,6850,0,None,18156.05,0.0,48778.51,55628.51,"A: single parent, 1 child",enrolled,0.276,False
+90000,0,15715.44,0.0,6850,0,None,18294.05,0.0,49140.51,55990.51,"A: single parent, 1 child",enrolled,0.276,False
+90500,0,15715.44,0.0,6850,0,None,18432.05,0.0,49502.51,56352.51,"A: single parent, 1 child",enrolled,0.276,False
+91000,0,15715.44,0.0,6850,0,None,18570.05,0.0,49864.51,56714.51,"A: single parent, 1 child",enrolled,0.276,False
+91500,0,15715.44,0.0,6850,0,None,18708.05,0.0,50226.51,57076.51,"A: single parent, 1 child",enrolled,0.276,False
+92000,0,15715.44,0.0,6850,0,None,18886.05,0.0,50548.51,57398.51,"A: single parent, 1 child",enrolled,0.356,False
+92500,0,15715.44,0.0,6850,0,None,19074.05,0.0,50860.51,57710.51,"A: single parent, 1 child",enrolled,0.376,False
+93000,0,15715.44,0.0,6850,0,None,19262.05,0.0,51172.51,58022.51,"A: single parent, 1 child",enrolled,0.376,False
+93500,0,15715.44,0.0,6850,0,None,19450.05,0.0,51484.51,58334.51,"A: single parent, 1 child",enrolled,0.376,False
+94000,0,15715.44,0.0,6850,0,None,19638.05,0.0,51796.51,58646.51,"A: single parent, 1 child",enrolled,0.376,False
+94500,0,15715.44,0.0,6850,0,None,19826.05,0.0,52108.51,58958.51,"A: single parent, 1 child",enrolled,0.376,False
+95000,0,15715.44,0.0,6850,0,None,20014.05,0.0,52420.51,59270.51,"A: single parent, 1 child",enrolled,0.376,False
+95500,0,15715.44,0.0,6850,0,None,20202.05,0.0,52732.51,59582.51,"A: single parent, 1 child",enrolled,0.376,False
+96000,0,15715.44,0.0,6850,0,None,20390.05,0.0,53044.51,59894.51,"A: single parent, 1 child",enrolled,0.376,False
+96500,0,15715.44,0.0,6850,0,None,20578.05,0.0,53356.51,60206.51,"A: single parent, 1 child",enrolled,0.376,False
+97000,0,15715.44,0.0,6850,0,None,20766.05,0.0,53668.51,60518.51,"A: single parent, 1 child",enrolled,0.376,False
+97500,0,15715.44,0.0,6850,0,None,20954.05,0.0,53980.51,60830.51,"A: single parent, 1 child",enrolled,0.376,False
+98000,0,15715.44,0.0,6850,0,None,21142.05,0.0,54292.51,61142.51,"A: single parent, 1 child",enrolled,0.376,False
+98500,0,15715.44,0.0,6850,0,None,21330.05,0.0,54604.51,61454.51,"A: single parent, 1 child",enrolled,0.376,False
+99000,0,15715.44,0.0,6850,0,None,21518.05,0.0,54916.51,61766.51,"A: single parent, 1 child",enrolled,0.376,False
+99500,0,15715.44,0.0,6850,0,None,21706.05,0.0,55228.51,62078.51,"A: single parent, 1 child",enrolled,0.376,False
+100000,0,15715.44,0.0,6850,0,None,21894.05,0.0,55540.51,62390.51,"A: single parent, 1 child",enrolled,0.376,False
+100500,0,15715.44,0.0,6850,0,None,22082.05,0.0,55852.51,62702.51,"A: single parent, 1 child",enrolled,0.376,False
+101000,0,15715.44,0.0,6850,0,None,22270.05,0.0,56164.51,63014.51,"A: single parent, 1 child",enrolled,0.376,False
+101500,0,15715.44,0.0,6850,0,None,22458.05,0.0,56476.51,63326.51,"A: single parent, 1 child",enrolled,0.376,False
+102000,0,15715.44,0.0,6850,0,None,22646.05,0.0,56788.51,63638.51,"A: single parent, 1 child",enrolled,0.376,False
+102500,0,15715.44,0.0,6850,0,None,22834.05,0.0,57100.51,63950.51,"A: single parent, 1 child",enrolled,0.376,False
+103000,0,15715.44,0.0,6850,0,None,23022.05,0.0,57412.51,64262.51,"A: single parent, 1 child",enrolled,0.376,False
+103500,0,15715.44,0.0,6850,0,None,23210.05,0.0,57724.51,64574.51,"A: single parent, 1 child",enrolled,0.376,False
+104000,0,15715.44,0.0,6850,0,None,23398.05,0.0,58036.51,64886.51,"A: single parent, 1 child",enrolled,0.376,False
+104500,0,15715.44,0.0,6850,0,None,23586.05,0.0,58348.51,65198.51,"A: single parent, 1 child",enrolled,0.376,False
+105000,0,15715.44,0.0,6850,0,None,23774.05,0.0,58660.51,65510.51,"A: single parent, 1 child",enrolled,0.376,False
+105500,0,15715.44,0.0,6850,0,None,23962.05,0.0,58972.51,65822.51,"A: single parent, 1 child",enrolled,0.376,False
+106000,0,15715.44,0.0,6850,0,None,24150.05,0.0,59284.51,66134.51,"A: single parent, 1 child",enrolled,0.376,False
+106500,0,15715.44,0.0,6850,0,None,24338.05,0.0,59596.51,66446.51,"A: single parent, 1 child",enrolled,0.376,False
+107000,0,15715.44,0.0,6850,0,None,24526.05,0.0,59908.51,66758.51,"A: single parent, 1 child",enrolled,0.376,False
+107500,0,15715.44,0.0,6850,0,None,24714.05,0.0,60220.51,67070.51,"A: single parent, 1 child",enrolled,0.376,False
+108000,0,15715.44,0.0,6850,0,None,24902.05,0.0,60532.51,67382.51,"A: single parent, 1 child",enrolled,0.376,False
+108500,0,15715.44,0.0,6850,0,None,25090.05,0.0,60844.51,67694.51,"A: single parent, 1 child",enrolled,0.376,False
+109000,0,15715.44,0.0,6850,0,None,25278.05,0.0,61156.51,68006.51,"A: single parent, 1 child",enrolled,0.376,False
+109500,0,15715.44,0.0,6850,0,None,25466.05,0.0,61468.51,68318.51,"A: single parent, 1 child",enrolled,0.376,False
+110000,0,15715.44,0.0,6850,0,None,25654.05,0.0,61780.51,68630.51,"A: single parent, 1 child",enrolled,0.376,False
+110500,0,15715.44,0.0,6850,0,None,25842.05,0.0,62092.51,68942.51,"A: single parent, 1 child",enrolled,0.376,False
+111000,0,15715.44,0.0,6850,0,None,26030.05,0.0,62404.51,69254.51,"A: single parent, 1 child",enrolled,0.376,False
+111500,0,15715.44,0.0,6850,0,None,26218.05,0.0,62716.51,69566.51,"A: single parent, 1 child",enrolled,0.376,False
+112000,0,15715.44,0.0,6850,0,None,26406.05,0.0,63028.51,69878.51,"A: single parent, 1 child",enrolled,0.376,False
+112500,0,15715.44,0.0,6850,0,None,26594.05,0.0,63340.51,70190.51,"A: single parent, 1 child",enrolled,0.376,False
+113000,0,15715.44,0.0,6850,0,None,26782.05,0.0,63652.51,70502.51,"A: single parent, 1 child",enrolled,0.376,False
+113500,0,15715.44,0.0,6850,0,None,26970.05,0.0,63964.51,70814.51,"A: single parent, 1 child",enrolled,0.376,False
+114000,0,15715.44,0.0,6850,0,None,27158.05,0.0,64276.51,71126.51,"A: single parent, 1 child",enrolled,0.376,False
+114500,0,15715.44,0.0,6850,0,None,27346.05,0.0,64588.51,71438.51,"A: single parent, 1 child",enrolled,0.376,False
+115000,0,15715.44,0.0,6850,0,None,27534.05,0.0,64900.51,71750.51,"A: single parent, 1 child",enrolled,0.376,False
+115500,0,15715.44,0.0,6850,0,None,27722.05,0.0,65212.51,72062.51,"A: single parent, 1 child",enrolled,0.376,False
+116000,0,15715.44,0.0,6850,0,None,27910.05,0.0,65524.51,72374.51,"A: single parent, 1 child",enrolled,0.376,False
+116500,0,15715.44,0.0,6850,0,None,28098.05,0.0,65836.51,72686.51,"A: single parent, 1 child",enrolled,0.376,False
+117000,0,15715.44,0.0,6850,0,None,28286.05,0.0,66148.51,72998.51,"A: single parent, 1 child",enrolled,0.376,False
+117500,0,15715.44,0.0,6850,0,None,28474.05,0.0,66460.51,73310.51,"A: single parent, 1 child",enrolled,0.376,False
+118000,0,15715.44,0.0,6850,0,None,28662.05,0.0,66772.51,73622.51,"A: single parent, 1 child",enrolled,0.376,False
+118500,0,15715.44,0.0,6850,0,None,28850.05,0.0,67084.51,73934.51,"A: single parent, 1 child",enrolled,0.376,False
+119000,0,15715.44,0.0,6850,0,None,29038.05,0.0,67396.51,74246.51,"A: single parent, 1 child",enrolled,0.376,False
+119500,0,15715.44,0.0,6850,0,None,29226.05,0.0,67708.51,74558.51,"A: single parent, 1 child",enrolled,0.376,False
+120000,0,15715.44,0.0,6850,0,None,29414.05,0.0,68020.51,74870.51,"A: single parent, 1 child",enrolled,0.376,False
+0,6744,0.0,0.0,0,1,Medicaid,0.0,0.0,6744.0,6744.0,"A: single parent, 1 child",frozen out,,False
+500,6744,251.85,0.0,0,1,Medicaid,38.25,246.51,7200.41,7200.41,"A: single parent, 1 child",frozen out,0.087,False
+1000,6744,503.7,0.0,0,1,Medicaid,76.5,493.02,7656.82,7656.82,"A: single parent, 1 child",frozen out,0.087,False
+1500,6744,755.55,0.0,0,1,Medicaid,114.75,739.53,8113.23,8113.23,"A: single parent, 1 child",frozen out,0.087,False
+2000,6744,1007.4,0.0,0,1,Medicaid,153.0,986.04,8569.64,8569.64,"A: single parent, 1 child",frozen out,0.087,False
+2500,6744,1259.25,0.0,0,1,Medicaid,191.25,1232.56,9026.06,9026.06,"A: single parent, 1 child",frozen out,0.087,False
+3000,6744,1511.1,0.0,0,1,Medicaid,229.5,1554.07,9557.47,9557.47,"A: single parent, 1 child",frozen out,-0.063,False
+3500,6744,1762.95,0.0,0,1,Medicaid,267.75,1875.58,10088.88,10088.88,"A: single parent, 1 child",frozen out,-0.063,False
+4000,6744,2014.8,0.0,0,1,Medicaid,306.0,2197.09,10620.29,10620.29,"A: single parent, 1 child",frozen out,-0.063,False
+4500,6744,2266.65,0.0,0,1,Medicaid,344.25,2518.6,11151.7,11151.7,"A: single parent, 1 child",frozen out,-0.063,False
+5000,6744,2518.5,0.0,0,1,Medicaid,382.5,2840.11,11683.11,11683.11,"A: single parent, 1 child",frozen out,-0.063,False
+5500,6744,2770.35,0.0,0,1,Medicaid,420.75,3161.62,12214.52,12214.52,"A: single parent, 1 child",frozen out,-0.063,False
+6000,6744,3022.2,0.0,0,1,Medicaid,459.0,3483.13,12745.93,12745.93,"A: single parent, 1 child",frozen out,-0.063,False
+6500,6744,3274.05,0.0,0,1,Medicaid,497.25,3804.64,13277.34,13277.34,"A: single parent, 1 child",frozen out,-0.063,False
+7000,6744,3525.9,0.0,0,1,Medicaid,535.5,4126.16,13808.76,13808.76,"A: single parent, 1 child",frozen out,-0.063,False
+7500,6744,3777.75,0.0,0,1,Medicaid,573.75,4447.67,14340.17,14340.17,"A: single parent, 1 child",frozen out,-0.063,False
+8000,6744,4029.6,0.0,0,1,Medicaid,612.0,4769.18,14871.58,14871.58,"A: single parent, 1 child",frozen out,-0.063,False
+8500,6744,4281.45,0.0,0,1,Medicaid,650.25,5090.69,15402.99,15402.99,"A: single parent, 1 child",frozen out,-0.063,False
+9000,6744,4533.3,0.0,0,1,Medicaid,688.5,5412.2,15934.4,15934.4,"A: single parent, 1 child",frozen out,-0.063,False
+9500,6744,4785.15,0.0,0,1,Medicaid,726.75,5733.71,16465.81,16465.81,"A: single parent, 1 child",frozen out,-0.063,False
+10000,6744,5037.0,0.0,0,1,Medicaid,765.0,6055.22,16997.22,16997.22,"A: single parent, 1 child",frozen out,-0.063,False
+10500,6744,5288.85,0.0,0,1,Medicaid,803.25,6376.73,17528.63,17528.63,"A: single parent, 1 child",frozen out,-0.063,False
+11000,6744,5540.7,0.0,0,1,Medicaid,841.5,6698.25,18060.05,18060.05,"A: single parent, 1 child",frozen out,-0.063,False
+11500,6744,5792.55,0.0,0,1,Medicaid,879.75,7019.76,18591.46,18591.46,"A: single parent, 1 child",frozen out,-0.063,False
+12000,6744,6044.4,0.0,0,1,Medicaid,918.0,7341.27,19122.87,19122.87,"A: single parent, 1 child",frozen out,-0.063,False
+12500,6744,6296.25,0.0,0,1,Medicaid,956.25,7662.78,19654.28,19654.28,"A: single parent, 1 child",frozen out,-0.063,False
+13000,6744,6548.1,0.0,0,1,Medicaid,994.5,7984.29,20185.69,20185.69,"A: single parent, 1 child",frozen out,-0.063,False
+13500,6744,6799.95,0.0,0,1,Medicaid,1053.55,8069.15,20459.65,20459.65,"A: single parent, 1 child",frozen out,0.452,False
+14000,6744,7051.8,0.0,0,1,Medicaid,1117.8,8119.15,20693.55,20693.55,"A: single parent, 1 child",frozen out,0.532,False
+14500,6744,7303.65,0.0,0,1,Medicaid,1186.05,8119.15,20873.45,20873.45,"A: single parent, 1 child",frozen out,0.64,False
+15000,6744,7555.5,0.0,0,1,Medicaid,1255.3,8119.15,21052.35,21052.35,"A: single parent, 1 child",frozen out,0.642,False
+15500,6744,7807.35,0.0,0,1,Medicaid,1328.55,8119.15,21227.25,21227.25,"A: single parent, 1 child",frozen out,0.65,False
+16000,6744,8059.2,0.0,0,1,Medicaid,1402.8,8119.15,21401.15,21401.15,"A: single parent, 1 child",frozen out,0.652,False
+16500,6744,8311.05,0.0,0,1,Medicaid,1480.05,8119.15,21572.05,21572.05,"A: single parent, 1 child",frozen out,0.658,False
+17000,6744,8562.9,0.0,0,1,Medicaid,1558.05,8119.15,21742.2,21742.2,"A: single parent, 1 child",frozen out,0.66,False
+17500,6744,8814.75,0.0,0,1,Medicaid,1636.05,8119.15,21912.35,21912.35,"A: single parent, 1 child",frozen out,0.66,False
+18000,6744,9066.6,0.0,0,1,Medicaid,1714.05,8119.15,22082.5,22082.5,"A: single parent, 1 child",frozen out,0.66,False
+18500,6744,9318.45,0.0,0,1,Medicaid,1792.05,8119.15,22252.65,22252.65,"A: single parent, 1 child",frozen out,0.66,False
+19000,6744,9570.3,0.0,0,1,Medicaid,1870.05,8119.15,22422.8,22422.8,"A: single parent, 1 child",frozen out,0.66,False
+19500,6744,9822.15,0.0,0,1,Medicaid,1948.05,8119.15,22592.95,22592.95,"A: single parent, 1 child",frozen out,0.66,False
+20000,6744,10074.0,0.0,0,1,Medicaid,2026.05,8119.15,22763.1,22763.1,"A: single parent, 1 child",frozen out,0.66,False
+20500,6744,10325.85,0.0,0,1,Medicaid,2104.05,8119.15,22933.25,22933.25,"A: single parent, 1 child",frozen out,0.66,False
+21000,6744,10577.7,0.0,0,1,Medicaid,2182.05,8119.15,23103.4,23103.4,"A: single parent, 1 child",frozen out,0.66,False
+21500,6744,10829.55,0.0,0,1,Medicaid,2260.05,8119.15,23273.55,23273.55,"A: single parent, 1 child",frozen out,0.66,False
+22000,6744,11081.4,0.0,0,1,Medicaid,2338.05,8119.15,23443.7,23443.7,"A: single parent, 1 child",frozen out,0.66,False
+22500,6744,11333.25,0.0,0,1,Medicaid,2416.05,8119.15,23613.85,23613.85,"A: single parent, 1 child",frozen out,0.66,False
+23000,6744,11585.1,0.0,0,1,Medicaid,2494.05,8119.15,23784.0,23784.0,"A: single parent, 1 child",frozen out,0.66,False
+23500,6744,11836.95,0.0,0,1,Medicaid,2572.05,8119.15,23954.15,23954.15,"A: single parent, 1 child",frozen out,0.66,False
+24000,6744,12088.8,0.0,0,1,Medicaid,2650.05,8093.66,24098.81,24098.81,"A: single parent, 1 child",frozen out,0.711,False
+24500,6744,12340.65,0.0,0,1,Medicaid,2728.05,7977.8,24153.1,24153.1,"A: single parent, 1 child",frozen out,0.891,False
+25000,6744,12592.5,0.0,0,1,Medicaid,2806.05,7861.95,24207.4,24207.4,"A: single parent, 1 child",frozen out,0.891,False
+25500,6744,12844.35,0.0,0,1,Medicaid,2884.05,7746.09,24261.69,24261.69,"A: single parent, 1 child",frozen out,0.891,False
+26000,6744,13096.2,0.0,0,1,Medicaid,2962.05,7630.24,24315.99,24315.99,"A: single parent, 1 child",frozen out,0.891,False
+26500,6744,13348.05,0.0,0,1,Medicaid,3040.05,7514.38,24370.28,24370.28,"A: single parent, 1 child",frozen out,0.891,False
+27000,6744,13599.9,0.0,0,1,Medicaid,3118.05,7398.52,24424.57,24424.57,"A: single parent, 1 child",frozen out,0.891,False
+27500,6744,13851.75,0.0,0,1,Medicaid,3196.05,7282.67,24478.87,24478.87,"A: single parent, 1 child",frozen out,0.891,False
+28000,6744,14103.6,0.0,0,1,Medicaid,3274.05,7166.81,24533.16,24533.16,"A: single parent, 1 child",frozen out,0.891,False
+28500,6744,14355.45,0.0,0,1,Medicaid,3352.05,7050.95,24587.45,24587.45,"A: single parent, 1 child",frozen out,0.891,False
+29000,6744,14607.3,0.0,0,1,Medicaid,3430.05,6935.1,24641.75,24641.75,"A: single parent, 1 child",frozen out,0.891,False
+29500,6744,14859.15,0.0,0,1,Medicaid,3508.05,6784.24,24661.04,24661.04,"A: single parent, 1 child",frozen out,0.961,False
+30000,6744,15111.0,0.0,1440,0,Medicaid,3586.05,6618.38,23225.33,24665.33,"A: single parent, 1 child",frozen out,3.871,True
+30500,6744,15362.85,0.0,1440,0,Medicaid,3664.05,6452.53,23229.63,24669.63,"A: single parent, 1 child",frozen out,0.991,False
+31000,6744,15614.7,0.0,1440,0,MCHP,3742.05,6286.67,23233.92,24673.92,"A: single parent, 1 child",frozen out,0.991,False
+31500,6744,15715.44,0.0,1440,0,MCHP,3820.05,6120.81,23389.32,24829.32,"A: single parent, 1 child",frozen out,0.689,False
+32000,6744,15715.44,0.0,1440,0,MCHP,3898.05,5954.96,23645.47,25085.47,"A: single parent, 1 child",frozen out,0.488,False
+32500,6744,15715.44,0.0,1440,0,MCHP,3976.05,5789.1,23901.61,25341.61,"A: single parent, 1 child",frozen out,0.488,False
+33000,6744,15715.44,0.0,1440,0,MCHP,4054.05,5623.24,24157.75,25597.75,"A: single parent, 1 child",frozen out,0.488,False
+33500,6744,15715.44,0.0,1440,0,MCHP,4132.05,5457.39,24413.9,25853.9,"A: single parent, 1 child",frozen out,0.488,False
+34000,6744,15715.44,0.0,1440,0,MCHP,4210.05,5291.53,24670.04,26110.04,"A: single parent, 1 child",frozen out,0.488,False
+34500,6720,15715.44,0.0,1440,0,MCHP,4288.05,5125.67,24902.18,26342.18,"A: single parent, 1 child",frozen out,0.536,False
+35000,6600,15715.44,0.0,1440,0,MCHP,4366.05,4959.82,25038.33,26478.33,"A: single parent, 1 child",frozen out,0.728,False
+35500,6480,15715.44,0.0,1440,0,MCHP,4444.05,4793.96,25174.47,26614.47,"A: single parent, 1 child",frozen out,0.728,False
+36000,6360,15715.44,0.0,1440,0,MCHP,4522.05,4628.1,25310.61,26750.61,"A: single parent, 1 child",frozen out,0.728,False
+36500,6240,15715.44,0.0,1440,0,MCHP,4600.05,4462.25,25446.76,26886.76,"A: single parent, 1 child",frozen out,0.728,False
+37000,6120,15715.44,0.0,1440,0,MCHP,4678.05,4296.39,25582.9,27022.9,"A: single parent, 1 child",frozen out,0.728,False
+37500,6000,15715.44,0.0,1440,0,MCHP,4756.05,4130.53,25719.04,27159.04,"A: single parent, 1 child",frozen out,0.728,False
+38000,5880,15715.44,0.0,1440,0,MCHP,4834.05,3964.68,25855.19,27295.19,"A: single parent, 1 child",frozen out,0.728,False
+38500,5760,15715.44,0.0,1440,0,MCHP,4912.05,3798.82,25991.33,27431.33,"A: single parent, 1 child",frozen out,0.728,False
+39000,5640,15715.44,0.0,1440,0,MCHP,4990.05,3632.96,26127.47,27567.47,"A: single parent, 1 child",frozen out,0.728,False
+39500,5520,15715.44,0.0,1440,0,MCHP,5068.05,3467.11,26263.62,27703.62,"A: single parent, 1 child",frozen out,0.728,False
+40000,5400,15715.44,0.0,1440,0,MCHP,5146.05,3301.25,26399.76,27839.76,"A: single parent, 1 child",frozen out,0.728,False
+40500,5280,15715.44,0.0,1440,0,MCHP,5224.05,3135.39,26535.9,27975.9,"A: single parent, 1 child",frozen out,0.728,False
+41000,5160,15715.44,0.0,1440,0,MCHP,5302.05,2969.54,26672.05,28112.05,"A: single parent, 1 child",frozen out,0.728,False
+41500,5040,15715.44,0.0,1440,0,MCHP,5380.05,2803.68,26808.19,28248.19,"A: single parent, 1 child",frozen out,0.728,False
+42000,4920,15715.44,0.0,1440,0,MCHP,5458.05,2634.82,26941.33,28381.33,"A: single parent, 1 child",frozen out,0.734,False
+42500,4800,15715.44,0.0,1440,0,MCHP,5536.05,2458.97,27067.48,28507.48,"A: single parent, 1 child",frozen out,0.748,False
+43000,4680,15715.44,0.0,1440,0,MCHP,5614.05,2283.11,27193.62,28633.62,"A: single parent, 1 child",frozen out,0.748,False
+43500,0,15715.44,0.0,1440,0,MCHP,5692.05,2107.25,22759.76,24199.76,"A: single parent, 1 child",frozen out,9.868,True
+44000,0,15715.44,0.0,1440,0,MCHP,5770.05,1931.4,23005.91,24445.91,"A: single parent, 1 child",frozen out,0.508,False
+44500,0,15715.44,0.0,1440,0,MCHP,5848.05,1755.54,23252.05,24692.05,"A: single parent, 1 child",frozen out,0.508,False
+45000,0,15715.44,0.0,1440,0,MCHP,5926.05,1579.68,23498.19,24938.19,"A: single parent, 1 child",frozen out,0.508,False
+45500,0,15715.44,0.0,1440,0,MCHP,6012.05,1411.83,23744.34,25184.34,"A: single parent, 1 child",frozen out,0.508,False
+46000,0,15715.44,0.0,2088,0,MCHP Premium,6150.05,1295.97,23342.48,25430.48,"A: single parent, 1 child",frozen out,1.804,True
+46500,0,15715.44,0.0,2088,0,MCHP Premium,6288.05,1180.12,23588.63,25676.63,"A: single parent, 1 child",frozen out,0.508,False
+47000,0,15715.44,0.0,2088,0,MCHP Premium,6426.05,1064.26,23834.77,25922.77,"A: single parent, 1 child",frozen out,0.508,False
+47500,0,15715.44,0.0,2088,0,MCHP Premium,6564.05,948.4,24080.91,26168.91,"A: single parent, 1 child",frozen out,0.508,False
+48000,0,15715.44,0.0,2088,0,MCHP Premium,6702.05,832.55,24327.06,26415.06,"A: single parent, 1 child",frozen out,0.508,False
+48500,0,15715.44,0.0,2088,0,MCHP Premium,6840.05,716.69,24573.2,26661.2,"A: single parent, 1 child",frozen out,0.508,False
+49000,0,15715.44,0.0,2088,0,MCHP Premium,6978.05,600.83,24819.34,26907.34,"A: single parent, 1 child",frozen out,0.508,False
+49500,0,15715.44,0.0,2088,0,MCHP Premium,7116.05,484.98,25065.49,27153.49,"A: single parent, 1 child",frozen out,0.508,False
+50000,0,15715.44,0.0,2088,0,MCHP Premium,7254.05,369.12,25311.63,27399.63,"A: single parent, 1 child",frozen out,0.508,False
+50500,0,15715.44,0.0,2088,0,MCHP Premium,7392.05,253.26,25557.77,27645.77,"A: single parent, 1 child",frozen out,0.508,False
+51000,0,15715.44,0.0,2088,0,MCHP Premium,7530.05,137.41,25803.92,27891.92,"A: single parent, 1 child",frozen out,0.508,False
+51500,0,15715.44,0.0,2088,0,MCHP Premium,7668.05,21.55,26050.06,28138.06,"A: single parent, 1 child",frozen out,0.508,False
+52000,0,15715.44,0.0,2088,0,MCHP Premium,7806.05,0.0,26390.51,28478.51,"A: single parent, 1 child",frozen out,0.319,False
+52500,0,15715.44,0.0,2088,0,MCHP Premium,7944.05,0.0,26752.51,28840.51,"A: single parent, 1 child",frozen out,0.276,False
+53000,0,15715.44,0.0,2088,0,MCHP Premium,8082.05,0.0,27114.51,29202.51,"A: single parent, 1 child",frozen out,0.276,False
+53500,0,15715.44,0.0,2088,0,MCHP Premium,8220.05,0.0,27476.51,29564.51,"A: single parent, 1 child",frozen out,0.276,False
+54000,0,15715.44,0.0,2088,0,MCHP Premium,8358.05,0.0,27838.51,29926.51,"A: single parent, 1 child",frozen out,0.276,False
+54500,0,15715.44,0.0,2088,0,MCHP Premium,8496.05,0.0,28200.51,30288.51,"A: single parent, 1 child",frozen out,0.276,False
+55000,0,15715.44,0.0,2088,0,MCHP Premium,8634.05,0.0,28562.51,30650.51,"A: single parent, 1 child",frozen out,0.276,False
+55500,0,15715.44,0.0,2088,0,MCHP Premium,8772.05,0.0,28924.51,31012.51,"A: single parent, 1 child",frozen out,0.276,False
+56000,0,15715.44,0.0,2088,0,MCHP Premium,8910.05,0.0,29286.51,31374.51,"A: single parent, 1 child",frozen out,0.276,False
+56500,0,15715.44,0.0,2088,0,MCHP Premium,9048.05,0.0,29648.51,31736.51,"A: single parent, 1 child",frozen out,0.276,False
+57000,0,15715.44,0.0,2088,0,MCHP Premium,9186.05,0.0,30010.51,32098.51,"A: single parent, 1 child",frozen out,0.276,False
+57500,0,15715.44,0.0,2244,0,MCHP Premium,9324.05,0.0,30216.51,32460.51,"A: single parent, 1 child",frozen out,0.588,False
+58000,0,15715.44,0.0,2244,0,MCHP Premium,9462.05,0.0,30578.51,32822.51,"A: single parent, 1 child",frozen out,0.276,False
+58500,0,15715.44,0.0,2244,0,MCHP Premium,9600.05,0.0,30940.51,33184.51,"A: single parent, 1 child",frozen out,0.276,False
+59000,0,15715.44,0.0,2244,0,MCHP Premium,9738.05,0.0,31302.51,33546.51,"A: single parent, 1 child",frozen out,0.276,False
+59500,0,15715.44,0.0,2244,0,MCHP Premium,9876.05,0.0,31664.51,33908.51,"A: single parent, 1 child",frozen out,0.276,False
+60000,0,15715.44,0.0,2244,0,MCHP Premium,10014.05,0.0,32026.51,34270.51,"A: single parent, 1 child",frozen out,0.276,False
+60500,0,15715.44,0.0,2244,0,MCHP Premium,10152.05,0.0,32388.51,34632.51,"A: single parent, 1 child",frozen out,0.276,False
+61000,0,15715.44,0.0,2244,0,MCHP Premium,10290.05,0.0,32750.51,34994.51,"A: single parent, 1 child",frozen out,0.276,False
+61500,0,15715.44,0.0,2244,0,MCHP Premium,10428.05,0.0,33112.51,35356.51,"A: single parent, 1 child",frozen out,0.276,False
+62000,0,15715.44,0.0,2244,0,MCHP Premium,10566.05,0.0,33474.51,35718.51,"A: single parent, 1 child",frozen out,0.276,False
+62500,0,15715.44,0.0,2244,0,MCHP Premium,10704.05,0.0,33836.51,36080.51,"A: single parent, 1 child",frozen out,0.276,False
+63000,0,15715.44,0.0,2244,0,MCHP Premium,10842.05,0.0,34198.51,36442.51,"A: single parent, 1 child",frozen out,0.276,False
+63500,0,15715.44,0.0,2244,0,MCHP Premium,10980.05,0.0,34560.51,36804.51,"A: single parent, 1 child",frozen out,0.276,False
+64000,0,15715.44,0.0,2244,0,MCHP Premium,11118.05,0.0,34922.51,37166.51,"A: single parent, 1 child",frozen out,0.276,False
+64500,0,15715.44,0.0,2244,0,MCHP Premium,11256.05,0.0,35284.51,37528.51,"A: single parent, 1 child",frozen out,0.276,False
+65000,0,15715.44,0.0,2244,0,MCHP Premium,11394.05,0.0,35646.51,37890.51,"A: single parent, 1 child",frozen out,0.276,False
+65500,0,15715.44,0.0,2244,0,MCHP Premium,11532.05,0.0,36008.51,38252.51,"A: single parent, 1 child",frozen out,0.276,False
+66000,0,15715.44,0.0,2244,0,MCHP Premium,11670.05,0.0,36370.51,38614.51,"A: single parent, 1 child",frozen out,0.276,False
+66500,0,15715.44,0.0,2244,0,MCHP Premium,11808.05,0.0,36732.51,38976.51,"A: single parent, 1 child",frozen out,0.276,False
+67000,0,15715.44,0.0,2244,0,MCHP Premium,11946.05,0.0,37094.51,39338.51,"A: single parent, 1 child",frozen out,0.276,False
+67500,0,15715.44,0.0,2244,0,MCHP Premium,12084.05,0.0,37456.51,39700.51,"A: single parent, 1 child",frozen out,0.276,False
+68000,0,15715.44,0.0,2244,0,MCHP Premium,12222.05,0.0,37818.51,40062.51,"A: single parent, 1 child",frozen out,0.276,False
+68500,0,15715.44,0.0,2244,0,MCHP Premium,12360.05,0.0,38180.51,40424.51,"A: single parent, 1 child",frozen out,0.276,False
+69000,0,15715.44,0.0,2244,0,MCHP Premium,12498.05,0.0,38542.51,40786.51,"A: single parent, 1 child",frozen out,0.276,False
+69500,0,15715.44,0.0,2244,0,MCHP Premium,12636.05,0.0,38904.51,41148.51,"A: single parent, 1 child",frozen out,0.276,False
+70000,0,15715.44,0.0,6850,0,None,12774.05,0.0,34660.51,41510.51,"A: single parent, 1 child",frozen out,9.488,True
+70500,0,15715.44,0.0,6850,0,None,12912.05,0.0,35022.51,41872.51,"A: single parent, 1 child",frozen out,0.276,False
+71000,0,15715.44,0.0,6850,0,None,13050.05,0.0,35384.51,42234.51,"A: single parent, 1 child",frozen out,0.276,False
+71500,0,15715.44,0.0,6850,0,None,13188.05,0.0,35746.51,42596.51,"A: single parent, 1 child",frozen out,0.276,False
+72000,0,15715.44,0.0,6850,0,None,13326.05,0.0,36108.51,42958.51,"A: single parent, 1 child",frozen out,0.276,False
+72500,0,15715.44,0.0,6850,0,None,13464.05,0.0,36470.51,43320.51,"A: single parent, 1 child",frozen out,0.276,False
+73000,0,15715.44,0.0,6850,0,None,13602.05,0.0,36832.51,43682.51,"A: single parent, 1 child",frozen out,0.276,False
+73500,0,15715.44,0.0,6850,0,None,13740.05,0.0,37194.51,44044.51,"A: single parent, 1 child",frozen out,0.276,False
+74000,0,15715.44,0.0,6850,0,None,13878.05,0.0,37556.51,44406.51,"A: single parent, 1 child",frozen out,0.276,False
+74500,0,15715.44,0.0,6850,0,None,14016.05,0.0,37918.51,44768.51,"A: single parent, 1 child",frozen out,0.276,False
+75000,0,15715.44,0.0,6850,0,None,14154.05,0.0,38280.51,45130.51,"A: single parent, 1 child",frozen out,0.276,False
+75500,0,15715.44,0.0,6850,0,None,14292.05,0.0,38642.51,45492.51,"A: single parent, 1 child",frozen out,0.276,False
+76000,0,15715.44,0.0,6850,0,None,14430.05,0.0,39004.51,45854.51,"A: single parent, 1 child",frozen out,0.276,False
+76500,0,15715.44,0.0,6850,0,None,14568.05,0.0,39366.51,46216.51,"A: single parent, 1 child",frozen out,0.276,False
+77000,0,15715.44,0.0,6850,0,None,14706.05,0.0,39728.51,46578.51,"A: single parent, 1 child",frozen out,0.276,False
+77500,0,15715.44,0.0,6850,0,None,14844.05,0.0,40090.51,46940.51,"A: single parent, 1 child",frozen out,0.276,False
+78000,0,15715.44,0.0,6850,0,None,14982.05,0.0,40452.51,47302.51,"A: single parent, 1 child",frozen out,0.276,False
+78500,0,15715.44,0.0,6850,0,None,15120.05,0.0,40814.51,47664.51,"A: single parent, 1 child",frozen out,0.276,False
+79000,0,15715.44,0.0,6850,0,None,15258.05,0.0,41176.51,48026.51,"A: single parent, 1 child",frozen out,0.276,False
+79500,0,15715.44,0.0,6850,0,None,15396.05,0.0,41538.51,48388.51,"A: single parent, 1 child",frozen out,0.276,False
+80000,0,15715.44,0.0,6850,0,None,15534.05,0.0,41900.51,48750.51,"A: single parent, 1 child",frozen out,0.276,False
+80500,0,15715.44,0.0,6850,0,None,15672.05,0.0,42262.51,49112.51,"A: single parent, 1 child",frozen out,0.276,False
+81000,0,15715.44,0.0,6850,0,None,15810.05,0.0,42624.51,49474.51,"A: single parent, 1 child",frozen out,0.276,False
+81500,0,15715.44,0.0,6850,0,None,15948.05,0.0,42986.51,49836.51,"A: single parent, 1 child",frozen out,0.276,False
+82000,0,15715.44,0.0,6850,0,None,16086.05,0.0,43348.51,50198.51,"A: single parent, 1 child",frozen out,0.276,False
+82500,0,15715.44,0.0,6850,0,None,16224.05,0.0,43710.51,50560.51,"A: single parent, 1 child",frozen out,0.276,False
+83000,0,15715.44,0.0,6850,0,None,16362.05,0.0,44072.51,50922.51,"A: single parent, 1 child",frozen out,0.276,False
+83500,0,15715.44,0.0,6850,0,None,16500.05,0.0,44434.51,51284.51,"A: single parent, 1 child",frozen out,0.276,False
+84000,0,15715.44,0.0,6850,0,None,16638.05,0.0,44796.51,51646.51,"A: single parent, 1 child",frozen out,0.276,False
+84500,0,15715.44,0.0,6850,0,None,16776.05,0.0,45158.51,52008.51,"A: single parent, 1 child",frozen out,0.276,False
+85000,0,15715.44,0.0,6850,0,None,16914.05,0.0,45520.51,52370.51,"A: single parent, 1 child",frozen out,0.276,False
+85500,0,15715.44,0.0,6850,0,None,17052.05,0.0,45882.51,52732.51,"A: single parent, 1 child",frozen out,0.276,False
+86000,0,15715.44,0.0,6850,0,None,17190.05,0.0,46244.51,53094.51,"A: single parent, 1 child",frozen out,0.276,False
+86500,0,15715.44,0.0,6850,0,None,17328.05,0.0,46606.51,53456.51,"A: single parent, 1 child",frozen out,0.276,False
+87000,0,15715.44,0.0,6850,0,None,17466.05,0.0,46968.51,53818.51,"A: single parent, 1 child",frozen out,0.276,False
+87500,0,15715.44,0.0,6850,0,None,17604.05,0.0,47330.51,54180.51,"A: single parent, 1 child",frozen out,0.276,False
+88000,0,15715.44,0.0,6850,0,None,17742.05,0.0,47692.51,54542.51,"A: single parent, 1 child",frozen out,0.276,False
+88500,0,15715.44,0.0,6850,0,None,17880.05,0.0,48054.51,54904.51,"A: single parent, 1 child",frozen out,0.276,False
+89000,0,15715.44,0.0,6850,0,None,18018.05,0.0,48416.51,55266.51,"A: single parent, 1 child",frozen out,0.276,False
+89500,0,15715.44,0.0,6850,0,None,18156.05,0.0,48778.51,55628.51,"A: single parent, 1 child",frozen out,0.276,False
+90000,0,15715.44,0.0,6850,0,None,18294.05,0.0,49140.51,55990.51,"A: single parent, 1 child",frozen out,0.276,False
+90500,0,15715.44,0.0,6850,0,None,18432.05,0.0,49502.51,56352.51,"A: single parent, 1 child",frozen out,0.276,False
+91000,0,15715.44,0.0,6850,0,None,18570.05,0.0,49864.51,56714.51,"A: single parent, 1 child",frozen out,0.276,False
+91500,0,15715.44,0.0,6850,0,None,18708.05,0.0,50226.51,57076.51,"A: single parent, 1 child",frozen out,0.276,False
+92000,0,15715.44,0.0,6850,0,None,18886.05,0.0,50548.51,57398.51,"A: single parent, 1 child",frozen out,0.356,False
+92500,0,15715.44,0.0,6850,0,None,19074.05,0.0,50860.51,57710.51,"A: single parent, 1 child",frozen out,0.376,False
+93000,0,15715.44,0.0,6850,0,None,19262.05,0.0,51172.51,58022.51,"A: single parent, 1 child",frozen out,0.376,False
+93500,0,15715.44,0.0,6850,0,None,19450.05,0.0,51484.51,58334.51,"A: single parent, 1 child",frozen out,0.376,False
+94000,0,15715.44,0.0,6850,0,None,19638.05,0.0,51796.51,58646.51,"A: single parent, 1 child",frozen out,0.376,False
+94500,0,15715.44,0.0,6850,0,None,19826.05,0.0,52108.51,58958.51,"A: single parent, 1 child",frozen out,0.376,False
+95000,0,15715.44,0.0,6850,0,None,20014.05,0.0,52420.51,59270.51,"A: single parent, 1 child",frozen out,0.376,False
+95500,0,15715.44,0.0,6850,0,None,20202.05,0.0,52732.51,59582.51,"A: single parent, 1 child",frozen out,0.376,False
+96000,0,15715.44,0.0,6850,0,None,20390.05,0.0,53044.51,59894.51,"A: single parent, 1 child",frozen out,0.376,False
+96500,0,15715.44,0.0,6850,0,None,20578.05,0.0,53356.51,60206.51,"A: single parent, 1 child",frozen out,0.376,False
+97000,0,15715.44,0.0,6850,0,None,20766.05,0.0,53668.51,60518.51,"A: single parent, 1 child",frozen out,0.376,False
+97500,0,15715.44,0.0,6850,0,None,20954.05,0.0,53980.51,60830.51,"A: single parent, 1 child",frozen out,0.376,False
+98000,0,15715.44,0.0,6850,0,None,21142.05,0.0,54292.51,61142.51,"A: single parent, 1 child",frozen out,0.376,False
+98500,0,15715.44,0.0,6850,0,None,21330.05,0.0,54604.51,61454.51,"A: single parent, 1 child",frozen out,0.376,False
+99000,0,15715.44,0.0,6850,0,None,21518.05,0.0,54916.51,61766.51,"A: single parent, 1 child",frozen out,0.376,False
+99500,0,15715.44,0.0,6850,0,None,21706.05,0.0,55228.51,62078.51,"A: single parent, 1 child",frozen out,0.376,False
+100000,0,15715.44,0.0,6850,0,None,21894.05,0.0,55540.51,62390.51,"A: single parent, 1 child",frozen out,0.376,False
+100500,0,15715.44,0.0,6850,0,None,22082.05,0.0,55852.51,62702.51,"A: single parent, 1 child",frozen out,0.376,False
+101000,0,15715.44,0.0,6850,0,None,22270.05,0.0,56164.51,63014.51,"A: single parent, 1 child",frozen out,0.376,False
+101500,0,15715.44,0.0,6850,0,None,22458.05,0.0,56476.51,63326.51,"A: single parent, 1 child",frozen out,0.376,False
+102000,0,15715.44,0.0,6850,0,None,22646.05,0.0,56788.51,63638.51,"A: single parent, 1 child",frozen out,0.376,False
+102500,0,15715.44,0.0,6850,0,None,22834.05,0.0,57100.51,63950.51,"A: single parent, 1 child",frozen out,0.376,False
+103000,0,15715.44,0.0,6850,0,None,23022.05,0.0,57412.51,64262.51,"A: single parent, 1 child",frozen out,0.376,False
+103500,0,15715.44,0.0,6850,0,None,23210.05,0.0,57724.51,64574.51,"A: single parent, 1 child",frozen out,0.376,False
+104000,0,15715.44,0.0,6850,0,None,23398.05,0.0,58036.51,64886.51,"A: single parent, 1 child",frozen out,0.376,False
+104500,0,15715.44,0.0,6850,0,None,23586.05,0.0,58348.51,65198.51,"A: single parent, 1 child",frozen out,0.376,False
+105000,0,15715.44,0.0,6850,0,None,23774.05,0.0,58660.51,65510.51,"A: single parent, 1 child",frozen out,0.376,False
+105500,0,15715.44,0.0,6850,0,None,23962.05,0.0,58972.51,65822.51,"A: single parent, 1 child",frozen out,0.376,False
+106000,0,15715.44,0.0,6850,0,None,24150.05,0.0,59284.51,66134.51,"A: single parent, 1 child",frozen out,0.376,False
+106500,0,15715.44,0.0,6850,0,None,24338.05,0.0,59596.51,66446.51,"A: single parent, 1 child",frozen out,0.376,False
+107000,0,15715.44,0.0,6850,0,None,24526.05,0.0,59908.51,66758.51,"A: single parent, 1 child",frozen out,0.376,False
+107500,0,15715.44,0.0,6850,0,None,24714.05,0.0,60220.51,67070.51,"A: single parent, 1 child",frozen out,0.376,False
+108000,0,15715.44,0.0,6850,0,None,24902.05,0.0,60532.51,67382.51,"A: single parent, 1 child",frozen out,0.376,False
+108500,0,15715.44,0.0,6850,0,None,25090.05,0.0,60844.51,67694.51,"A: single parent, 1 child",frozen out,0.376,False
+109000,0,15715.44,0.0,6850,0,None,25278.05,0.0,61156.51,68006.51,"A: single parent, 1 child",frozen out,0.376,False
+109500,0,15715.44,0.0,6850,0,None,25466.05,0.0,61468.51,68318.51,"A: single parent, 1 child",frozen out,0.376,False
+110000,0,15715.44,0.0,6850,0,None,25654.05,0.0,61780.51,68630.51,"A: single parent, 1 child",frozen out,0.376,False
+110500,0,15715.44,0.0,6850,0,None,25842.05,0.0,62092.51,68942.51,"A: single parent, 1 child",frozen out,0.376,False
+111000,0,15715.44,0.0,6850,0,None,26030.05,0.0,62404.51,69254.51,"A: single parent, 1 child",frozen out,0.376,False
+111500,0,15715.44,0.0,6850,0,None,26218.05,0.0,62716.51,69566.51,"A: single parent, 1 child",frozen out,0.376,False
+112000,0,15715.44,0.0,6850,0,None,26406.05,0.0,63028.51,69878.51,"A: single parent, 1 child",frozen out,0.376,False
+112500,0,15715.44,0.0,6850,0,None,26594.05,0.0,63340.51,70190.51,"A: single parent, 1 child",frozen out,0.376,False
+113000,0,15715.44,0.0,6850,0,None,26782.05,0.0,63652.51,70502.51,"A: single parent, 1 child",frozen out,0.376,False
+113500,0,15715.44,0.0,6850,0,None,26970.05,0.0,63964.51,70814.51,"A: single parent, 1 child",frozen out,0.376,False
+114000,0,15715.44,0.0,6850,0,None,27158.05,0.0,64276.51,71126.51,"A: single parent, 1 child",frozen out,0.376,False
+114500,0,15715.44,0.0,6850,0,None,27346.05,0.0,64588.51,71438.51,"A: single parent, 1 child",frozen out,0.376,False
+115000,0,15715.44,0.0,6850,0,None,27534.05,0.0,64900.51,71750.51,"A: single parent, 1 child",frozen out,0.376,False
+115500,0,15715.44,0.0,6850,0,None,27722.05,0.0,65212.51,72062.51,"A: single parent, 1 child",frozen out,0.376,False
+116000,0,15715.44,0.0,6850,0,None,27910.05,0.0,65524.51,72374.51,"A: single parent, 1 child",frozen out,0.376,False
+116500,0,15715.44,0.0,6850,0,None,28098.05,0.0,65836.51,72686.51,"A: single parent, 1 child",frozen out,0.376,False
+117000,0,15715.44,0.0,6850,0,None,28286.05,0.0,66148.51,72998.51,"A: single parent, 1 child",frozen out,0.376,False
+117500,0,15715.44,0.0,6850,0,None,28474.05,0.0,66460.51,73310.51,"A: single parent, 1 child",frozen out,0.376,False
+118000,0,15715.44,0.0,6850,0,None,28662.05,0.0,66772.51,73622.51,"A: single parent, 1 child",frozen out,0.376,False
+118500,0,15715.44,0.0,6850,0,None,28850.05,0.0,67084.51,73934.51,"A: single parent, 1 child",frozen out,0.376,False
+119000,0,15715.44,0.0,6850,0,None,29038.05,0.0,67396.51,74246.51,"A: single parent, 1 child",frozen out,0.376,False
+119500,0,15715.44,0.0,6850,0,None,29226.05,0.0,67708.51,74558.51,"A: single parent, 1 child",frozen out,0.376,False
+120000,0,15715.44,0.0,6850,0,None,29414.05,0.0,68020.51,74870.51,"A: single parent, 1 child",frozen out,0.376,False
+0,9696,0.0,0.0,0,1,"Medicaid, Medicaid",0.0,0.0,9696.0,9696.0,"B: single parent, 2 children",enrolled,,False
+500,9696,0.0,411.14,0,1,"Medicaid, Medicaid",38.25,290.0,10447.75,10447.75,"B: single parent, 2 children",enrolled,-0.504,False
+1000,9696,0.0,822.28,0,1,"Medicaid, Medicaid",76.5,580.0,11199.5,11199.5,"B: single parent, 2 children",enrolled,-0.504,False
+1500,9696,0.0,1233.43,0,1,"Medicaid, Medicaid",114.75,870.0,11951.25,11951.25,"B: single parent, 2 children",enrolled,-0.504,False
+2000,9696,0.0,1644.57,0,1,"Medicaid, Medicaid",153.0,1160.0,12703.0,12703.0,"B: single parent, 2 children",enrolled,-0.504,False
+2500,9696,0.0,2055.71,0,1,"Medicaid, Medicaid",191.25,1450.0,13454.75,13454.75,"B: single parent, 2 children",enrolled,-0.504,False
+3000,9696,0.0,2466.85,0,1,"Medicaid, Medicaid",229.5,1815.0,14281.5,14281.5,"B: single parent, 2 children",enrolled,-0.654,False
+3500,9696,0.0,2877.99,0,1,"Medicaid, Medicaid",267.75,2180.0,15108.25,15108.25,"B: single parent, 2 children",enrolled,-0.654,False
+4000,9696,0.0,3289.13,0,1,"Medicaid, Medicaid",306.0,2545.0,15935.0,15935.0,"B: single parent, 2 children",enrolled,-0.654,False
+4500,9696,0.0,3700.28,0,1,"Medicaid, Medicaid",344.25,2910.0,16761.75,16761.75,"B: single parent, 2 children",enrolled,-0.654,False
+5000,9696,0.0,4111.42,0,1,"Medicaid, Medicaid",382.5,3275.0,17588.5,17588.5,"B: single parent, 2 children",enrolled,-0.654,False
+5500,9696,0.0,4522.56,0,1,"Medicaid, Medicaid",420.75,3640.0,18415.25,18415.25,"B: single parent, 2 children",enrolled,-0.654,False
+6000,9696,0.0,4933.7,0,1,"Medicaid, Medicaid",459.0,4005.0,19242.0,19242.0,"B: single parent, 2 children",enrolled,-0.654,False
+6500,9696,0.0,5344.84,0,1,"Medicaid, Medicaid",497.25,4370.0,20068.75,20068.75,"B: single parent, 2 children",enrolled,-0.654,False
+7000,9696,0.0,5755.98,0,1,"Medicaid, Medicaid",535.5,4735.0,20895.5,20895.5,"B: single parent, 2 children",enrolled,-0.654,False
+7500,9696,0.0,6167.13,0,1,"Medicaid, Medicaid",573.75,5100.0,21722.25,21722.25,"B: single parent, 2 children",enrolled,-0.654,False
+8000,9696,0.0,6578.27,0,1,"Medicaid, Medicaid",612.0,5465.0,22549.0,22549.0,"B: single parent, 2 children",enrolled,-0.654,False
+8500,9696,0.0,6989.41,0,1,"Medicaid, Medicaid",650.25,5830.0,23375.75,23375.75,"B: single parent, 2 children",enrolled,-0.654,False
+9000,9696,0.0,7400.55,0,1,"Medicaid, Medicaid",688.5,6195.0,24202.5,24202.5,"B: single parent, 2 children",enrolled,-0.654,False
+9500,9696,0.0,7811.69,0,1,"Medicaid, Medicaid",726.75,6560.0,25029.25,25029.25,"B: single parent, 2 children",enrolled,-0.654,False
+10000,9696,0.0,8222.83,0,1,"Medicaid, Medicaid",765.0,6925.0,25856.0,25856.0,"B: single parent, 2 children",enrolled,-0.654,False
+10500,9696,0.0,8633.98,0,1,"Medicaid, Medicaid",803.25,7290.0,26682.75,26682.75,"B: single parent, 2 children",enrolled,-0.654,False
+11000,9696,0.0,9045.12,0,1,"Medicaid, Medicaid",841.5,7655.0,27509.5,27509.5,"B: single parent, 2 children",enrolled,-0.654,False
+11500,9696,0.0,9456.26,0,1,"Medicaid, Medicaid",879.75,8020.0,28336.25,28336.25,"B: single parent, 2 children",enrolled,-0.654,False
+12000,9696,0.0,9867.4,0,1,"Medicaid, Medicaid",918.0,8385.0,29163.0,29163.0,"B: single parent, 2 children",enrolled,-0.654,False
+12500,9696,0.0,10278.54,0,1,"Medicaid, Medicaid",956.25,8750.0,29989.75,29989.75,"B: single parent, 2 children",enrolled,-0.654,False
+13000,9696,0.0,10689.68,0,1,"Medicaid, Medicaid",994.5,9115.0,30816.5,30816.5,"B: single parent, 2 children",enrolled,-0.654,False
+13500,9696,0.0,11100.83,0,1,"Medicaid, Medicaid",1032.75,9480.0,31643.25,31643.25,"B: single parent, 2 children",enrolled,-0.654,False
+14000,9696,0.0,11511.97,0,1,"Medicaid, Medicaid",1071.0,9845.0,32470.0,32470.0,"B: single parent, 2 children",enrolled,-0.654,False
+14500,9696,0.0,11923.11,0,1,"Medicaid, Medicaid",1109.25,10210.0,33296.75,33296.75,"B: single parent, 2 children",enrolled,-0.654,False
+15000,9636,0.0,12334.25,0,1,"Medicaid, Medicaid",1147.5,10575.0,34063.5,34063.5,"B: single parent, 2 children",enrolled,-0.534,False
+15500,9516,0.0,12745.39,0,1,"Medicaid, Medicaid",1185.75,10940.0,34770.25,34770.25,"B: single parent, 2 children",enrolled,-0.414,False
+16000,9396,0.0,13156.53,0,1,"Medicaid, Medicaid",1224.0,11305.0,35477.0,35477.0,"B: single parent, 2 children",enrolled,-0.414,False
+16500,9276,0.0,13567.68,0,1,"Medicaid, Medicaid",1272.65,11670.0,36173.35,36173.35,"B: single parent, 2 children",enrolled,-0.393,False
+17000,9156,0.0,13978.82,0,1,"Medicaid, Medicaid",1336.9,12035.0,36854.1,36854.1,"B: single parent, 2 children",enrolled,-0.361,False
+17500,9036,0.0,14389.96,0,1,"Medicaid, Medicaid",1403.15,12400.0,37532.85,37532.85,"B: single parent, 2 children",enrolled,-0.357,False
+18000,8916,0.0,14801.1,0,1,"Medicaid, Medicaid",1472.4,12765.0,38208.6,38208.6,"B: single parent, 2 children",enrolled,-0.351,False
+18500,8796,0.0,15212.24,0,1,"Medicaid, Medicaid",1543.65,13008.2,38760.55,38760.55,"B: single parent, 2 children",enrolled,-0.104,False
+19000,8676,0.0,15623.38,0,1,"Medicaid, Medicaid",1617.9,13083.2,39141.3,39141.3,"B: single parent, 2 children",enrolled,0.239,False
+19500,8556,0.0,16034.53,0,1,"Medicaid, Medicaid",1693.65,13158.2,39520.55,39520.55,"B: single parent, 2 children",enrolled,0.242,False
+20000,8436,0.0,16445.67,0,1,"Medicaid, Medicaid",1771.65,13233.2,39897.55,39897.55,"B: single parent, 2 children",enrolled,0.246,False
+20500,8316,0.0,16856.81,0,1,"Medicaid, Medicaid",1849.65,13308.2,40274.55,40274.55,"B: single parent, 2 children",enrolled,0.246,False
+21000,8196,0.0,17267.95,0,1,"Medicaid, Medicaid",1927.65,13383.2,40651.55,40651.55,"B: single parent, 2 children",enrolled,0.246,False
+21500,8076,0.0,17679.09,0,1,"Medicaid, Medicaid",2005.65,13458.2,41028.55,41028.55,"B: single parent, 2 children",enrolled,0.246,False
+22000,7956,0.0,18090.23,0,1,"Medicaid, Medicaid",2083.65,13533.2,41405.55,41405.55,"B: single parent, 2 children",enrolled,0.246,False
+22500,7836,0.0,18501.38,0,1,"Medicaid, Medicaid",2161.65,13608.2,41782.55,41782.55,"B: single parent, 2 children",enrolled,0.246,False
+23000,7716,0.0,18912.52,0,1,"Medicaid, Medicaid",2239.65,13683.2,42159.55,42159.55,"B: single parent, 2 children",enrolled,0.246,False
+23500,7596,0.0,19323.66,0,1,"Medicaid, Medicaid",2317.65,13758.2,42536.55,42536.55,"B: single parent, 2 children",enrolled,0.246,False
+24000,7476,0.0,19734.8,0,1,"Medicaid, Medicaid",2395.65,13799.61,42879.96,42879.96,"B: single parent, 2 children",enrolled,0.313,False
+24500,7356,0.0,20145.94,0,1,"Medicaid, Medicaid",2473.65,13721.93,43104.28,43104.28,"B: single parent, 2 children",enrolled,0.551,False
+25000,7236,0.0,20557.08,0,1,"Medicaid, Medicaid",2551.65,13644.24,43328.59,43328.59,"B: single parent, 2 children",enrolled,0.551,False
+25500,7116,0.0,20968.23,0,1,"Medicaid, Medicaid",2629.65,13516.56,43502.91,43502.91,"B: single parent, 2 children",enrolled,0.651,False
+26000,6996,0.0,21379.37,0,1,"Medicaid, Medicaid",2707.65,13363.87,43652.22,43652.22,"B: single parent, 2 children",enrolled,0.701,False
+26500,6876,0.0,21790.51,0,1,"Medicaid, Medicaid",2785.65,13211.19,43801.54,43801.54,"B: single parent, 2 children",enrolled,0.701,False
+27000,6756,0.0,22201.65,0,1,"Medicaid, Medicaid",2863.65,13058.5,43950.85,43950.85,"B: single parent, 2 children",enrolled,0.701,False
+27500,6636,0.0,22612.79,0,1,"Medicaid, Medicaid",2941.65,12905.82,44100.17,44100.17,"B: single parent, 2 children",enrolled,0.701,False
+28000,6516,0.0,23023.93,0,1,"Medicaid, Medicaid",3019.65,12753.14,44249.49,44249.49,"B: single parent, 2 children",enrolled,0.701,False
+28500,6396,0.0,23435.08,0,1,"Medicaid, Medicaid",3097.65,12600.45,44398.8,44398.8,"B: single parent, 2 children",enrolled,0.701,False
+29000,6276,0.0,23846.22,0,1,"Medicaid, Medicaid",3175.65,12447.77,44548.12,44548.12,"B: single parent, 2 children",enrolled,0.701,False
+29500,6156,0.0,24257.36,0,1,"Medicaid, Medicaid",3253.65,12295.08,44697.43,44697.43,"B: single parent, 2 children",enrolled,0.701,False
+30000,6036,0.0,24668.5,0,1,"Medicaid, Medicaid",3331.65,12142.4,44846.75,44846.75,"B: single parent, 2 children",enrolled,0.701,False
+30500,5916,0.0,25079.64,0,1,"Medicaid, Medicaid",3409.65,11989.71,44996.06,44996.06,"B: single parent, 2 children",enrolled,0.701,False
+31000,5796,0.0,25490.78,0,1,"Medicaid, Medicaid",3487.65,11837.03,45145.38,45145.38,"B: single parent, 2 children",enrolled,0.701,False
+31500,5676,0.0,25655.24,0,1,"Medicaid, Medicaid",3565.65,11684.34,45294.69,45294.69,"B: single parent, 2 children",enrolled,0.701,False
+32000,5556,0.0,25655.24,0,1,"Medicaid, Medicaid",3643.65,11531.66,45444.01,45444.01,"B: single parent, 2 children",enrolled,0.701,False
+32500,5436,0.0,25655.24,0,1,"Medicaid, Medicaid",3721.65,11378.98,45593.33,45593.33,"B: single parent, 2 children",enrolled,0.701,False
+33000,5316,0.0,25655.24,0,1,"Medicaid, Medicaid",3799.65,11226.29,45742.64,45742.64,"B: single parent, 2 children",enrolled,0.701,False
+33500,5196,0.0,25655.24,0,1,"Medicaid, Medicaid",3877.65,11073.61,45891.96,45891.96,"B: single parent, 2 children",enrolled,0.701,False
+34000,5076,0.0,25655.24,0,1,"Medicaid, Medicaid",3955.65,10920.92,46041.27,46041.27,"B: single parent, 2 children",enrolled,0.701,False
+34500,4956,0.0,25655.24,0,1,"Medicaid, Medicaid",4033.65,10733.24,46155.59,46155.59,"B: single parent, 2 children",enrolled,0.771,False
+35000,4836,0.0,25655.24,0,1,"Medicaid, Medicaid",4111.65,10530.55,46254.9,46254.9,"B: single parent, 2 children",enrolled,0.801,False
+35500,4716,0.0,25655.24,0,1,"Medicaid, Medicaid",4189.65,10327.87,46354.22,46354.22,"B: single parent, 2 children",enrolled,0.801,False
+36000,4596,0.0,25655.24,0,1,"Medicaid, Medicaid",4267.65,10125.19,46453.54,46453.54,"B: single parent, 2 children",enrolled,0.801,False
+36500,4476,0.0,25655.24,0,1,"Medicaid, Medicaid",4345.65,9922.5,46552.85,46552.85,"B: single parent, 2 children",enrolled,0.801,False
+37000,4356,0.0,25655.24,0,1,"Medicaid, Medicaid",4423.65,9719.82,46652.17,46652.17,"B: single parent, 2 children",enrolled,0.801,False
+37500,4236,0.0,25655.24,0,1,"Medicaid, Medicaid",4501.65,9517.13,46751.48,46751.48,"B: single parent, 2 children",enrolled,0.801,False
+38000,4116,0.0,25655.24,1440,0,"Medicaid, MCHP",4579.65,9314.45,45410.8,46850.8,"B: single parent, 2 children",enrolled,3.681,True
+38500,3996,0.0,25655.24,1440,0,"Medicaid, MCHP",4657.65,9111.76,45510.11,46950.11,"B: single parent, 2 children",enrolled,0.801,False
+39000,3876,0.0,25655.24,1440,0,"Medicaid, MCHP",4735.65,8909.08,45609.43,47049.43,"B: single parent, 2 children",enrolled,0.801,False
+39500,3756,0.0,25655.24,1440,0,"MCHP, MCHP",4813.65,8706.4,45708.75,47148.75,"B: single parent, 2 children",enrolled,0.801,False
+40000,3636,0.0,25655.24,1440,0,"MCHP, MCHP",4891.65,8503.71,45808.06,47248.06,"B: single parent, 2 children",enrolled,0.801,False
+40500,3516,0.0,25655.24,1440,0,"MCHP, MCHP",4969.65,8301.03,45907.38,47347.38,"B: single parent, 2 children",enrolled,0.801,False
+41000,3396,0.0,25655.24,1440,0,"MCHP, MCHP",5047.65,8098.34,46006.69,47446.69,"B: single parent, 2 children",enrolled,0.801,False
+41500,3276,0.0,25655.24,1440,0,"MCHP, MCHP",5125.65,7895.66,46106.01,47546.01,"B: single parent, 2 children",enrolled,0.801,False
+42000,3156,0.0,25655.24,1440,0,"MCHP, MCHP",5203.65,7689.97,46202.32,47642.32,"B: single parent, 2 children",enrolled,0.807,False
+42500,3036,0.0,25655.24,1440,0,"MCHP, MCHP",5281.65,7477.29,46291.64,47731.64,"B: single parent, 2 children",enrolled,0.821,False
+43000,2916,0.0,25655.24,1440,0,"MCHP, MCHP",5359.65,7264.61,46380.96,47820.96,"B: single parent, 2 children",enrolled,0.821,False
+43500,2796,0.0,25655.24,1440,0,"MCHP, MCHP",5437.65,7051.92,46470.27,47910.27,"B: single parent, 2 children",enrolled,0.821,False
+44000,2676,0.0,25655.24,1440,0,"MCHP, MCHP",5515.65,6839.24,46559.59,47999.59,"B: single parent, 2 children",enrolled,0.821,False
+44500,2556,0.0,25655.24,1440,0,"MCHP, MCHP",5593.65,6626.55,46648.9,48088.9,"B: single parent, 2 children",enrolled,0.821,False
+45000,2436,0.0,25655.24,1440,0,"MCHP, MCHP",5671.65,6413.87,46738.22,48178.22,"B: single parent, 2 children",enrolled,0.821,False
+45500,2316,0.0,25655.24,1440,0,"MCHP, MCHP",5749.65,6201.18,46827.53,48267.53,"B: single parent, 2 children",enrolled,0.821,False
+46000,2196,0.0,25655.24,1440,0,"MCHP, MCHP",5827.65,5988.5,46916.85,48356.85,"B: single parent, 2 children",enrolled,0.821,False
+46500,2076,0.0,25655.24,1440,0,"MCHP, MCHP",5905.65,5775.82,47006.17,48446.17,"B: single parent, 2 children",enrolled,0.821,False
+47000,1956,0.0,25655.24,1440,0,"MCHP, MCHP",5983.65,5563.13,47095.48,48535.48,"B: single parent, 2 children",enrolled,0.821,False
+47500,1836,0.0,25655.24,1440,0,"MCHP, MCHP",6061.65,5350.45,47184.8,48624.8,"B: single parent, 2 children",enrolled,0.821,False
+48000,1716,0.0,25655.24,1440,0,"MCHP, MCHP",6139.65,5137.76,47274.11,48714.11,"B: single parent, 2 children",enrolled,0.821,False
+48500,1596,0.0,25655.24,1440,0,"MCHP, MCHP",6217.65,4925.08,47363.43,48803.43,"B: single parent, 2 children",enrolled,0.821,False
+49000,1476,0.0,25655.24,1440,0,"MCHP, MCHP",6295.65,4712.39,47452.74,48892.74,"B: single parent, 2 children",enrolled,0.821,False
+49500,1356,0.0,25655.24,1440,0,"MCHP, MCHP",6373.65,4499.71,47542.06,48982.06,"B: single parent, 2 children",enrolled,0.821,False
+50000,1236,0.0,25655.24,1440,0,"MCHP, MCHP",6451.65,4287.03,47631.38,49071.38,"B: single parent, 2 children",enrolled,0.821,False
+50500,1116,0.0,25655.24,1440,0,"MCHP, MCHP",6529.65,4074.34,47720.69,49160.69,"B: single parent, 2 children",enrolled,0.821,False
+51000,996,0.0,25655.24,1440,0,"MCHP, MCHP",6607.65,3861.66,47810.01,49250.01,"B: single parent, 2 children",enrolled,0.821,False
+51500,876,0.0,25655.24,1440,0,"MCHP, MCHP",6685.65,3648.97,47899.32,49339.32,"B: single parent, 2 children",enrolled,0.821,False
+52000,756,0.0,25655.24,1440,0,"MCHP, MCHP",6763.65,3436.29,47988.64,49428.64,"B: single parent, 2 children",enrolled,0.821,False
+52500,636,0.0,25655.24,1440,0,"MCHP, MCHP",6841.65,3223.6,48077.95,49517.95,"B: single parent, 2 children",enrolled,0.821,False
+53000,516,0.0,25655.24,1440,0,"MCHP, MCHP",6919.65,3010.92,48167.27,49607.27,"B: single parent, 2 children",enrolled,0.821,False
+53500,396,0.0,25655.24,1440,0,"MCHP, MCHP",6997.65,2798.24,48256.59,49696.59,"B: single parent, 2 children",enrolled,0.821,False
+54000,276,0.0,25655.24,1440,0,"MCHP, MCHP",7075.65,2585.55,48345.9,49785.9,"B: single parent, 2 children",enrolled,0.821,False
+54500,156,0.0,25655.24,1440,0,"MCHP, MCHP",7153.65,2372.87,48435.22,49875.22,"B: single parent, 2 children",enrolled,0.821,False
+55000,0,2625.07,23030.17,1440,0,"MCHP, MCHP",7231.65,2160.18,45863.46,47303.46,"B: single parent, 2 children",enrolled,6.144,True
+55500,0,2662.55,22992.69,1440,0,"MCHP, MCHP",7309.65,1947.5,46035.3,47475.3,"B: single parent, 2 children",enrolled,0.656,False
+56000,0,2700.03,22955.21,1440,0,"MCHP, MCHP",7387.65,1734.81,46207.13,47647.13,"B: single parent, 2 children",enrolled,0.656,False
+56500,0,2737.51,22917.73,1440,0,"MCHP, MCHP",7465.65,1522.13,46378.97,47818.97,"B: single parent, 2 children",enrolled,0.656,False
+57000,0,2774.99,22880.25,1440,0,"MCHP, MCHP",7543.65,1309.45,46550.81,47990.81,"B: single parent, 2 children",enrolled,0.656,False
+57500,0,2812.47,22842.77,1440,0,"MCHP, MCHP",7621.65,1096.76,46722.64,48162.64,"B: single parent, 2 children",enrolled,0.656,False
+58000,0,2849.95,22805.29,2088,0,"MCHP Premium, MCHP Premium",7699.65,884.08,46246.48,48334.48,"B: single parent, 2 children",enrolled,1.952,True
+58500,0,2887.43,22767.81,2088,0,"MCHP Premium, MCHP Premium",7777.65,671.39,46418.31,48506.31,"B: single parent, 2 children",enrolled,0.656,False
+59000,0,2924.91,22730.33,2088,0,"MCHP Premium, MCHP Premium",7855.65,572.0,46703.44,48791.44,"B: single parent, 2 children",enrolled,0.43,False
+59500,0,2962.39,22692.85,2088,0,"MCHP Premium, MCHP Premium",7933.65,512.0,47027.96,49115.96,"B: single parent, 2 children",enrolled,0.351,False
+60000,0,2999.87,22655.37,2088,0,"MCHP Premium, MCHP Premium",8011.65,452.0,47352.48,49440.48,"B: single parent, 2 children",enrolled,0.351,False
+60500,0,3037.35,22617.89,2088,0,"MCHP Premium, MCHP Premium",8089.65,392.0,47677.0,49765.0,"B: single parent, 2 children",enrolled,0.351,False
+61000,0,3074.83,22580.41,2088,0,"MCHP Premium, MCHP Premium",8167.65,332.0,48001.52,50089.52,"B: single parent, 2 children",enrolled,0.351,False
+61500,0,3112.31,22542.93,2088,0,"MCHP Premium, MCHP Premium",8245.65,272.0,48326.04,50414.04,"B: single parent, 2 children",enrolled,0.351,False
+62000,0,3149.79,22505.45,2088,0,"MCHP Premium, MCHP Premium",8323.65,212.0,48650.56,50738.56,"B: single parent, 2 children",enrolled,0.351,False
+62500,0,3187.27,22467.97,2088,0,"MCHP Premium, MCHP Premium",8401.65,152.0,48975.08,51063.08,"B: single parent, 2 children",enrolled,0.351,False
+63000,0,3224.75,22430.49,2088,0,"MCHP Premium, MCHP Premium",8479.65,92.0,49299.6,51387.6,"B: single parent, 2 children",enrolled,0.351,False
+63500,0,3262.23,22393.01,2088,0,"MCHP Premium, MCHP Premium",8557.65,32.0,49624.12,51712.12,"B: single parent, 2 children",enrolled,0.351,False
+64000,0,3299.71,22355.53,2088,0,"MCHP Premium, MCHP Premium",8663.65,0.0,49948.64,52036.64,"B: single parent, 2 children",enrolled,0.351,False
+64500,0,3337.19,22318.05,2088,0,"MCHP Premium, MCHP Premium",8801.65,0.0,50273.16,52361.16,"B: single parent, 2 children",enrolled,0.351,False
+65000,0,3374.67,22280.57,2088,0,"MCHP Premium, MCHP Premium",8939.65,0.0,50597.68,52685.68,"B: single parent, 2 children",enrolled,0.351,False
+65500,0,3412.15,22243.09,2088,0,"MCHP Premium, MCHP Premium",9077.65,0.0,50922.2,53010.2,"B: single parent, 2 children",enrolled,0.351,False
+66000,0,3449.63,22205.61,2088,0,"MCHP Premium, MCHP Premium",9215.65,0.0,51246.72,53334.72,"B: single parent, 2 children",enrolled,0.351,False
+66500,0,3487.12,22168.12,2088,0,"MCHP Premium, MCHP Premium",9353.65,0.0,51571.23,53659.23,"B: single parent, 2 children",enrolled,0.351,False
+67000,0,3524.6,22130.64,2088,0,"MCHP Premium, MCHP Premium",9491.65,0.0,51895.75,53983.75,"B: single parent, 2 children",enrolled,0.351,False
+67500,0,3562.08,22093.16,2088,0,"MCHP Premium, MCHP Premium",9629.65,0.0,52220.27,54308.27,"B: single parent, 2 children",enrolled,0.351,False
+68000,0,3599.56,22055.68,2088,0,"MCHP Premium, MCHP Premium",9767.65,0.0,52544.79,54632.79,"B: single parent, 2 children",enrolled,0.351,False
+68500,0,3637.04,22018.2,2088,0,"MCHP Premium, MCHP Premium",9905.65,0.0,52869.31,54957.31,"B: single parent, 2 children",enrolled,0.351,False
+69000,0,3674.52,21980.72,2088,0,"MCHP Premium, MCHP Premium",10043.65,0.0,53193.83,55281.83,"B: single parent, 2 children",enrolled,0.351,False
+69500,0,3712.0,21943.24,2088,0,"MCHP Premium, MCHP Premium",10181.65,0.0,53518.35,55606.35,"B: single parent, 2 children",enrolled,0.351,False
+70000,0,3749.48,21905.76,2088,0,"MCHP Premium, MCHP Premium",10319.65,0.0,53842.87,55930.87,"B: single parent, 2 children",enrolled,0.351,False
+70500,0,3786.96,21868.28,2088,0,"MCHP Premium, MCHP Premium",10457.65,0.0,54167.39,56255.39,"B: single parent, 2 children",enrolled,0.351,False
+71000,0,3824.44,21830.8,2088,0,"MCHP Premium, MCHP Premium",10595.65,0.0,54491.91,56579.91,"B: single parent, 2 children",enrolled,0.351,False
+71500,0,3861.92,21793.32,2088,0,"MCHP Premium, MCHP Premium",10733.65,0.0,54816.43,56904.43,"B: single parent, 2 children",enrolled,0.351,False
+72000,0,3899.4,21755.84,2088,0,"MCHP Premium, MCHP Premium",10871.65,0.0,55140.95,57228.95,"B: single parent, 2 children",enrolled,0.351,False
+72500,0,3936.88,21718.36,2244,0,"MCHP Premium, MCHP Premium",11009.65,0.0,55309.47,57553.47,"B: single parent, 2 children",enrolled,0.663,False
+73000,0,3974.36,21680.88,2244,0,"MCHP Premium, MCHP Premium",11147.65,0.0,55633.99,57877.99,"B: single parent, 2 children",enrolled,0.351,False
+73500,0,4011.84,21643.4,2244,0,"MCHP Premium, MCHP Premium",11285.65,0.0,55958.51,58202.51,"B: single parent, 2 children",enrolled,0.351,False
+74000,0,4049.32,21605.92,2244,0,"MCHP Premium, MCHP Premium",11423.65,0.0,56283.03,58527.03,"B: single parent, 2 children",enrolled,0.351,False
+74500,0,4086.8,21568.44,2244,0,"MCHP Premium, MCHP Premium",11561.65,0.0,56607.55,58851.55,"B: single parent, 2 children",enrolled,0.351,False
+75000,0,4124.28,21530.96,2244,0,"MCHP Premium, MCHP Premium",11699.65,0.0,56932.07,59176.07,"B: single parent, 2 children",enrolled,0.351,False
+75500,0,4161.76,21493.48,2244,0,"MCHP Premium, MCHP Premium",11837.65,0.0,57256.59,59500.59,"B: single parent, 2 children",enrolled,0.351,False
+76000,0,4199.24,21456.0,2244,0,"MCHP Premium, MCHP Premium",11975.65,0.0,57581.11,59825.11,"B: single parent, 2 children",enrolled,0.351,False
+76500,0,4236.72,21418.52,2244,0,"MCHP Premium, MCHP Premium",12113.65,0.0,57905.63,60149.63,"B: single parent, 2 children",enrolled,0.351,False
+77000,0,4274.2,21381.04,2244,0,"MCHP Premium, MCHP Premium",12251.65,0.0,58230.15,60474.15,"B: single parent, 2 children",enrolled,0.351,False
+77500,0,4311.68,21343.56,2244,0,"MCHP Premium, MCHP Premium",12389.65,0.0,58554.67,60798.67,"B: single parent, 2 children",enrolled,0.351,False
+78000,0,4349.16,21306.08,2244,0,"MCHP Premium, MCHP Premium",12527.65,0.0,58879.19,61123.19,"B: single parent, 2 children",enrolled,0.351,False
+78500,0,4386.64,21268.6,2244,0,"MCHP Premium, MCHP Premium",12665.65,0.0,59203.71,61447.71,"B: single parent, 2 children",enrolled,0.351,False
+79000,0,4424.12,21231.12,2244,0,"MCHP Premium, MCHP Premium",12803.65,0.0,59528.23,61772.23,"B: single parent, 2 children",enrolled,0.351,False
+79500,0,4461.6,21193.64,2244,0,"MCHP Premium, MCHP Premium",12941.65,0.0,59852.75,62096.75,"B: single parent, 2 children",enrolled,0.351,False
+80000,0,4499.08,21156.16,2244,0,"MCHP Premium, MCHP Premium",13079.65,0.0,60177.27,62421.27,"B: single parent, 2 children",enrolled,0.351,False
+80500,0,4536.56,21118.68,2244,0,"MCHP Premium, MCHP Premium",13217.65,0.0,60501.79,62745.79,"B: single parent, 2 children",enrolled,0.351,False
+81000,0,4574.04,21081.2,2244,0,"MCHP Premium, MCHP Premium",13355.65,0.0,60826.31,63070.31,"B: single parent, 2 children",enrolled,0.351,False
+81500,0,4611.52,21043.72,2244,0,"MCHP Premium, MCHP Premium",13493.65,0.0,61150.83,63394.83,"B: single parent, 2 children",enrolled,0.351,False
+82000,0,4649.0,21006.24,2244,0,"MCHP Premium, MCHP Premium",13631.65,0.0,61475.35,63719.35,"B: single parent, 2 children",enrolled,0.351,False
+82500,0,4686.48,20968.76,2244,0,"MCHP Premium, MCHP Premium",13769.65,0.0,61799.87,64043.87,"B: single parent, 2 children",enrolled,0.351,False
+83000,0,4723.96,20931.28,2244,0,"MCHP Premium, MCHP Premium",13907.65,0.0,62124.39,64368.39,"B: single parent, 2 children",enrolled,0.351,False
+83500,0,4761.45,20893.79,2244,0,"MCHP Premium, MCHP Premium",14045.65,0.0,62448.9,64692.9,"B: single parent, 2 children",enrolled,0.351,False
+84000,0,4798.93,20856.31,2244,0,"MCHP Premium, MCHP Premium",14183.65,0.0,62773.42,65017.42,"B: single parent, 2 children",enrolled,0.351,False
+84500,0,4836.41,20818.83,2244,0,"MCHP Premium, MCHP Premium",14321.65,0.0,63097.94,65341.94,"B: single parent, 2 children",enrolled,0.351,False
+85000,0,4873.89,20781.35,2244,0,"MCHP Premium, MCHP Premium",14459.65,0.0,63422.46,65666.46,"B: single parent, 2 children",enrolled,0.351,False
+85500,0,4911.37,20743.87,2244,0,"MCHP Premium, MCHP Premium",14597.65,0.0,63746.98,65990.98,"B: single parent, 2 children",enrolled,0.351,False
+86000,0,4948.85,20706.39,2244,0,"MCHP Premium, MCHP Premium",14735.65,0.0,64071.5,66315.5,"B: single parent, 2 children",enrolled,0.351,False
+86500,0,4986.33,20668.91,2244,0,"MCHP Premium, MCHP Premium",14873.65,0.0,64396.02,66640.02,"B: single parent, 2 children",enrolled,0.351,False
+87000,0,5023.81,20631.43,2244,0,"MCHP Premium, MCHP Premium",15011.65,0.0,64720.54,66964.54,"B: single parent, 2 children",enrolled,0.351,False
+87500,0,5061.29,20593.95,2244,0,"MCHP Premium, MCHP Premium",15149.65,0.0,65045.06,67289.06,"B: single parent, 2 children",enrolled,0.351,False
+88000,0,5098.77,20556.47,6850,0,"None, None",15287.65,0.0,60763.58,67613.58,"B: single parent, 2 children",enrolled,9.563,True
+88500,0,5136.25,20518.99,6850,0,"None, None",15425.65,0.0,61088.1,67938.1,"B: single parent, 2 children",enrolled,0.351,False
+89000,0,5173.73,20481.51,6850,0,"None, None",15563.65,0.0,61412.62,68262.62,"B: single parent, 2 children",enrolled,0.351,False
+89500,0,5211.21,20444.03,6850,0,"None, None",15701.65,0.0,61737.14,68587.14,"B: single parent, 2 children",enrolled,0.351,False
+90000,0,5248.69,20406.55,6850,0,"None, None",15839.65,0.0,62061.66,68911.66,"B: single parent, 2 children",enrolled,0.351,False
+90500,0,5286.17,20369.07,6850,0,"None, None",15977.65,0.0,62386.18,69236.18,"B: single parent, 2 children",enrolled,0.351,False
+91000,0,5323.65,20331.59,6850,0,"None, None",16115.65,0.0,62710.7,69560.7,"B: single parent, 2 children",enrolled,0.351,False
+91500,0,5361.13,20294.11,6850,0,"None, None",16253.65,0.0,63035.22,69885.22,"B: single parent, 2 children",enrolled,0.351,False
+92000,0,5398.61,20256.63,6850,0,"None, None",16431.65,0.0,63319.74,70169.74,"B: single parent, 2 children",enrolled,0.431,False
+92500,0,5436.09,20219.15,6850,0,"None, None",16619.65,0.0,63594.26,70444.26,"B: single parent, 2 children",enrolled,0.451,False
+93000,0,5473.57,20181.67,6850,0,"None, None",16807.65,0.0,63868.78,70718.78,"B: single parent, 2 children",enrolled,0.451,False
+93500,0,5511.05,20144.19,6850,0,"None, None",16995.65,0.0,64143.3,70993.3,"B: single parent, 2 children",enrolled,0.451,False
+94000,0,5548.53,20106.71,6850,0,"None, None",17183.65,0.0,64417.82,71267.82,"B: single parent, 2 children",enrolled,0.451,False
+94500,0,25655.24,0.0,6850,0,"None, None",17371.65,0.0,44623.11,51473.11,"B: single parent, 2 children",enrolled,40.589,True
+95000,0,25655.24,0.0,6850,0,"None, None",17559.65,0.0,44935.11,51785.11,"B: single parent, 2 children",enrolled,0.376,False
+95500,0,25655.24,0.0,6850,0,"None, None",17747.65,0.0,45247.11,52097.11,"B: single parent, 2 children",enrolled,0.376,False
+96000,0,25655.24,0.0,6850,0,"None, None",17935.65,0.0,45559.11,52409.11,"B: single parent, 2 children",enrolled,0.376,False
+96500,0,25655.24,0.0,6850,0,"None, None",18123.65,0.0,45871.11,52721.11,"B: single parent, 2 children",enrolled,0.376,False
+97000,0,25655.24,0.0,6850,0,"None, None",18311.65,0.0,46183.11,53033.11,"B: single parent, 2 children",enrolled,0.376,False
+97500,0,25655.24,0.0,6850,0,"None, None",18499.65,0.0,46495.11,53345.11,"B: single parent, 2 children",enrolled,0.376,False
+98000,0,25655.24,0.0,6850,0,"None, None",18687.65,0.0,46807.11,53657.11,"B: single parent, 2 children",enrolled,0.376,False
+98500,0,25655.24,0.0,6850,0,"None, None",18875.65,0.0,47119.11,53969.11,"B: single parent, 2 children",enrolled,0.376,False
+99000,0,25655.24,0.0,6850,0,"None, None",19063.65,0.0,47431.11,54281.11,"B: single parent, 2 children",enrolled,0.376,False
+99500,0,25655.24,0.0,6850,0,"None, None",19251.65,0.0,47743.11,54593.11,"B: single parent, 2 children",enrolled,0.376,False
+100000,0,25655.24,0.0,6850,0,"None, None",19439.65,0.0,48055.11,54905.11,"B: single parent, 2 children",enrolled,0.376,False
+100500,0,25655.24,0.0,6850,0,"None, None",19627.65,0.0,48367.11,55217.11,"B: single parent, 2 children",enrolled,0.376,False
+101000,0,25655.24,0.0,6850,0,"None, None",19815.65,0.0,48679.11,55529.11,"B: single parent, 2 children",enrolled,0.376,False
+101500,0,25655.24,0.0,6850,0,"None, None",20003.65,0.0,48991.11,55841.11,"B: single parent, 2 children",enrolled,0.376,False
+102000,0,25655.24,0.0,6850,0,"None, None",20191.65,0.0,49303.11,56153.11,"B: single parent, 2 children",enrolled,0.376,False
+102500,0,25655.24,0.0,6850,0,"None, None",20379.65,0.0,49615.11,56465.11,"B: single parent, 2 children",enrolled,0.376,False
+103000,0,25655.24,0.0,6850,0,"None, None",20567.65,0.0,49927.11,56777.11,"B: single parent, 2 children",enrolled,0.376,False
+103500,0,25655.24,0.0,6850,0,"None, None",20755.65,0.0,50239.11,57089.11,"B: single parent, 2 children",enrolled,0.376,False
+104000,0,25655.24,0.0,6850,0,"None, None",20943.65,0.0,50551.11,57401.11,"B: single parent, 2 children",enrolled,0.376,False
+104500,0,25655.24,0.0,6850,0,"None, None",21131.65,0.0,50863.11,57713.11,"B: single parent, 2 children",enrolled,0.376,False
+105000,0,25655.24,0.0,6850,0,"None, None",21319.65,0.0,51175.11,58025.11,"B: single parent, 2 children",enrolled,0.376,False
+105500,0,25655.24,0.0,6850,0,"None, None",21507.65,0.0,51487.11,58337.11,"B: single parent, 2 children",enrolled,0.376,False
+106000,0,25655.24,0.0,6850,0,"None, None",21695.65,0.0,51799.11,58649.11,"B: single parent, 2 children",enrolled,0.376,False
+106500,0,25655.24,0.0,6850,0,"None, None",21883.65,0.0,52111.11,58961.11,"B: single parent, 2 children",enrolled,0.376,False
+107000,0,25655.24,0.0,6850,0,"None, None",22071.65,0.0,52423.11,59273.11,"B: single parent, 2 children",enrolled,0.376,False
+107500,0,25655.24,0.0,6850,0,"None, None",22259.65,0.0,52735.11,59585.11,"B: single parent, 2 children",enrolled,0.376,False
+108000,0,25655.24,0.0,6850,0,"None, None",22447.65,0.0,53047.11,59897.11,"B: single parent, 2 children",enrolled,0.376,False
+108500,0,25655.24,0.0,6850,0,"None, None",22635.65,0.0,53359.11,60209.11,"B: single parent, 2 children",enrolled,0.376,False
+109000,0,25655.24,0.0,6850,0,"None, None",22823.65,0.0,53671.11,60521.11,"B: single parent, 2 children",enrolled,0.376,False
+109500,0,25655.24,0.0,6850,0,"None, None",23011.65,0.0,53983.11,60833.11,"B: single parent, 2 children",enrolled,0.376,False
+110000,0,25655.24,0.0,6850,0,"None, None",23199.65,0.0,54295.11,61145.11,"B: single parent, 2 children",enrolled,0.376,False
+110500,0,25655.24,0.0,6850,0,"None, None",23387.65,0.0,54607.11,61457.11,"B: single parent, 2 children",enrolled,0.376,False
+111000,0,25655.24,0.0,6850,0,"None, None",23575.65,0.0,54919.11,61769.11,"B: single parent, 2 children",enrolled,0.376,False
+111500,0,25655.24,0.0,6850,0,"None, None",23763.65,0.0,55231.11,62081.11,"B: single parent, 2 children",enrolled,0.376,False
+112000,0,25655.24,0.0,6850,0,"None, None",23951.65,0.0,55543.11,62393.11,"B: single parent, 2 children",enrolled,0.376,False
+112500,0,25655.24,0.0,6850,0,"None, None",24139.65,0.0,55855.11,62705.11,"B: single parent, 2 children",enrolled,0.376,False
+113000,0,25655.24,0.0,6850,0,"None, None",24327.65,0.0,56167.11,63017.11,"B: single parent, 2 children",enrolled,0.376,False
+113500,0,25655.24,0.0,6850,0,"None, None",24515.65,0.0,56479.11,63329.11,"B: single parent, 2 children",enrolled,0.376,False
+114000,0,25655.24,0.0,6850,0,"None, None",24703.65,0.0,56791.11,63641.11,"B: single parent, 2 children",enrolled,0.376,False
+114500,0,25655.24,0.0,6850,0,"None, None",24891.65,0.0,57103.11,63953.11,"B: single parent, 2 children",enrolled,0.376,False
+115000,0,25655.24,0.0,6850,0,"None, None",25079.65,0.0,57415.11,64265.11,"B: single parent, 2 children",enrolled,0.376,False
+115500,0,25655.24,0.0,6850,0,"None, None",25267.65,0.0,57727.11,64577.11,"B: single parent, 2 children",enrolled,0.376,False
+116000,0,25655.24,0.0,6850,0,"None, None",25455.65,0.0,58039.11,64889.11,"B: single parent, 2 children",enrolled,0.376,False
+116500,0,25655.24,0.0,6850,0,"None, None",25643.65,0.0,58351.11,65201.11,"B: single parent, 2 children",enrolled,0.376,False
+117000,0,25655.24,0.0,6850,0,"None, None",25831.65,0.0,58663.11,65513.11,"B: single parent, 2 children",enrolled,0.376,False
+117500,0,25655.24,0.0,6850,0,"None, None",26019.65,0.0,58975.11,65825.11,"B: single parent, 2 children",enrolled,0.376,False
+118000,0,25655.24,0.0,6850,0,"None, None",26207.65,0.0,59287.11,66137.11,"B: single parent, 2 children",enrolled,0.376,False
+118500,0,25655.24,0.0,6850,0,"None, None",26395.65,0.0,59599.11,66449.11,"B: single parent, 2 children",enrolled,0.376,False
+119000,0,25655.24,0.0,6850,0,"None, None",26583.65,0.0,59911.11,66761.11,"B: single parent, 2 children",enrolled,0.376,False
+119500,0,25655.24,0.0,6850,0,"None, None",26771.65,0.0,60223.11,67073.11,"B: single parent, 2 children",enrolled,0.376,False
+120000,0,25655.24,0.0,6850,0,"None, None",26959.65,0.0,60535.11,67385.11,"B: single parent, 2 children",enrolled,0.376,False
+0,9696,0.0,0.0,0,1,"Medicaid, Medicaid",0.0,0.0,9696.0,9696.0,"B: single parent, 2 children",frozen out,,False
+500,9696,411.14,0.0,0,1,"Medicaid, Medicaid",38.25,290.0,10036.61,10036.61,"B: single parent, 2 children",frozen out,0.319,False
+1000,9696,822.28,0.0,0,1,"Medicaid, Medicaid",76.5,580.0,10377.22,10377.22,"B: single parent, 2 children",frozen out,0.319,False
+1500,9696,1233.43,0.0,0,1,"Medicaid, Medicaid",114.75,870.0,10717.82,10717.82,"B: single parent, 2 children",frozen out,0.319,False
+2000,9696,1644.57,0.0,0,1,"Medicaid, Medicaid",153.0,1160.0,11058.43,11058.43,"B: single parent, 2 children",frozen out,0.319,False
+2500,9696,2055.71,0.0,0,1,"Medicaid, Medicaid",191.25,1450.0,11399.04,11399.04,"B: single parent, 2 children",frozen out,0.319,False
+3000,9696,2466.85,0.0,0,1,"Medicaid, Medicaid",229.5,1815.0,11814.65,11814.65,"B: single parent, 2 children",frozen out,0.169,False
+3500,9696,2877.99,0.0,0,1,"Medicaid, Medicaid",267.75,2180.0,12230.26,12230.26,"B: single parent, 2 children",frozen out,0.169,False
+4000,9696,3289.13,0.0,0,1,"Medicaid, Medicaid",306.0,2545.0,12645.87,12645.87,"B: single parent, 2 children",frozen out,0.169,False
+4500,9696,3700.28,0.0,0,1,"Medicaid, Medicaid",344.25,2910.0,13061.47,13061.47,"B: single parent, 2 children",frozen out,0.169,False
+5000,9696,4111.42,0.0,0,1,"Medicaid, Medicaid",382.5,3275.0,13477.08,13477.08,"B: single parent, 2 children",frozen out,0.169,False
+5500,9696,4522.56,0.0,0,1,"Medicaid, Medicaid",420.75,3640.0,13892.69,13892.69,"B: single parent, 2 children",frozen out,0.169,False
+6000,9696,4933.7,0.0,0,1,"Medicaid, Medicaid",459.0,4005.0,14308.3,14308.3,"B: single parent, 2 children",frozen out,0.169,False
+6500,9696,5344.84,0.0,0,1,"Medicaid, Medicaid",497.25,4370.0,14723.91,14723.91,"B: single parent, 2 children",frozen out,0.169,False
+7000,9696,5755.98,0.0,0,1,"Medicaid, Medicaid",535.5,4735.0,15139.52,15139.52,"B: single parent, 2 children",frozen out,0.169,False
+7500,9696,6167.13,0.0,0,1,"Medicaid, Medicaid",573.75,5100.0,15555.12,15555.12,"B: single parent, 2 children",frozen out,0.169,False
+8000,9696,6578.27,0.0,0,1,"Medicaid, Medicaid",612.0,5465.0,15970.73,15970.73,"B: single parent, 2 children",frozen out,0.169,False
+8500,9696,6989.41,0.0,0,1,"Medicaid, Medicaid",650.25,5830.0,16386.34,16386.34,"B: single parent, 2 children",frozen out,0.169,False
+9000,9696,7400.55,0.0,0,1,"Medicaid, Medicaid",688.5,6195.0,16801.95,16801.95,"B: single parent, 2 children",frozen out,0.169,False
+9500,9696,7811.69,0.0,0,1,"Medicaid, Medicaid",726.75,6560.0,17217.56,17217.56,"B: single parent, 2 children",frozen out,0.169,False
+10000,9696,8222.83,0.0,0,1,"Medicaid, Medicaid",765.0,6925.0,17633.17,17633.17,"B: single parent, 2 children",frozen out,0.169,False
+10500,9696,8633.98,0.0,0,1,"Medicaid, Medicaid",803.25,7290.0,18048.77,18048.77,"B: single parent, 2 children",frozen out,0.169,False
+11000,9696,9045.12,0.0,0,1,"Medicaid, Medicaid",841.5,7655.0,18464.38,18464.38,"B: single parent, 2 children",frozen out,0.169,False
+11500,9696,9456.26,0.0,0,1,"Medicaid, Medicaid",879.75,8020.0,18879.99,18879.99,"B: single parent, 2 children",frozen out,0.169,False
+12000,9696,9867.4,0.0,0,1,"Medicaid, Medicaid",918.0,8385.0,19295.6,19295.6,"B: single parent, 2 children",frozen out,0.169,False
+12500,9696,10278.54,0.0,0,1,"Medicaid, Medicaid",956.25,8750.0,19711.21,19711.21,"B: single parent, 2 children",frozen out,0.169,False
+13000,9696,10689.68,0.0,0,1,"Medicaid, Medicaid",994.5,9115.0,20126.82,20126.82,"B: single parent, 2 children",frozen out,0.169,False
+13500,9696,11100.83,0.0,0,1,"Medicaid, Medicaid",1032.75,9480.0,20542.42,20542.42,"B: single parent, 2 children",frozen out,0.169,False
+14000,9696,11511.97,0.0,0,1,"Medicaid, Medicaid",1071.0,9845.0,20958.03,20958.03,"B: single parent, 2 children",frozen out,0.169,False
+14500,9696,11923.11,0.0,0,1,"Medicaid, Medicaid",1109.25,10210.0,21373.64,21373.64,"B: single parent, 2 children",frozen out,0.169,False
+15000,9696,12334.25,0.0,0,1,"Medicaid, Medicaid",1147.5,10575.0,21789.25,21789.25,"B: single parent, 2 children",frozen out,0.169,False
+15500,9696,12745.39,0.0,0,1,"Medicaid, Medicaid",1185.75,10940.0,22204.86,22204.86,"B: single parent, 2 children",frozen out,0.169,False
+16000,9696,13156.53,0.0,0,1,"Medicaid, Medicaid",1224.0,11305.0,22620.47,22620.47,"B: single parent, 2 children",frozen out,0.169,False
+16500,9696,13567.68,0.0,0,1,"Medicaid, Medicaid",1272.65,11670.0,23025.67,23025.67,"B: single parent, 2 children",frozen out,0.19,False
+17000,9696,13978.82,0.0,0,1,"Medicaid, Medicaid",1336.9,12035.0,23415.28,23415.28,"B: single parent, 2 children",frozen out,0.221,False
+17500,9696,14389.96,0.0,0,1,"Medicaid, Medicaid",1403.15,12400.0,23802.89,23802.89,"B: single parent, 2 children",frozen out,0.225,False
+18000,9696,14801.1,0.0,0,1,"Medicaid, Medicaid",1472.4,12765.0,24187.5,24187.5,"B: single parent, 2 children",frozen out,0.231,False
+18500,9696,15212.24,0.0,0,1,"Medicaid, Medicaid",1543.65,13008.2,24448.31,24448.31,"B: single parent, 2 children",frozen out,0.478,False
+19000,9696,15623.38,0.0,0,1,"Medicaid, Medicaid",1617.9,13083.2,24537.92,24537.92,"B: single parent, 2 children",frozen out,0.821,False
+19500,9696,16034.53,0.0,0,1,"Medicaid, Medicaid",1693.65,13158.2,24626.02,24626.02,"B: single parent, 2 children",frozen out,0.824,False
+20000,9696,16445.67,0.0,0,1,"Medicaid, Medicaid",1771.65,13233.2,24711.88,24711.88,"B: single parent, 2 children",frozen out,0.828,False
+20500,9696,16856.81,0.0,0,1,"Medicaid, Medicaid",1849.65,13308.2,24797.74,24797.74,"B: single parent, 2 children",frozen out,0.828,False
+21000,9696,17267.95,0.0,0,1,"Medicaid, Medicaid",1927.65,13383.2,24883.6,24883.6,"B: single parent, 2 children",frozen out,0.828,False
+21500,9696,17679.09,0.0,0,1,"Medicaid, Medicaid",2005.65,13458.2,24969.46,24969.46,"B: single parent, 2 children",frozen out,0.828,False
+22000,9696,18090.23,0.0,0,1,"Medicaid, Medicaid",2083.65,13533.2,25055.32,25055.32,"B: single parent, 2 children",frozen out,0.828,False
+22500,9696,18501.38,0.0,0,1,"Medicaid, Medicaid",2161.65,13608.2,25141.17,25141.17,"B: single parent, 2 children",frozen out,0.828,False
+23000,9696,18912.52,0.0,0,1,"Medicaid, Medicaid",2239.65,13683.2,25227.03,25227.03,"B: single parent, 2 children",frozen out,0.828,False
+23500,9696,19323.66,0.0,0,1,"Medicaid, Medicaid",2317.65,13758.2,25312.89,25312.89,"B: single parent, 2 children",frozen out,0.828,False
+24000,9696,19734.8,0.0,0,1,"Medicaid, Medicaid",2395.65,13799.61,25365.16,25365.16,"B: single parent, 2 children",frozen out,0.895,False
+24500,9696,20145.94,0.0,0,1,"Medicaid, Medicaid",2473.65,13721.93,25298.34,25298.34,"B: single parent, 2 children",frozen out,1.134,True
+25000,9696,20557.08,0.0,0,1,"Medicaid, Medicaid",2551.65,13644.24,25231.51,25231.51,"B: single parent, 2 children",frozen out,1.134,True
+25500,9696,20968.23,0.0,0,1,"Medicaid, Medicaid",2629.65,13516.56,25114.68,25114.68,"B: single parent, 2 children",frozen out,1.234,True
+26000,9696,21379.37,0.0,0,1,"Medicaid, Medicaid",2707.65,13363.87,24972.85,24972.85,"B: single parent, 2 children",frozen out,1.284,True
+26500,9696,21790.51,0.0,0,1,"Medicaid, Medicaid",2785.65,13211.19,24831.03,24831.03,"B: single parent, 2 children",frozen out,1.284,True
+27000,9696,22201.65,0.0,0,1,"Medicaid, Medicaid",2863.65,13058.5,24689.2,24689.2,"B: single parent, 2 children",frozen out,1.284,True
+27500,9696,22612.79,0.0,0,1,"Medicaid, Medicaid",2941.65,12905.82,24547.38,24547.38,"B: single parent, 2 children",frozen out,1.284,True
+28000,9696,23023.93,0.0,0,1,"Medicaid, Medicaid",3019.65,12753.14,24405.56,24405.56,"B: single parent, 2 children",frozen out,1.284,True
+28500,9696,23435.08,0.0,0,1,"Medicaid, Medicaid",3097.65,12600.45,24263.72,24263.72,"B: single parent, 2 children",frozen out,1.284,True
+29000,9696,23846.22,0.0,0,1,"Medicaid, Medicaid",3175.65,12447.77,24121.9,24121.9,"B: single parent, 2 children",frozen out,1.284,True
+29500,9696,24257.36,0.0,0,1,"Medicaid, Medicaid",3253.65,12295.08,23980.07,23980.07,"B: single parent, 2 children",frozen out,1.284,True
+30000,9696,24668.5,0.0,0,1,"Medicaid, Medicaid",3331.65,12142.4,23838.25,23838.25,"B: single parent, 2 children",frozen out,1.284,True
+30500,9696,25079.64,0.0,0,1,"Medicaid, Medicaid",3409.65,11989.71,23696.42,23696.42,"B: single parent, 2 children",frozen out,1.284,True
+31000,9696,25490.78,0.0,0,1,"Medicaid, Medicaid",3487.65,11837.03,23554.6,23554.6,"B: single parent, 2 children",frozen out,1.284,True
+31500,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",3565.65,11684.34,23659.45,23659.45,"B: single parent, 2 children",frozen out,0.79,False
+32000,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",3643.65,11531.66,23928.77,23928.77,"B: single parent, 2 children",frozen out,0.461,False
+32500,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",3721.65,11378.98,24198.09,24198.09,"B: single parent, 2 children",frozen out,0.461,False
+33000,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",3799.65,11226.29,24467.4,24467.4,"B: single parent, 2 children",frozen out,0.461,False
+33500,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",3877.65,11073.61,24736.72,24736.72,"B: single parent, 2 children",frozen out,0.461,False
+34000,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",3955.65,10920.92,25006.03,25006.03,"B: single parent, 2 children",frozen out,0.461,False
+34500,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",4033.65,10733.24,25240.35,25240.35,"B: single parent, 2 children",frozen out,0.531,False
+35000,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",4111.65,10530.55,25459.66,25459.66,"B: single parent, 2 children",frozen out,0.561,False
+35500,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",4189.65,10327.87,25678.98,25678.98,"B: single parent, 2 children",frozen out,0.561,False
+36000,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",4267.65,10125.19,25898.3,25898.3,"B: single parent, 2 children",frozen out,0.561,False
+36500,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",4345.65,9922.5,26117.61,26117.61,"B: single parent, 2 children",frozen out,0.561,False
+37000,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",4423.65,9719.82,26336.93,26336.93,"B: single parent, 2 children",frozen out,0.561,False
+37500,9696,25655.24,0.0,0,1,"Medicaid, Medicaid",4501.65,9517.13,26556.24,26556.24,"B: single parent, 2 children",frozen out,0.561,False
+38000,9696,25655.24,0.0,1440,0,"Medicaid, MCHP",4579.65,9314.45,25335.56,26775.56,"B: single parent, 2 children",frozen out,3.441,True
+38500,9696,25655.24,0.0,1440,0,"Medicaid, MCHP",4657.65,9111.76,25554.87,26994.87,"B: single parent, 2 children",frozen out,0.561,False
+39000,9696,25655.24,0.0,1440,0,"Medicaid, MCHP",4735.65,8909.08,25774.19,27214.19,"B: single parent, 2 children",frozen out,0.561,False
+39500,9696,25655.24,0.0,1440,0,"MCHP, MCHP",4813.65,8706.4,25993.51,27433.51,"B: single parent, 2 children",frozen out,0.561,False
+40000,9696,25655.24,0.0,1440,0,"MCHP, MCHP",4891.65,8503.71,26212.82,27652.82,"B: single parent, 2 children",frozen out,0.561,False
+40500,9696,25655.24,0.0,1440,0,"MCHP, MCHP",4969.65,8301.03,26432.14,27872.14,"B: single parent, 2 children",frozen out,0.561,False
+41000,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5047.65,8098.34,26651.45,28091.45,"B: single parent, 2 children",frozen out,0.561,False
+41500,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5125.65,7895.66,26870.77,28310.77,"B: single parent, 2 children",frozen out,0.561,False
+42000,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5203.65,7689.97,27087.08,28527.08,"B: single parent, 2 children",frozen out,0.567,False
+42500,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5281.65,7477.29,27296.4,28736.4,"B: single parent, 2 children",frozen out,0.581,False
+43000,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5359.65,7264.61,27505.72,28945.72,"B: single parent, 2 children",frozen out,0.581,False
+43500,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5437.65,7051.92,27715.03,29155.03,"B: single parent, 2 children",frozen out,0.581,False
+44000,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5515.65,6839.24,27924.35,29364.35,"B: single parent, 2 children",frozen out,0.581,False
+44500,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5593.65,6626.55,28133.66,29573.66,"B: single parent, 2 children",frozen out,0.581,False
+45000,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5671.65,6413.87,28342.98,29782.98,"B: single parent, 2 children",frozen out,0.581,False
+45500,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5749.65,6201.18,28552.29,29992.29,"B: single parent, 2 children",frozen out,0.581,False
+46000,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5827.65,5988.5,28761.61,30201.61,"B: single parent, 2 children",frozen out,0.581,False
+46500,9696,25655.24,0.0,1440,0,"MCHP, MCHP",5905.65,5775.82,28970.93,30410.93,"B: single parent, 2 children",frozen out,0.581,False
+47000,9660,25655.24,0.0,1440,0,"MCHP, MCHP",5983.65,5563.13,29144.24,30584.24,"B: single parent, 2 children",frozen out,0.653,False
+47500,9540,25655.24,0.0,1440,0,"MCHP, MCHP",6061.65,5350.45,29233.56,30673.56,"B: single parent, 2 children",frozen out,0.821,False
+48000,9420,25655.24,0.0,1440,0,"MCHP, MCHP",6139.65,5137.76,29322.87,30762.87,"B: single parent, 2 children",frozen out,0.821,False
+48500,9300,25655.24,0.0,1440,0,"MCHP, MCHP",6217.65,4925.08,29412.19,30852.19,"B: single parent, 2 children",frozen out,0.821,False
+49000,9180,25655.24,0.0,1440,0,"MCHP, MCHP",6295.65,4712.39,29501.5,30941.5,"B: single parent, 2 children",frozen out,0.821,False
+49500,9060,25655.24,0.0,1440,0,"MCHP, MCHP",6373.65,4499.71,29590.82,31030.82,"B: single parent, 2 children",frozen out,0.821,False
+50000,8940,25655.24,0.0,1440,0,"MCHP, MCHP",6451.65,4287.03,29680.14,31120.14,"B: single parent, 2 children",frozen out,0.821,False
+50500,8820,25655.24,0.0,1440,0,"MCHP, MCHP",6529.65,4074.34,29769.45,31209.45,"B: single parent, 2 children",frozen out,0.821,False
+51000,8700,25655.24,0.0,1440,0,"MCHP, MCHP",6607.65,3861.66,29858.77,31298.77,"B: single parent, 2 children",frozen out,0.821,False
+51500,8580,25655.24,0.0,1440,0,"MCHP, MCHP",6685.65,3648.97,29948.08,31388.08,"B: single parent, 2 children",frozen out,0.821,False
+52000,8460,25655.24,0.0,1440,0,"MCHP, MCHP",6763.65,3436.29,30037.4,31477.4,"B: single parent, 2 children",frozen out,0.821,False
+52500,8340,25655.24,0.0,1440,0,"MCHP, MCHP",6841.65,3223.6,30126.71,31566.71,"B: single parent, 2 children",frozen out,0.821,False
+53000,8220,25655.24,0.0,1440,0,"MCHP, MCHP",6919.65,3010.92,30216.03,31656.03,"B: single parent, 2 children",frozen out,0.821,False
+53500,8100,25655.24,0.0,1440,0,"MCHP, MCHP",6997.65,2798.24,30305.35,31745.35,"B: single parent, 2 children",frozen out,0.821,False
+54000,7980,25655.24,0.0,1440,0,"MCHP, MCHP",7075.65,2585.55,30394.66,31834.66,"B: single parent, 2 children",frozen out,0.821,False
+54500,7860,25655.24,0.0,1440,0,"MCHP, MCHP",7153.65,2372.87,30483.98,31923.98,"B: single parent, 2 children",frozen out,0.821,False
+55000,0,25655.24,0.0,1440,0,"MCHP, MCHP",7231.65,2160.18,22833.29,24273.29,"B: single parent, 2 children",frozen out,16.301,True
+55500,0,25655.24,0.0,1440,0,"MCHP, MCHP",7309.65,1947.5,23042.61,24482.61,"B: single parent, 2 children",frozen out,0.581,False
+56000,0,25655.24,0.0,1440,0,"MCHP, MCHP",7387.65,1734.81,23251.92,24691.92,"B: single parent, 2 children",frozen out,0.581,False
+56500,0,25655.24,0.0,1440,0,"MCHP, MCHP",7465.65,1522.13,23461.24,24901.24,"B: single parent, 2 children",frozen out,0.581,False
+57000,0,25655.24,0.0,1440,0,"MCHP, MCHP",7543.65,1309.45,23670.56,25110.56,"B: single parent, 2 children",frozen out,0.581,False
+57500,0,25655.24,0.0,1440,0,"MCHP, MCHP",7621.65,1096.76,23879.87,25319.87,"B: single parent, 2 children",frozen out,0.581,False
+58000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",7699.65,884.08,23441.19,25529.19,"B: single parent, 2 children",frozen out,1.877,True
+58500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",7777.65,671.39,23650.5,25738.5,"B: single parent, 2 children",frozen out,0.581,False
+59000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",7855.65,572.0,23973.11,26061.11,"B: single parent, 2 children",frozen out,0.355,False
+59500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",7933.65,512.0,24335.11,26423.11,"B: single parent, 2 children",frozen out,0.276,False
+60000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8011.65,452.0,24697.11,26785.11,"B: single parent, 2 children",frozen out,0.276,False
+60500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8089.65,392.0,25059.11,27147.11,"B: single parent, 2 children",frozen out,0.276,False
+61000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8167.65,332.0,25421.11,27509.11,"B: single parent, 2 children",frozen out,0.276,False
+61500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8245.65,272.0,25783.11,27871.11,"B: single parent, 2 children",frozen out,0.276,False
+62000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8323.65,212.0,26145.11,28233.11,"B: single parent, 2 children",frozen out,0.276,False
+62500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8401.65,152.0,26507.11,28595.11,"B: single parent, 2 children",frozen out,0.276,False
+63000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8479.65,92.0,26869.11,28957.11,"B: single parent, 2 children",frozen out,0.276,False
+63500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8557.65,32.0,27231.11,29319.11,"B: single parent, 2 children",frozen out,0.276,False
+64000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8663.65,0.0,27593.11,29681.11,"B: single parent, 2 children",frozen out,0.276,False
+64500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8801.65,0.0,27955.11,30043.11,"B: single parent, 2 children",frozen out,0.276,False
+65000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",8939.65,0.0,28317.11,30405.11,"B: single parent, 2 children",frozen out,0.276,False
+65500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",9077.65,0.0,28679.11,30767.11,"B: single parent, 2 children",frozen out,0.276,False
+66000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",9215.65,0.0,29041.11,31129.11,"B: single parent, 2 children",frozen out,0.276,False
+66500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",9353.65,0.0,29403.11,31491.11,"B: single parent, 2 children",frozen out,0.276,False
+67000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",9491.65,0.0,29765.11,31853.11,"B: single parent, 2 children",frozen out,0.276,False
+67500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",9629.65,0.0,30127.11,32215.11,"B: single parent, 2 children",frozen out,0.276,False
+68000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",9767.65,0.0,30489.11,32577.11,"B: single parent, 2 children",frozen out,0.276,False
+68500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",9905.65,0.0,30851.11,32939.11,"B: single parent, 2 children",frozen out,0.276,False
+69000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",10043.65,0.0,31213.11,33301.11,"B: single parent, 2 children",frozen out,0.276,False
+69500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",10181.65,0.0,31575.11,33663.11,"B: single parent, 2 children",frozen out,0.276,False
+70000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",10319.65,0.0,31937.11,34025.11,"B: single parent, 2 children",frozen out,0.276,False
+70500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",10457.65,0.0,32299.11,34387.11,"B: single parent, 2 children",frozen out,0.276,False
+71000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",10595.65,0.0,32661.11,34749.11,"B: single parent, 2 children",frozen out,0.276,False
+71500,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",10733.65,0.0,33023.11,35111.11,"B: single parent, 2 children",frozen out,0.276,False
+72000,0,25655.24,0.0,2088,0,"MCHP Premium, MCHP Premium",10871.65,0.0,33385.11,35473.11,"B: single parent, 2 children",frozen out,0.276,False
+72500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",11009.65,0.0,33591.11,35835.11,"B: single parent, 2 children",frozen out,0.588,False
+73000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",11147.65,0.0,33953.11,36197.11,"B: single parent, 2 children",frozen out,0.276,False
+73500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",11285.65,0.0,34315.11,36559.11,"B: single parent, 2 children",frozen out,0.276,False
+74000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",11423.65,0.0,34677.11,36921.11,"B: single parent, 2 children",frozen out,0.276,False
+74500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",11561.65,0.0,35039.11,37283.11,"B: single parent, 2 children",frozen out,0.276,False
+75000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",11699.65,0.0,35401.11,37645.11,"B: single parent, 2 children",frozen out,0.276,False
+75500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",11837.65,0.0,35763.11,38007.11,"B: single parent, 2 children",frozen out,0.276,False
+76000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",11975.65,0.0,36125.11,38369.11,"B: single parent, 2 children",frozen out,0.276,False
+76500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",12113.65,0.0,36487.11,38731.11,"B: single parent, 2 children",frozen out,0.276,False
+77000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",12251.65,0.0,36849.11,39093.11,"B: single parent, 2 children",frozen out,0.276,False
+77500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",12389.65,0.0,37211.11,39455.11,"B: single parent, 2 children",frozen out,0.276,False
+78000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",12527.65,0.0,37573.11,39817.11,"B: single parent, 2 children",frozen out,0.276,False
+78500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",12665.65,0.0,37935.11,40179.11,"B: single parent, 2 children",frozen out,0.276,False
+79000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",12803.65,0.0,38297.11,40541.11,"B: single parent, 2 children",frozen out,0.276,False
+79500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",12941.65,0.0,38659.11,40903.11,"B: single parent, 2 children",frozen out,0.276,False
+80000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",13079.65,0.0,39021.11,41265.11,"B: single parent, 2 children",frozen out,0.276,False
+80500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",13217.65,0.0,39383.11,41627.11,"B: single parent, 2 children",frozen out,0.276,False
+81000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",13355.65,0.0,39745.11,41989.11,"B: single parent, 2 children",frozen out,0.276,False
+81500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",13493.65,0.0,40107.11,42351.11,"B: single parent, 2 children",frozen out,0.276,False
+82000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",13631.65,0.0,40469.11,42713.11,"B: single parent, 2 children",frozen out,0.276,False
+82500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",13769.65,0.0,40831.11,43075.11,"B: single parent, 2 children",frozen out,0.276,False
+83000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",13907.65,0.0,41193.11,43437.11,"B: single parent, 2 children",frozen out,0.276,False
+83500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",14045.65,0.0,41555.11,43799.11,"B: single parent, 2 children",frozen out,0.276,False
+84000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",14183.65,0.0,41917.11,44161.11,"B: single parent, 2 children",frozen out,0.276,False
+84500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",14321.65,0.0,42279.11,44523.11,"B: single parent, 2 children",frozen out,0.276,False
+85000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",14459.65,0.0,42641.11,44885.11,"B: single parent, 2 children",frozen out,0.276,False
+85500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",14597.65,0.0,43003.11,45247.11,"B: single parent, 2 children",frozen out,0.276,False
+86000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",14735.65,0.0,43365.11,45609.11,"B: single parent, 2 children",frozen out,0.276,False
+86500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",14873.65,0.0,43727.11,45971.11,"B: single parent, 2 children",frozen out,0.276,False
+87000,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",15011.65,0.0,44089.11,46333.11,"B: single parent, 2 children",frozen out,0.276,False
+87500,0,25655.24,0.0,2244,0,"MCHP Premium, MCHP Premium",15149.65,0.0,44451.11,46695.11,"B: single parent, 2 children",frozen out,0.276,False
+88000,0,25655.24,0.0,6850,0,"None, None",15287.65,0.0,40207.11,47057.11,"B: single parent, 2 children",frozen out,9.488,True
+88500,0,25655.24,0.0,6850,0,"None, None",15425.65,0.0,40569.11,47419.11,"B: single parent, 2 children",frozen out,0.276,False
+89000,0,25655.24,0.0,6850,0,"None, None",15563.65,0.0,40931.11,47781.11,"B: single parent, 2 children",frozen out,0.276,False
+89500,0,25655.24,0.0,6850,0,"None, None",15701.65,0.0,41293.11,48143.11,"B: single parent, 2 children",frozen out,0.276,False
+90000,0,25655.24,0.0,6850,0,"None, None",15839.65,0.0,41655.11,48505.11,"B: single parent, 2 children",frozen out,0.276,False
+90500,0,25655.24,0.0,6850,0,"None, None",15977.65,0.0,42017.11,48867.11,"B: single parent, 2 children",frozen out,0.276,False
+91000,0,25655.24,0.0,6850,0,"None, None",16115.65,0.0,42379.11,49229.11,"B: single parent, 2 children",frozen out,0.276,False
+91500,0,25655.24,0.0,6850,0,"None, None",16253.65,0.0,42741.11,49591.11,"B: single parent, 2 children",frozen out,0.276,False
+92000,0,25655.24,0.0,6850,0,"None, None",16431.65,0.0,43063.11,49913.11,"B: single parent, 2 children",frozen out,0.356,False
+92500,0,25655.24,0.0,6850,0,"None, None",16619.65,0.0,43375.11,50225.11,"B: single parent, 2 children",frozen out,0.376,False
+93000,0,25655.24,0.0,6850,0,"None, None",16807.65,0.0,43687.11,50537.11,"B: single parent, 2 children",frozen out,0.376,False
+93500,0,25655.24,0.0,6850,0,"None, None",16995.65,0.0,43999.11,50849.11,"B: single parent, 2 children",frozen out,0.376,False
+94000,0,25655.24,0.0,6850,0,"None, None",17183.65,0.0,44311.11,51161.11,"B: single parent, 2 children",frozen out,0.376,False
+94500,0,25655.24,0.0,6850,0,"None, None",17371.65,0.0,44623.11,51473.11,"B: single parent, 2 children",frozen out,0.376,False
+95000,0,25655.24,0.0,6850,0,"None, None",17559.65,0.0,44935.11,51785.11,"B: single parent, 2 children",frozen out,0.376,False
+95500,0,25655.24,0.0,6850,0,"None, None",17747.65,0.0,45247.11,52097.11,"B: single parent, 2 children",frozen out,0.376,False
+96000,0,25655.24,0.0,6850,0,"None, None",17935.65,0.0,45559.11,52409.11,"B: single parent, 2 children",frozen out,0.376,False
+96500,0,25655.24,0.0,6850,0,"None, None",18123.65,0.0,45871.11,52721.11,"B: single parent, 2 children",frozen out,0.376,False
+97000,0,25655.24,0.0,6850,0,"None, None",18311.65,0.0,46183.11,53033.11,"B: single parent, 2 children",frozen out,0.376,False
+97500,0,25655.24,0.0,6850,0,"None, None",18499.65,0.0,46495.11,53345.11,"B: single parent, 2 children",frozen out,0.376,False
+98000,0,25655.24,0.0,6850,0,"None, None",18687.65,0.0,46807.11,53657.11,"B: single parent, 2 children",frozen out,0.376,False
+98500,0,25655.24,0.0,6850,0,"None, None",18875.65,0.0,47119.11,53969.11,"B: single parent, 2 children",frozen out,0.376,False
+99000,0,25655.24,0.0,6850,0,"None, None",19063.65,0.0,47431.11,54281.11,"B: single parent, 2 children",frozen out,0.376,False
+99500,0,25655.24,0.0,6850,0,"None, None",19251.65,0.0,47743.11,54593.11,"B: single parent, 2 children",frozen out,0.376,False
+100000,0,25655.24,0.0,6850,0,"None, None",19439.65,0.0,48055.11,54905.11,"B: single parent, 2 children",frozen out,0.376,False
+100500,0,25655.24,0.0,6850,0,"None, None",19627.65,0.0,48367.11,55217.11,"B: single parent, 2 children",frozen out,0.376,False
+101000,0,25655.24,0.0,6850,0,"None, None",19815.65,0.0,48679.11,55529.11,"B: single parent, 2 children",frozen out,0.376,False
+101500,0,25655.24,0.0,6850,0,"None, None",20003.65,0.0,48991.11,55841.11,"B: single parent, 2 children",frozen out,0.376,False
+102000,0,25655.24,0.0,6850,0,"None, None",20191.65,0.0,49303.11,56153.11,"B: single parent, 2 children",frozen out,0.376,False
+102500,0,25655.24,0.0,6850,0,"None, None",20379.65,0.0,49615.11,56465.11,"B: single parent, 2 children",frozen out,0.376,False
+103000,0,25655.24,0.0,6850,0,"None, None",20567.65,0.0,49927.11,56777.11,"B: single parent, 2 children",frozen out,0.376,False
+103500,0,25655.24,0.0,6850,0,"None, None",20755.65,0.0,50239.11,57089.11,"B: single parent, 2 children",frozen out,0.376,False
+104000,0,25655.24,0.0,6850,0,"None, None",20943.65,0.0,50551.11,57401.11,"B: single parent, 2 children",frozen out,0.376,False
+104500,0,25655.24,0.0,6850,0,"None, None",21131.65,0.0,50863.11,57713.11,"B: single parent, 2 children",frozen out,0.376,False
+105000,0,25655.24,0.0,6850,0,"None, None",21319.65,0.0,51175.11,58025.11,"B: single parent, 2 children",frozen out,0.376,False
+105500,0,25655.24,0.0,6850,0,"None, None",21507.65,0.0,51487.11,58337.11,"B: single parent, 2 children",frozen out,0.376,False
+106000,0,25655.24,0.0,6850,0,"None, None",21695.65,0.0,51799.11,58649.11,"B: single parent, 2 children",frozen out,0.376,False
+106500,0,25655.24,0.0,6850,0,"None, None",21883.65,0.0,52111.11,58961.11,"B: single parent, 2 children",frozen out,0.376,False
+107000,0,25655.24,0.0,6850,0,"None, None",22071.65,0.0,52423.11,59273.11,"B: single parent, 2 children",frozen out,0.376,False
+107500,0,25655.24,0.0,6850,0,"None, None",22259.65,0.0,52735.11,59585.11,"B: single parent, 2 children",frozen out,0.376,False
+108000,0,25655.24,0.0,6850,0,"None, None",22447.65,0.0,53047.11,59897.11,"B: single parent, 2 children",frozen out,0.376,False
+108500,0,25655.24,0.0,6850,0,"None, None",22635.65,0.0,53359.11,60209.11,"B: single parent, 2 children",frozen out,0.376,False
+109000,0,25655.24,0.0,6850,0,"None, None",22823.65,0.0,53671.11,60521.11,"B: single parent, 2 children",frozen out,0.376,False
+109500,0,25655.24,0.0,6850,0,"None, None",23011.65,0.0,53983.11,60833.11,"B: single parent, 2 children",frozen out,0.376,False
+110000,0,25655.24,0.0,6850,0,"None, None",23199.65,0.0,54295.11,61145.11,"B: single parent, 2 children",frozen out,0.376,False
+110500,0,25655.24,0.0,6850,0,"None, None",23387.65,0.0,54607.11,61457.11,"B: single parent, 2 children",frozen out,0.376,False
+111000,0,25655.24,0.0,6850,0,"None, None",23575.65,0.0,54919.11,61769.11,"B: single parent, 2 children",frozen out,0.376,False
+111500,0,25655.24,0.0,6850,0,"None, None",23763.65,0.0,55231.11,62081.11,"B: single parent, 2 children",frozen out,0.376,False
+112000,0,25655.24,0.0,6850,0,"None, None",23951.65,0.0,55543.11,62393.11,"B: single parent, 2 children",frozen out,0.376,False
+112500,0,25655.24,0.0,6850,0,"None, None",24139.65,0.0,55855.11,62705.11,"B: single parent, 2 children",frozen out,0.376,False
+113000,0,25655.24,0.0,6850,0,"None, None",24327.65,0.0,56167.11,63017.11,"B: single parent, 2 children",frozen out,0.376,False
+113500,0,25655.24,0.0,6850,0,"None, None",24515.65,0.0,56479.11,63329.11,"B: single parent, 2 children",frozen out,0.376,False
+114000,0,25655.24,0.0,6850,0,"None, None",24703.65,0.0,56791.11,63641.11,"B: single parent, 2 children",frozen out,0.376,False
+114500,0,25655.24,0.0,6850,0,"None, None",24891.65,0.0,57103.11,63953.11,"B: single parent, 2 children",frozen out,0.376,False
+115000,0,25655.24,0.0,6850,0,"None, None",25079.65,0.0,57415.11,64265.11,"B: single parent, 2 children",frozen out,0.376,False
+115500,0,25655.24,0.0,6850,0,"None, None",25267.65,0.0,57727.11,64577.11,"B: single parent, 2 children",frozen out,0.376,False
+116000,0,25655.24,0.0,6850,0,"None, None",25455.65,0.0,58039.11,64889.11,"B: single parent, 2 children",frozen out,0.376,False
+116500,0,25655.24,0.0,6850,0,"None, None",25643.65,0.0,58351.11,65201.11,"B: single parent, 2 children",frozen out,0.376,False
+117000,0,25655.24,0.0,6850,0,"None, None",25831.65,0.0,58663.11,65513.11,"B: single parent, 2 children",frozen out,0.376,False
+117500,0,25655.24,0.0,6850,0,"None, None",26019.65,0.0,58975.11,65825.11,"B: single parent, 2 children",frozen out,0.376,False
+118000,0,25655.24,0.0,6850,0,"None, None",26207.65,0.0,59287.11,66137.11,"B: single parent, 2 children",frozen out,0.376,False
+118500,0,25655.24,0.0,6850,0,"None, None",26395.65,0.0,59599.11,66449.11,"B: single parent, 2 children",frozen out,0.376,False
+119000,0,25655.24,0.0,6850,0,"None, None",26583.65,0.0,59911.11,66761.11,"B: single parent, 2 children",frozen out,0.376,False
+119500,0,25655.24,0.0,6850,0,"None, None",26771.65,0.0,60223.11,67073.11,"B: single parent, 2 children",frozen out,0.376,False
+120000,0,25655.24,0.0,6850,0,"None, None",26959.65,0.0,60535.11,67385.11,"B: single parent, 2 children",frozen out,0.376,False
+0,12276,0.0,0.0,0,2,"Medicaid, Medicaid",0.0,0.0,12276.0,12276.0,"C: two parents, 2 children",enrolled,,False
+500,12276,0.0,411.14,0,2,"Medicaid, Medicaid",38.25,290.0,13027.75,13027.75,"C: two parents, 2 children",enrolled,-0.504,False
+1000,12276,0.0,822.28,0,2,"Medicaid, Medicaid",76.5,580.0,13779.5,13779.5,"C: two parents, 2 children",enrolled,-0.504,False
+1500,12276,0.0,1233.43,0,2,"Medicaid, Medicaid",114.75,870.0,14531.25,14531.25,"C: two parents, 2 children",enrolled,-0.504,False
+2000,12276,0.0,1644.57,0,2,"Medicaid, Medicaid",153.0,1160.0,15283.0,15283.0,"C: two parents, 2 children",enrolled,-0.504,False
+2500,12276,0.0,2055.71,0,2,"Medicaid, Medicaid",191.25,1450.0,16034.75,16034.75,"C: two parents, 2 children",enrolled,-0.504,False
+3000,12276,0.0,2466.85,0,2,"Medicaid, Medicaid",229.5,1815.0,16861.5,16861.5,"C: two parents, 2 children",enrolled,-0.654,False
+3500,12276,0.0,2877.99,0,2,"Medicaid, Medicaid",267.75,2180.0,17688.25,17688.25,"C: two parents, 2 children",enrolled,-0.654,False
+4000,12276,0.0,3289.13,0,2,"Medicaid, Medicaid",306.0,2545.0,18515.0,18515.0,"C: two parents, 2 children",enrolled,-0.654,False
+4500,12276,0.0,3700.28,0,2,"Medicaid, Medicaid",344.25,2910.0,19341.75,19341.75,"C: two parents, 2 children",enrolled,-0.654,False
+5000,12276,0.0,4111.42,0,2,"Medicaid, Medicaid",382.5,3275.0,20168.5,20168.5,"C: two parents, 2 children",enrolled,-0.654,False
+5500,12276,0.0,4522.56,0,2,"Medicaid, Medicaid",420.75,3640.0,20995.25,20995.25,"C: two parents, 2 children",enrolled,-0.654,False
+6000,12276,0.0,4933.7,0,2,"Medicaid, Medicaid",459.0,4005.0,21822.0,21822.0,"C: two parents, 2 children",enrolled,-0.654,False
+6500,12276,0.0,5344.84,0,2,"Medicaid, Medicaid",497.25,4370.0,22648.75,22648.75,"C: two parents, 2 children",enrolled,-0.654,False
+7000,12276,0.0,5755.98,0,2,"Medicaid, Medicaid",535.5,4735.0,23475.5,23475.5,"C: two parents, 2 children",enrolled,-0.654,False
+7500,12276,0.0,6167.13,0,2,"Medicaid, Medicaid",573.75,5100.0,24302.25,24302.25,"C: two parents, 2 children",enrolled,-0.654,False
+8000,12276,0.0,6578.27,0,2,"Medicaid, Medicaid",612.0,5465.0,25129.0,25129.0,"C: two parents, 2 children",enrolled,-0.654,False
+8500,12276,0.0,6989.41,0,2,"Medicaid, Medicaid",650.25,5830.0,25955.75,25955.75,"C: two parents, 2 children",enrolled,-0.654,False
+9000,12276,0.0,7400.55,0,2,"Medicaid, Medicaid",688.5,6195.0,26782.5,26782.5,"C: two parents, 2 children",enrolled,-0.654,False
+9500,12276,0.0,7811.69,0,2,"Medicaid, Medicaid",726.75,6560.0,27609.25,27609.25,"C: two parents, 2 children",enrolled,-0.654,False
+10000,12276,0.0,8222.83,0,2,"Medicaid, Medicaid",765.0,6925.0,28436.0,28436.0,"C: two parents, 2 children",enrolled,-0.654,False
+10500,12276,0.0,8633.98,0,2,"Medicaid, Medicaid",803.25,7290.0,29262.75,29262.75,"C: two parents, 2 children",enrolled,-0.654,False
+11000,12276,0.0,9045.12,0,2,"Medicaid, Medicaid",841.5,7655.0,30089.5,30089.5,"C: two parents, 2 children",enrolled,-0.654,False
+11500,12276,0.0,9456.26,0,2,"Medicaid, Medicaid",879.75,8020.0,30916.25,30916.25,"C: two parents, 2 children",enrolled,-0.654,False
+12000,12276,0.0,9867.4,0,2,"Medicaid, Medicaid",918.0,8385.0,31743.0,31743.0,"C: two parents, 2 children",enrolled,-0.654,False
+12500,12276,0.0,10278.54,0,2,"Medicaid, Medicaid",956.25,8750.0,32569.75,32569.75,"C: two parents, 2 children",enrolled,-0.654,False
+13000,12276,0.0,10689.68,0,2,"Medicaid, Medicaid",994.5,9115.0,33396.5,33396.5,"C: two parents, 2 children",enrolled,-0.654,False
+13500,12276,0.0,11100.83,0,2,"Medicaid, Medicaid",1032.75,9480.0,34223.25,34223.25,"C: two parents, 2 children",enrolled,-0.654,False
+14000,12276,0.0,11511.97,0,2,"Medicaid, Medicaid",1071.0,9845.0,35050.0,35050.0,"C: two parents, 2 children",enrolled,-0.654,False
+14500,12276,0.0,11923.11,0,2,"Medicaid, Medicaid",1109.25,10210.0,35876.75,35876.75,"C: two parents, 2 children",enrolled,-0.654,False
+15000,12264,0.0,12334.25,0,2,"Medicaid, Medicaid",1147.5,10575.0,36691.5,36691.5,"C: two parents, 2 children",enrolled,-0.63,False
+15500,12144,0.0,12745.39,0,2,"Medicaid, Medicaid",1185.75,10940.0,37398.25,37398.25,"C: two parents, 2 children",enrolled,-0.414,False
+16000,12024,0.0,13156.53,0,2,"Medicaid, Medicaid",1224.0,11305.0,38105.0,38105.0,"C: two parents, 2 children",enrolled,-0.414,False
+16500,11904,0.0,13567.68,0,2,"Medicaid, Medicaid",1262.25,11670.0,38811.75,38811.75,"C: two parents, 2 children",enrolled,-0.414,False
+17000,11784,0.0,13978.82,0,2,"Medicaid, Medicaid",1300.5,12035.0,39518.5,39518.5,"C: two parents, 2 children",enrolled,-0.414,False
+17500,11664,0.0,14389.96,0,2,"Medicaid, Medicaid",1338.75,12400.0,40225.25,40225.25,"C: two parents, 2 children",enrolled,-0.414,False
+18000,11544,0.0,14801.1,0,2,"Medicaid, Medicaid",1377.0,12765.0,40932.0,40932.0,"C: two parents, 2 children",enrolled,-0.414,False
+18500,11424,0.0,15212.24,0,2,"Medicaid, Medicaid",1415.25,13008.2,41516.95,41516.95,"C: two parents, 2 children",enrolled,-0.17,False
+19000,11304,0.0,15623.38,0,2,"Medicaid, Medicaid",1453.5,13083.2,41933.7,41933.7,"C: two parents, 2 children",enrolled,0.166,False
+19500,11184,0.0,16034.53,0,2,"Medicaid, Medicaid",1491.75,13158.2,42350.45,42350.45,"C: two parents, 2 children",enrolled,0.166,False
+20000,11064,0.0,16445.67,0,2,"Medicaid, Medicaid",1556.0,13233.2,42741.2,42741.2,"C: two parents, 2 children",enrolled,0.219,False
+20500,10944,0.0,16856.81,0,2,"Medicaid, Medicaid",1620.25,13308.2,43131.95,43131.95,"C: two parents, 2 children",enrolled,0.219,False
+21000,10824,0.0,17267.95,0,2,"Medicaid, Medicaid",1689.5,13383.2,43517.7,43517.7,"C: two parents, 2 children",enrolled,0.229,False
+21500,10704,0.0,17679.09,0,2,"Medicaid, Medicaid",1758.75,13458.2,43903.45,43903.45,"C: two parents, 2 children",enrolled,0.229,False
+22000,10584,0.0,18090.23,0,2,"Medicaid, Medicaid",1833.0,13533.2,44284.2,44284.2,"C: two parents, 2 children",enrolled,0.239,False
+22500,10464,0.0,18501.38,0,2,"Medicaid, Medicaid",1907.25,13608.2,44664.95,44664.95,"C: two parents, 2 children",enrolled,0.239,False
+23000,10344,0.0,18912.52,0,2,"Medicaid, Medicaid",1985.25,13683.2,45041.95,45041.95,"C: two parents, 2 children",enrolled,0.246,False
+23500,10224,0.0,19323.66,0,2,"Medicaid, Medicaid",2063.25,13758.2,45418.95,45418.95,"C: two parents, 2 children",enrolled,0.246,False
+24000,10104,0.0,19734.8,0,2,"Medicaid, Medicaid",2141.25,13833.2,45795.95,45795.95,"C: two parents, 2 children",enrolled,0.246,False
+24500,9984,0.0,20145.94,0,2,"Medicaid, Medicaid",2219.25,13908.2,46172.95,46172.95,"C: two parents, 2 children",enrolled,0.246,False
+25000,9864,0.0,20557.08,0,2,"Medicaid, Medicaid",2297.25,13983.2,46549.95,46549.95,"C: two parents, 2 children",enrolled,0.246,False
+25500,9744,0.0,20968.23,0,2,"Medicaid, Medicaid",2375.25,14008.2,46876.95,46876.95,"C: two parents, 2 children",enrolled,0.346,False
+26000,9624,0.0,21379.37,0,2,"Medicaid, Medicaid",2453.25,14008.2,47178.95,47178.95,"C: two parents, 2 children",enrolled,0.396,False
+26500,9504,0.0,21790.51,0,2,"Medicaid, Medicaid",2531.25,14008.2,47480.95,47480.95,"C: two parents, 2 children",enrolled,0.396,False
+27000,9384,0.0,22201.65,0,2,"Medicaid, Medicaid",2609.25,14008.2,47782.95,47782.95,"C: two parents, 2 children",enrolled,0.396,False
+27500,9264,0.0,22612.79,0,2,"Medicaid, Medicaid",2687.25,14008.2,48084.95,48084.95,"C: two parents, 2 children",enrolled,0.396,False
+28000,9144,0.0,23023.93,0,2,"Medicaid, Medicaid",2765.25,14008.2,48386.95,48386.95,"C: two parents, 2 children",enrolled,0.396,False
+28500,9024,0.0,23435.08,0,2,"Medicaid, Medicaid",2843.25,14008.2,48688.95,48688.95,"C: two parents, 2 children",enrolled,0.396,False
+29000,8904,0.0,23846.22,0,2,"Medicaid, Medicaid",2921.25,14008.2,48990.95,48990.95,"C: two parents, 2 children",enrolled,0.396,False
+29500,8784,0.0,24257.36,0,2,"Medicaid, Medicaid",2999.25,14008.2,49292.95,49292.95,"C: two parents, 2 children",enrolled,0.396,False
+30000,8664,0.0,24668.5,0,2,"Medicaid, Medicaid",3077.25,14008.2,49594.95,49594.95,"C: two parents, 2 children",enrolled,0.396,False
+30500,8544,0.0,25079.64,0,2,"Medicaid, Medicaid",3155.25,14008.2,49896.95,49896.95,"C: two parents, 2 children",enrolled,0.396,False
+31000,8424,0.0,25490.78,0,2,"Medicaid, Medicaid",3233.25,14008.2,50198.95,50198.95,"C: two parents, 2 children",enrolled,0.396,False
+31500,8304,0.0,25655.24,0,2,"Medicaid, Medicaid",3311.25,13904.37,50397.12,50397.12,"C: two parents, 2 children",enrolled,0.604,False
+32000,8184,0.0,25655.24,0,2,"Medicaid, Medicaid",3389.25,13751.69,50546.44,50546.44,"C: two parents, 2 children",enrolled,0.701,False
+32500,8064,0.0,25655.24,0,2,"Medicaid, Medicaid",3467.25,13599.01,50695.76,50695.76,"C: two parents, 2 children",enrolled,0.701,False
+33000,7944,0.0,25655.24,0,2,"Medicaid, Medicaid",3545.25,13446.32,50845.07,50845.07,"C: two parents, 2 children",enrolled,0.701,False
+33500,7824,0.0,25655.24,0,2,"Medicaid, Medicaid",3623.25,13293.64,50994.39,50994.39,"C: two parents, 2 children",enrolled,0.701,False
+34000,7704,0.0,25655.24,0,2,"Medicaid, Medicaid",3701.25,13140.95,51143.7,51143.7,"C: two parents, 2 children",enrolled,0.701,False
+34500,7584,0.0,25655.24,0,2,"Medicaid, Medicaid",3779.25,12988.27,51293.02,51293.02,"C: two parents, 2 children",enrolled,0.701,False
+35000,7464,0.0,25655.24,0,2,"Medicaid, Medicaid",3857.25,12835.58,51442.33,51442.33,"C: two parents, 2 children",enrolled,0.701,False
+35500,7344,0.0,25655.24,0,2,"Medicaid, Medicaid",3935.25,12682.9,51591.65,51591.65,"C: two parents, 2 children",enrolled,0.701,False
+36000,7224,0.0,25655.24,0,2,"Medicaid, Medicaid",4013.25,12530.22,51740.97,51740.97,"C: two parents, 2 children",enrolled,0.701,False
+36500,7104,0.0,25655.24,0,2,"Medicaid, Medicaid",4091.25,12377.53,51890.28,51890.28,"C: two parents, 2 children",enrolled,0.701,False
+37000,6984,0.0,25655.24,0,2,"Medicaid, Medicaid",4169.25,12224.85,52039.6,52039.6,"C: two parents, 2 children",enrolled,0.701,False
+37500,6864,0.0,25655.24,0,2,"Medicaid, Medicaid",4247.25,12072.16,52188.91,52188.91,"C: two parents, 2 children",enrolled,0.701,False
+38000,6744,0.0,25655.24,0,2,"Medicaid, Medicaid",4325.25,11919.48,52338.23,52338.23,"C: two parents, 2 children",enrolled,0.701,False
+38500,6624,0.0,25655.24,0,2,"Medicaid, Medicaid",4403.25,11766.79,52487.54,52487.54,"C: two parents, 2 children",enrolled,0.701,False
+39000,6504,0.0,25655.24,0,2,"Medicaid, Medicaid",4481.25,11614.11,52636.86,52636.86,"C: two parents, 2 children",enrolled,0.701,False
+39500,6384,0.0,25655.24,0,2,"Medicaid, Medicaid",4559.25,11461.43,52786.18,52786.18,"C: two parents, 2 children",enrolled,0.701,False
+40000,6264,0.0,25655.24,0,2,"Medicaid, Medicaid",4637.25,11308.74,52935.49,52935.49,"C: two parents, 2 children",enrolled,0.701,False
+40500,6144,0.0,25655.24,0,2,"Medicaid, Medicaid",4715.25,11156.06,53084.81,53084.81,"C: two parents, 2 children",enrolled,0.701,False
+41000,6024,0.0,25655.24,0,2,"Medicaid, Medicaid",4793.25,11003.37,53234.12,53234.12,"C: two parents, 2 children",enrolled,0.701,False
+41500,5904,0.0,25655.24,0,2,"Medicaid, Medicaid",4871.25,10850.69,53383.44,53383.44,"C: two parents, 2 children",enrolled,0.701,False
+42000,5784,0.0,25655.24,0,2,"Medicaid, Medicaid",4949.25,10698.0,53532.75,53532.75,"C: two parents, 2 children",enrolled,0.701,False
+42500,5664,0.0,25655.24,0,2,"Medicaid, Medicaid",5027.25,10515.32,53652.07,53652.07,"C: two parents, 2 children",enrolled,0.761,False
+43000,5544,0.0,25655.24,0,2,"Medicaid, Medicaid",5105.25,10312.64,53751.39,53751.39,"C: two parents, 2 children",enrolled,0.801,False
+43500,5424,0.0,25655.24,0,2,"Medicaid, Medicaid",5183.25,10109.95,53850.7,53850.7,"C: two parents, 2 children",enrolled,0.801,False
+44000,5304,0.0,25655.24,0,2,"Medicaid, Medicaid",5261.25,9907.27,53950.02,53950.02,"C: two parents, 2 children",enrolled,0.801,False
+44500,5184,0.0,25655.24,0,2,"Medicaid, Medicaid",5339.25,9704.58,54049.33,54049.33,"C: two parents, 2 children",enrolled,0.801,False
+45000,5064,0.0,25655.24,0,2,"Medicaid, Medicaid",5417.25,9501.9,54148.65,54148.65,"C: two parents, 2 children",enrolled,0.801,False
+45500,4944,0.0,25655.24,0,2,"Medicaid, Medicaid",5495.25,9299.21,54247.96,54247.96,"C: two parents, 2 children",enrolled,0.801,False
+46000,4824,0.0,25655.24,6850,0,"Medicaid, MCHP",5573.25,9096.53,47497.28,54347.28,"C: two parents, 2 children",enrolled,14.501,True
+46500,4704,0.0,25655.24,6850,0,"Medicaid, MCHP",5651.25,8893.85,47596.6,54446.6,"C: two parents, 2 children",enrolled,0.801,False
+47000,4584,0.0,25655.24,6850,0,"Medicaid, MCHP",5729.25,8691.16,47695.91,54545.91,"C: two parents, 2 children",enrolled,0.801,False
+47500,4464,0.0,25655.24,6850,0,"MCHP, MCHP",5807.25,8488.48,47795.23,54645.23,"C: two parents, 2 children",enrolled,0.801,False
+48000,4344,0.0,25655.24,6850,0,"MCHP, MCHP",5885.25,8285.79,47894.54,54744.54,"C: two parents, 2 children",enrolled,0.801,False
+48500,4224,0.0,25655.24,6850,0,"MCHP, MCHP",5963.25,8083.11,47993.86,54843.86,"C: two parents, 2 children",enrolled,0.801,False
+49000,4104,0.0,25655.24,6850,0,"MCHP, MCHP",6041.25,7880.42,48093.17,54943.17,"C: two parents, 2 children",enrolled,0.801,False
+49500,3984,0.0,25655.24,6850,0,"MCHP, MCHP",6119.25,7677.74,48192.49,55042.49,"C: two parents, 2 children",enrolled,0.801,False
+50000,3864,0.0,25655.24,6850,0,"MCHP, MCHP",6197.25,7475.06,48291.81,55141.81,"C: two parents, 2 children",enrolled,0.801,False
+50500,3744,0.0,25655.24,6850,0,"MCHP, MCHP",6275.25,7272.37,48391.12,55241.12,"C: two parents, 2 children",enrolled,0.801,False
+51000,3624,0.0,25655.24,6850,0,"MCHP, MCHP",6353.25,7069.69,48490.44,55340.44,"C: two parents, 2 children",enrolled,0.801,False
+51500,3504,0.0,25655.24,6850,0,"MCHP, MCHP",6431.25,6867.0,48589.75,55439.75,"C: two parents, 2 children",enrolled,0.801,False
+52000,3384,0.0,25655.24,6850,0,"MCHP, MCHP",6509.25,6664.32,48689.07,55539.07,"C: two parents, 2 children",enrolled,0.801,False
+52500,3264,0.0,25655.24,6850,0,"MCHP, MCHP",6587.25,6461.63,48788.38,55638.38,"C: two parents, 2 children",enrolled,0.801,False
+53000,3144,0.0,25655.24,6850,0,"MCHP, MCHP",6665.25,6258.95,48887.7,55737.7,"C: two parents, 2 children",enrolled,0.801,False
+53500,3024,0.0,25655.24,6850,0,"MCHP, MCHP",6743.25,6056.27,48987.02,55837.02,"C: two parents, 2 children",enrolled,0.801,False
+54000,2904,0.0,25655.24,6850,0,"MCHP, MCHP",6821.25,5853.58,49086.33,55936.33,"C: two parents, 2 children",enrolled,0.801,False
+54500,2784,0.0,25655.24,6850,0,"MCHP, MCHP",6899.25,5650.9,49185.65,56035.65,"C: two parents, 2 children",enrolled,0.801,False
+55000,2664,0.0,25655.24,6850,0,"MCHP, MCHP",6977.25,5448.21,49284.96,56134.96,"C: two parents, 2 children",enrolled,0.801,False
+55500,2544,0.0,25655.24,6850,0,"MCHP, MCHP",7055.25,5245.53,49384.28,56234.28,"C: two parents, 2 children",enrolled,0.801,False
+56000,2424,0.0,25655.24,6850,0,"MCHP, MCHP",7133.25,5042.84,49483.59,56333.59,"C: two parents, 2 children",enrolled,0.801,False
+56500,2304,0.0,25655.24,6850,0,"MCHP, MCHP",7211.25,4840.16,49582.91,56432.91,"C: two parents, 2 children",enrolled,0.801,False
+57000,2160,0.0,25655.24,6850,0,"MCHP, MCHP",7289.25,4637.48,49658.23,56508.23,"C: two parents, 2 children",enrolled,0.849,False
+57500,1980,0.0,25655.24,6850,0,"MCHP, MCHP",7367.25,4424.79,49687.54,56537.54,"C: two parents, 2 children",enrolled,0.941,False
+58000,1800,0.0,25655.24,6850,0,"MCHP, MCHP",7445.25,4212.11,49716.86,56566.86,"C: two parents, 2 children",enrolled,0.941,False
+58500,1620,0.0,25655.24,6850,0,"MCHP, MCHP",7523.25,3999.42,49746.17,56596.17,"C: two parents, 2 children",enrolled,0.941,False
+59000,1440,0.0,25655.24,6850,0,"MCHP, MCHP",7601.25,3786.74,49775.49,56625.49,"C: two parents, 2 children",enrolled,0.941,False
+59500,1260,0.0,25655.24,6850,0,"MCHP, MCHP",7679.25,3574.05,49804.8,56654.8,"C: two parents, 2 children",enrolled,0.941,False
+60000,1080,0.0,25655.24,6850,0,"MCHP, MCHP",7757.25,3361.37,49834.12,56684.12,"C: two parents, 2 children",enrolled,0.941,False
+60500,900,0.0,25655.24,6850,0,"MCHP, MCHP",7835.25,3148.69,49863.44,56713.44,"C: two parents, 2 children",enrolled,0.941,False
+61000,720,0.0,25655.24,6850,0,"MCHP, MCHP",7913.25,2936.0,49892.75,56742.75,"C: two parents, 2 children",enrolled,0.941,False
+61500,540,0.0,25655.24,6850,0,"MCHP, MCHP",7991.25,2723.32,49922.07,56772.07,"C: two parents, 2 children",enrolled,0.941,False
+62000,360,0.0,25655.24,6850,0,"MCHP, MCHP",8069.25,2510.63,49951.38,56801.38,"C: two parents, 2 children",enrolled,0.941,False
+62500,180,0.0,25655.24,6850,0,"MCHP, MCHP",8147.25,2297.95,49980.7,56830.7,"C: two parents, 2 children",enrolled,0.941,False
+63000,1104,2450.56,23204.68,6850,0,"MCHP, MCHP",8225.25,2085.26,48663.45,55513.45,"C: two parents, 2 children",enrolled,3.634,True
+63500,936,2482.23,23173.01,6850,0,"MCHP, MCHP",8303.25,1872.58,48673.1,55523.1,"C: two parents, 2 children",enrolled,0.981,False
+64000,768,2513.9,23141.34,6850,0,"MCHP, MCHP",8381.25,1659.89,48682.74,55532.74,"C: two parents, 2 children",enrolled,0.981,False
+64500,600,2545.58,23109.66,6850,0,"MCHP, MCHP",8459.25,1447.21,48692.38,55542.38,"C: two parents, 2 children",enrolled,0.981,False
+65000,432,2577.25,23077.99,6850,0,"MCHP, MCHP",8537.25,1234.53,48702.03,55552.03,"C: two parents, 2 children",enrolled,0.981,False
+65500,264,2608.92,23046.32,6850,0,"MCHP, MCHP",8615.25,1021.84,48711.67,55561.67,"C: two parents, 2 children",enrolled,0.981,False
+66000,108,2640.59,23014.65,6850,0,"MCHP, MCHP",8693.25,840.0,48764.16,55614.16,"C: two parents, 2 children",enrolled,0.895,False
+66500,0,2672.27,22982.97,6850,0,"MCHP, MCHP",8771.25,780.0,48986.48,55836.48,"C: two parents, 2 children",enrolled,0.555,False
+67000,0,2703.94,22951.3,6850,0,"MCHP, MCHP",8849.25,720.0,49316.81,56166.81,"C: two parents, 2 children",enrolled,0.339,False
+67500,0,2735.61,22919.63,6850,0,"MCHP, MCHP",8927.25,660.0,49647.14,56497.14,"C: two parents, 2 children",enrolled,0.339,False
+68000,0,2767.29,22887.95,6850,0,"MCHP, MCHP",9005.25,600.0,49977.46,56827.46,"C: two parents, 2 children",enrolled,0.339,False
+68500,0,2798.96,22856.28,6850,0,"MCHP, MCHP",9083.25,540.0,50307.79,57157.79,"C: two parents, 2 children",enrolled,0.339,False
+69000,0,2830.63,22824.61,6850,0,"MCHP, MCHP",9161.25,480.0,50638.12,57488.12,"C: two parents, 2 children",enrolled,0.339,False
+69500,0,2862.31,22792.93,6850,0,"MCHP, MCHP",9239.25,420.0,50968.44,57818.44,"C: two parents, 2 children",enrolled,0.339,False
+70000,0,2893.98,22761.26,7498,0,"MCHP Premium, MCHP Premium",9317.25,360.0,50650.77,58148.77,"C: two parents, 2 children",enrolled,1.635,True
+70500,0,2925.65,22729.59,7498,0,"MCHP Premium, MCHP Premium",9395.25,300.0,50981.1,58479.1,"C: two parents, 2 children",enrolled,0.339,False
+71000,0,2957.33,22697.91,7498,0,"MCHP Premium, MCHP Premium",9473.25,240.0,51311.42,58809.42,"C: two parents, 2 children",enrolled,0.339,False
+71500,0,2989.0,22666.24,7498,0,"MCHP Premium, MCHP Premium",9551.25,180.0,51641.75,59139.75,"C: two parents, 2 children",enrolled,0.339,False
+72000,0,3020.67,22634.57,7498,0,"MCHP Premium, MCHP Premium",9629.25,120.0,51972.08,59470.08,"C: two parents, 2 children",enrolled,0.339,False
+72500,0,3052.35,22602.89,7498,0,"MCHP Premium, MCHP Premium",9707.25,60.0,52302.4,59800.4,"C: two parents, 2 children",enrolled,0.339,False
+73000,0,3084.02,22571.22,7498,0,"MCHP Premium, MCHP Premium",9785.25,0.0,52632.73,60130.73,"C: two parents, 2 children",enrolled,0.339,False
+73500,0,3115.69,22539.55,7498,0,"MCHP Premium, MCHP Premium",9923.25,0.0,52963.06,60461.06,"C: two parents, 2 children",enrolled,0.339,False
+74000,0,3147.37,22507.87,7498,0,"MCHP Premium, MCHP Premium",10061.25,0.0,53293.38,60791.38,"C: two parents, 2 children",enrolled,0.339,False
+74500,0,3179.04,22476.2,7498,0,"MCHP Premium, MCHP Premium",10199.25,0.0,53623.71,61121.71,"C: two parents, 2 children",enrolled,0.339,False
+75000,0,3210.71,22444.53,7498,0,"MCHP Premium, MCHP Premium",10337.25,0.0,53954.04,61452.04,"C: two parents, 2 children",enrolled,0.339,False
+75500,0,3242.39,22412.85,7498,0,"MCHP Premium, MCHP Premium",10475.25,0.0,54284.36,61782.36,"C: two parents, 2 children",enrolled,0.339,False
+76000,0,3274.06,22381.18,7498,0,"MCHP Premium, MCHP Premium",10613.25,0.0,54614.69,62112.69,"C: two parents, 2 children",enrolled,0.339,False
+76500,0,3305.73,22349.51,7498,0,"MCHP Premium, MCHP Premium",10751.25,0.0,54945.02,62443.02,"C: two parents, 2 children",enrolled,0.339,False
+77000,0,3337.41,22317.83,7498,0,"MCHP Premium, MCHP Premium",10889.25,0.0,55275.34,62773.34,"C: two parents, 2 children",enrolled,0.339,False
+77500,0,3369.08,22286.16,7498,0,"MCHP Premium, MCHP Premium",11027.25,0.0,55605.67,63103.67,"C: two parents, 2 children",enrolled,0.339,False
+78000,0,3400.75,22254.49,7498,0,"MCHP Premium, MCHP Premium",11165.25,0.0,55936.0,63434.0,"C: two parents, 2 children",enrolled,0.339,False
+78500,0,3432.43,22222.81,7498,0,"MCHP Premium, MCHP Premium",11303.25,0.0,56266.32,63764.32,"C: two parents, 2 children",enrolled,0.339,False
+79000,0,3464.1,22191.14,7498,0,"MCHP Premium, MCHP Premium",11441.25,0.0,56596.65,64094.65,"C: two parents, 2 children",enrolled,0.339,False
+79500,0,3495.77,22159.47,7498,0,"MCHP Premium, MCHP Premium",11579.25,0.0,56926.98,64424.98,"C: two parents, 2 children",enrolled,0.339,False
+80000,0,3527.45,22127.79,7498,0,"MCHP Premium, MCHP Premium",11717.25,0.0,57257.3,64755.3,"C: two parents, 2 children",enrolled,0.339,False
+80500,0,3559.12,22096.12,7498,0,"MCHP Premium, MCHP Premium",11855.25,0.0,57587.63,65085.63,"C: two parents, 2 children",enrolled,0.339,False
+81000,0,3590.79,22064.45,7498,0,"MCHP Premium, MCHP Premium",11993.25,0.0,57917.96,65415.96,"C: two parents, 2 children",enrolled,0.339,False
+81500,0,3622.47,22032.77,7498,0,"MCHP Premium, MCHP Premium",12131.25,0.0,58248.28,65746.28,"C: two parents, 2 children",enrolled,0.339,False
+82000,0,3654.14,22001.1,7498,0,"MCHP Premium, MCHP Premium",12269.25,0.0,58578.61,66076.61,"C: two parents, 2 children",enrolled,0.339,False
+82500,0,3685.81,21969.43,7498,0,"MCHP Premium, MCHP Premium",12407.25,0.0,58908.94,66406.94,"C: two parents, 2 children",enrolled,0.339,False
+83000,0,3717.49,21937.75,7498,0,"MCHP Premium, MCHP Premium",12545.25,0.0,59239.26,66737.26,"C: two parents, 2 children",enrolled,0.339,False
+83500,0,3749.16,21906.08,7498,0,"MCHP Premium, MCHP Premium",12683.25,0.0,59569.59,67067.59,"C: two parents, 2 children",enrolled,0.339,False
+84000,0,3780.83,21874.41,7498,0,"MCHP Premium, MCHP Premium",12821.25,0.0,59899.92,67397.92,"C: two parents, 2 children",enrolled,0.339,False
+84500,0,3812.51,21842.73,7498,0,"MCHP Premium, MCHP Premium",12959.25,0.0,60230.24,67728.24,"C: two parents, 2 children",enrolled,0.339,False
+85000,0,3844.18,21811.06,7498,0,"MCHP Premium, MCHP Premium",13097.25,0.0,60560.57,68058.57,"C: two parents, 2 children",enrolled,0.339,False
+85500,0,3875.85,21779.39,7498,0,"MCHP Premium, MCHP Premium",13235.25,0.0,60890.9,68388.9,"C: two parents, 2 children",enrolled,0.339,False
+86000,0,3907.52,21747.72,7498,0,"MCHP Premium, MCHP Premium",13373.25,0.0,61221.23,68719.23,"C: two parents, 2 children",enrolled,0.339,False
+86500,0,3939.2,21716.04,7498,0,"MCHP Premium, MCHP Premium",13511.25,0.0,61551.55,69049.55,"C: two parents, 2 children",enrolled,0.339,False
+87000,0,3970.87,21684.37,7498,0,"MCHP Premium, MCHP Premium",13649.25,0.0,61881.88,69379.88,"C: two parents, 2 children",enrolled,0.339,False
+87500,0,4002.54,21652.7,7654,0,"MCHP Premium, MCHP Premium",13787.25,0.0,62056.21,69710.21,"C: two parents, 2 children",enrolled,0.651,False
+88000,0,4034.22,21621.02,7654,0,"MCHP Premium, MCHP Premium",13925.25,0.0,62386.53,70040.53,"C: two parents, 2 children",enrolled,0.339,False
+88500,0,4065.89,21589.35,7654,0,"MCHP Premium, MCHP Premium",14063.25,0.0,62716.86,70370.86,"C: two parents, 2 children",enrolled,0.339,False
+89000,0,4097.56,21557.68,7654,0,"MCHP Premium, MCHP Premium",14201.25,0.0,63047.19,70701.19,"C: two parents, 2 children",enrolled,0.339,False
+89500,0,4129.24,21526.0,7654,0,"MCHP Premium, MCHP Premium",14339.25,0.0,63377.51,71031.51,"C: two parents, 2 children",enrolled,0.339,False
+90000,0,4160.91,21494.33,7654,0,"MCHP Premium, MCHP Premium",14477.25,0.0,63707.84,71361.84,"C: two parents, 2 children",enrolled,0.339,False
+90500,0,4192.58,21462.66,7654,0,"MCHP Premium, MCHP Premium",14615.25,0.0,64038.17,71692.17,"C: two parents, 2 children",enrolled,0.339,False
+91000,0,4224.26,21430.98,7654,0,"MCHP Premium, MCHP Premium",14753.25,0.0,64368.49,72022.49,"C: two parents, 2 children",enrolled,0.339,False
+91500,0,4255.93,21399.31,7654,0,"MCHP Premium, MCHP Premium",14891.25,0.0,64698.82,72352.82,"C: two parents, 2 children",enrolled,0.339,False
+92000,0,4287.6,21367.64,7654,0,"MCHP Premium, MCHP Premium",15029.25,0.0,65029.15,72683.15,"C: two parents, 2 children",enrolled,0.339,False
+92500,0,4319.28,21335.96,7654,0,"MCHP Premium, MCHP Premium",15167.25,0.0,65359.47,73013.47,"C: two parents, 2 children",enrolled,0.339,False
+93000,0,4350.95,21304.29,7654,0,"MCHP Premium, MCHP Premium",15305.25,0.0,65689.8,73343.8,"C: two parents, 2 children",enrolled,0.339,False
+93500,0,4382.62,21272.62,7654,0,"MCHP Premium, MCHP Premium",15443.25,0.0,66020.13,73674.13,"C: two parents, 2 children",enrolled,0.339,False
+94000,0,4414.3,21240.94,7654,0,"MCHP Premium, MCHP Premium",15581.25,0.0,66350.45,74004.45,"C: two parents, 2 children",enrolled,0.339,False
+94500,0,4445.97,21209.27,7654,0,"MCHP Premium, MCHP Premium",15719.25,0.0,66680.78,74334.78,"C: two parents, 2 children",enrolled,0.339,False
+95000,0,4477.64,21177.6,7654,0,"MCHP Premium, MCHP Premium",15857.25,0.0,67011.11,74665.11,"C: two parents, 2 children",enrolled,0.339,False
+95500,0,4509.32,21145.92,7654,0,"MCHP Premium, MCHP Premium",15995.25,0.0,67341.43,74995.43,"C: two parents, 2 children",enrolled,0.339,False
+96000,0,4540.99,21114.25,7654,0,"MCHP Premium, MCHP Premium",16133.25,0.0,67671.76,75325.76,"C: two parents, 2 children",enrolled,0.339,False
+96500,0,4572.66,21082.58,7654,0,"MCHP Premium, MCHP Premium",16271.25,0.0,68002.09,75656.09,"C: two parents, 2 children",enrolled,0.339,False
+97000,0,4604.34,21050.9,7654,0,"MCHP Premium, MCHP Premium",16409.25,0.0,68332.41,75986.41,"C: two parents, 2 children",enrolled,0.339,False
+97500,0,4636.01,21019.23,7654,0,"MCHP Premium, MCHP Premium",16547.25,0.0,68662.74,76316.74,"C: two parents, 2 children",enrolled,0.339,False
+98000,0,4667.68,20987.56,7654,0,"MCHP Premium, MCHP Premium",16685.25,0.0,68993.07,76647.07,"C: two parents, 2 children",enrolled,0.339,False
+98500,0,4699.36,20955.88,7654,0,"MCHP Premium, MCHP Premium",16823.25,0.0,69323.39,76977.39,"C: two parents, 2 children",enrolled,0.339,False
+99000,0,4731.03,20924.21,7654,0,"MCHP Premium, MCHP Premium",16961.25,0.0,69653.72,77307.72,"C: two parents, 2 children",enrolled,0.339,False
+99500,0,4762.7,20892.54,7654,0,"MCHP Premium, MCHP Premium",17099.25,0.0,69984.05,77638.05,"C: two parents, 2 children",enrolled,0.339,False
+100000,0,4794.38,20860.86,7654,0,"MCHP Premium, MCHP Premium",17237.25,0.0,70314.37,77968.37,"C: two parents, 2 children",enrolled,0.339,False
+100500,0,4826.05,20829.19,7654,0,"MCHP Premium, MCHP Premium",17375.25,0.0,70644.7,78298.7,"C: two parents, 2 children",enrolled,0.339,False
+101000,0,4857.72,20797.52,7654,0,"MCHP Premium, MCHP Premium",17513.25,0.0,70975.03,78629.03,"C: two parents, 2 children",enrolled,0.339,False
+101500,0,4889.4,20765.84,7654,0,"MCHP Premium, MCHP Premium",17651.25,0.0,71305.35,78959.35,"C: two parents, 2 children",enrolled,0.339,False
+102000,0,4921.07,20734.17,7654,0,"MCHP Premium, MCHP Premium",17789.25,0.0,71635.68,79289.68,"C: two parents, 2 children",enrolled,0.339,False
+102500,0,4952.74,20702.5,7654,0,"MCHP Premium, MCHP Premium",17927.25,0.0,71966.01,79620.01,"C: two parents, 2 children",enrolled,0.339,False
+103000,0,4984.42,20670.82,7654,0,"MCHP Premium, MCHP Premium",18065.25,0.0,72296.33,79950.33,"C: two parents, 2 children",enrolled,0.339,False
+103500,0,5016.09,20639.15,7654,0,"MCHP Premium, MCHP Premium",18203.25,0.0,72626.66,80280.66,"C: two parents, 2 children",enrolled,0.339,False
+104000,0,5047.76,20607.48,7654,0,"MCHP Premium, MCHP Premium",18341.25,0.0,72956.99,80610.99,"C: two parents, 2 children",enrolled,0.339,False
+104500,0,5079.44,20575.8,7654,0,"MCHP Premium, MCHP Premium",18479.25,0.0,73287.31,80941.31,"C: two parents, 2 children",enrolled,0.339,False
+105000,0,5111.11,20544.13,7654,0,"MCHP Premium, MCHP Premium",18617.25,0.0,73617.64,81271.64,"C: two parents, 2 children",enrolled,0.339,False
+105500,0,5142.78,20512.46,7654,0,"MCHP Premium, MCHP Premium",18755.25,0.0,73947.97,81601.97,"C: two parents, 2 children",enrolled,0.339,False
+106000,0,5174.46,20480.78,7654,0,"MCHP Premium, MCHP Premium",18893.25,0.0,74278.29,81932.29,"C: two parents, 2 children",enrolled,0.339,False
+106500,0,5206.13,20449.11,6850,0,"None, None",19031.25,0.0,75412.62,82262.62,"C: two parents, 2 children",enrolled,-1.269,False
+107000,0,5237.8,20417.44,6850,0,"None, None",19169.25,0.0,75742.95,82592.95,"C: two parents, 2 children",enrolled,0.339,False
+107500,0,5269.47,20385.77,6850,0,"None, None",19307.25,0.0,76073.28,82923.28,"C: two parents, 2 children",enrolled,0.339,False
+108000,0,5301.15,20354.09,6850,0,"None, None",19445.25,0.0,76403.6,83253.6,"C: two parents, 2 children",enrolled,0.339,False
+108500,0,5332.82,20322.42,6850,0,"None, None",19583.25,0.0,76733.93,83583.93,"C: two parents, 2 children",enrolled,0.339,False
+109000,0,5364.49,20290.75,6850,0,"None, None",19721.25,0.0,77064.26,83914.26,"C: two parents, 2 children",enrolled,0.339,False
+109500,0,5396.17,20259.07,6850,0,"None, None",19859.25,0.0,77394.58,84244.58,"C: two parents, 2 children",enrolled,0.339,False
+110000,0,5427.84,20227.4,6850,0,"None, None",19997.25,0.0,77724.91,84574.91,"C: two parents, 2 children",enrolled,0.339,False
+110500,0,5459.51,20195.73,6850,0,"None, None",20135.25,0.0,78055.24,84905.24,"C: two parents, 2 children",enrolled,0.339,False
+111000,0,5491.19,20164.05,6850,0,"None, None",20273.25,0.0,78385.56,85235.56,"C: two parents, 2 children",enrolled,0.339,False
+111500,0,5522.86,20132.38,6850,0,"None, None",20411.25,0.0,78715.89,85565.89,"C: two parents, 2 children",enrolled,0.339,False
+112000,0,25655.24,0.0,6850,0,"None, None",20549.25,0.0,58945.51,65795.51,"C: two parents, 2 children",enrolled,40.541,True
+112500,0,25655.24,0.0,6850,0,"None, None",20687.25,0.0,59307.51,66157.51,"C: two parents, 2 children",enrolled,0.276,False
+113000,0,25655.24,0.0,6850,0,"None, None",20825.25,0.0,59669.51,66519.51,"C: two parents, 2 children",enrolled,0.276,False
+113500,0,25655.24,0.0,6850,0,"None, None",20963.25,0.0,60031.51,66881.51,"C: two parents, 2 children",enrolled,0.276,False
+114000,0,25655.24,0.0,6850,0,"None, None",21101.25,0.0,60393.51,67243.51,"C: two parents, 2 children",enrolled,0.276,False
+114500,0,25655.24,0.0,6850,0,"None, None",21239.25,0.0,60755.51,67605.51,"C: two parents, 2 children",enrolled,0.276,False
+115000,0,25655.24,0.0,6850,0,"None, None",21377.25,0.0,61117.51,67967.51,"C: two parents, 2 children",enrolled,0.276,False
+115500,0,25655.24,0.0,6850,0,"None, None",21515.25,0.0,61479.51,68329.51,"C: two parents, 2 children",enrolled,0.276,False
+116000,0,25655.24,0.0,6850,0,"None, None",21653.25,0.0,61841.51,68691.51,"C: two parents, 2 children",enrolled,0.276,False
+116500,0,25655.24,0.0,6850,0,"None, None",21791.25,0.0,62203.51,69053.51,"C: two parents, 2 children",enrolled,0.276,False
+117000,0,25655.24,0.0,6850,0,"None, None",21929.25,0.0,62565.51,69415.51,"C: two parents, 2 children",enrolled,0.276,False
+117500,0,25655.24,0.0,6850,0,"None, None",22067.25,0.0,62927.51,69777.51,"C: two parents, 2 children",enrolled,0.276,False
+118000,0,25655.24,0.0,6850,0,"None, None",22205.25,0.0,63289.51,70139.51,"C: two parents, 2 children",enrolled,0.276,False
+118500,0,25655.24,0.0,6850,0,"None, None",22343.25,0.0,63651.51,70501.51,"C: two parents, 2 children",enrolled,0.276,False
+119000,0,25655.24,0.0,6850,0,"None, None",22481.25,0.0,64013.51,70863.51,"C: two parents, 2 children",enrolled,0.276,False
+119500,0,25655.24,0.0,6850,0,"None, None",22619.25,0.0,64375.51,71225.51,"C: two parents, 2 children",enrolled,0.276,False
+120000,0,25655.24,0.0,6850,0,"None, None",22757.25,0.0,64737.51,71587.51,"C: two parents, 2 children",enrolled,0.276,False
+0,12276,0.0,0.0,0,2,"Medicaid, Medicaid",0.0,0.0,12276.0,12276.0,"C: two parents, 2 children",frozen out,,False
+500,12276,411.14,0.0,0,2,"Medicaid, Medicaid",38.25,290.0,12616.61,12616.61,"C: two parents, 2 children",frozen out,0.319,False
+1000,12276,822.28,0.0,0,2,"Medicaid, Medicaid",76.5,580.0,12957.22,12957.22,"C: two parents, 2 children",frozen out,0.319,False
+1500,12276,1233.43,0.0,0,2,"Medicaid, Medicaid",114.75,870.0,13297.82,13297.82,"C: two parents, 2 children",frozen out,0.319,False
+2000,12276,1644.57,0.0,0,2,"Medicaid, Medicaid",153.0,1160.0,13638.43,13638.43,"C: two parents, 2 children",frozen out,0.319,False
+2500,12276,2055.71,0.0,0,2,"Medicaid, Medicaid",191.25,1450.0,13979.04,13979.04,"C: two parents, 2 children",frozen out,0.319,False
+3000,12276,2466.85,0.0,0,2,"Medicaid, Medicaid",229.5,1815.0,14394.65,14394.65,"C: two parents, 2 children",frozen out,0.169,False
+3500,12276,2877.99,0.0,0,2,"Medicaid, Medicaid",267.75,2180.0,14810.26,14810.26,"C: two parents, 2 children",frozen out,0.169,False
+4000,12276,3289.13,0.0,0,2,"Medicaid, Medicaid",306.0,2545.0,15225.87,15225.87,"C: two parents, 2 children",frozen out,0.169,False
+4500,12276,3700.28,0.0,0,2,"Medicaid, Medicaid",344.25,2910.0,15641.47,15641.47,"C: two parents, 2 children",frozen out,0.169,False
+5000,12276,4111.42,0.0,0,2,"Medicaid, Medicaid",382.5,3275.0,16057.08,16057.08,"C: two parents, 2 children",frozen out,0.169,False
+5500,12276,4522.56,0.0,0,2,"Medicaid, Medicaid",420.75,3640.0,16472.69,16472.69,"C: two parents, 2 children",frozen out,0.169,False
+6000,12276,4933.7,0.0,0,2,"Medicaid, Medicaid",459.0,4005.0,16888.3,16888.3,"C: two parents, 2 children",frozen out,0.169,False
+6500,12276,5344.84,0.0,0,2,"Medicaid, Medicaid",497.25,4370.0,17303.91,17303.91,"C: two parents, 2 children",frozen out,0.169,False
+7000,12276,5755.98,0.0,0,2,"Medicaid, Medicaid",535.5,4735.0,17719.52,17719.52,"C: two parents, 2 children",frozen out,0.169,False
+7500,12276,6167.13,0.0,0,2,"Medicaid, Medicaid",573.75,5100.0,18135.12,18135.12,"C: two parents, 2 children",frozen out,0.169,False
+8000,12276,6578.27,0.0,0,2,"Medicaid, Medicaid",612.0,5465.0,18550.73,18550.73,"C: two parents, 2 children",frozen out,0.169,False
+8500,12276,6989.41,0.0,0,2,"Medicaid, Medicaid",650.25,5830.0,18966.34,18966.34,"C: two parents, 2 children",frozen out,0.169,False
+9000,12276,7400.55,0.0,0,2,"Medicaid, Medicaid",688.5,6195.0,19381.95,19381.95,"C: two parents, 2 children",frozen out,0.169,False
+9500,12276,7811.69,0.0,0,2,"Medicaid, Medicaid",726.75,6560.0,19797.56,19797.56,"C: two parents, 2 children",frozen out,0.169,False
+10000,12276,8222.83,0.0,0,2,"Medicaid, Medicaid",765.0,6925.0,20213.17,20213.17,"C: two parents, 2 children",frozen out,0.169,False
+10500,12276,8633.98,0.0,0,2,"Medicaid, Medicaid",803.25,7290.0,20628.77,20628.77,"C: two parents, 2 children",frozen out,0.169,False
+11000,12276,9045.12,0.0,0,2,"Medicaid, Medicaid",841.5,7655.0,21044.38,21044.38,"C: two parents, 2 children",frozen out,0.169,False
+11500,12276,9456.26,0.0,0,2,"Medicaid, Medicaid",879.75,8020.0,21459.99,21459.99,"C: two parents, 2 children",frozen out,0.169,False
+12000,12276,9867.4,0.0,0,2,"Medicaid, Medicaid",918.0,8385.0,21875.6,21875.6,"C: two parents, 2 children",frozen out,0.169,False
+12500,12276,10278.54,0.0,0,2,"Medicaid, Medicaid",956.25,8750.0,22291.21,22291.21,"C: two parents, 2 children",frozen out,0.169,False
+13000,12276,10689.68,0.0,0,2,"Medicaid, Medicaid",994.5,9115.0,22706.82,22706.82,"C: two parents, 2 children",frozen out,0.169,False
+13500,12276,11100.83,0.0,0,2,"Medicaid, Medicaid",1032.75,9480.0,23122.42,23122.42,"C: two parents, 2 children",frozen out,0.169,False
+14000,12276,11511.97,0.0,0,2,"Medicaid, Medicaid",1071.0,9845.0,23538.03,23538.03,"C: two parents, 2 children",frozen out,0.169,False
+14500,12276,11923.11,0.0,0,2,"Medicaid, Medicaid",1109.25,10210.0,23953.64,23953.64,"C: two parents, 2 children",frozen out,0.169,False
+15000,12276,12334.25,0.0,0,2,"Medicaid, Medicaid",1147.5,10575.0,24369.25,24369.25,"C: two parents, 2 children",frozen out,0.169,False
+15500,12276,12745.39,0.0,0,2,"Medicaid, Medicaid",1185.75,10940.0,24784.86,24784.86,"C: two parents, 2 children",frozen out,0.169,False
+16000,12276,13156.53,0.0,0,2,"Medicaid, Medicaid",1224.0,11305.0,25200.47,25200.47,"C: two parents, 2 children",frozen out,0.169,False
+16500,12276,13567.68,0.0,0,2,"Medicaid, Medicaid",1262.25,11670.0,25616.07,25616.07,"C: two parents, 2 children",frozen out,0.169,False
+17000,12276,13978.82,0.0,0,2,"Medicaid, Medicaid",1300.5,12035.0,26031.68,26031.68,"C: two parents, 2 children",frozen out,0.169,False
+17500,12276,14389.96,0.0,0,2,"Medicaid, Medicaid",1338.75,12400.0,26447.29,26447.29,"C: two parents, 2 children",frozen out,0.169,False
+18000,12276,14801.1,0.0,0,2,"Medicaid, Medicaid",1377.0,12765.0,26862.9,26862.9,"C: two parents, 2 children",frozen out,0.169,False
+18500,12276,15212.24,0.0,0,2,"Medicaid, Medicaid",1415.25,13008.2,27156.71,27156.71,"C: two parents, 2 children",frozen out,0.412,False
+19000,12276,15623.38,0.0,0,2,"Medicaid, Medicaid",1453.5,13083.2,27282.32,27282.32,"C: two parents, 2 children",frozen out,0.749,False
+19500,12276,16034.53,0.0,0,2,"Medicaid, Medicaid",1491.75,13158.2,27407.92,27407.92,"C: two parents, 2 children",frozen out,0.749,False
+20000,12276,16445.67,0.0,0,2,"Medicaid, Medicaid",1556.0,13233.2,27507.53,27507.53,"C: two parents, 2 children",frozen out,0.801,False
+20500,12276,16856.81,0.0,0,2,"Medicaid, Medicaid",1620.25,13308.2,27607.14,27607.14,"C: two parents, 2 children",frozen out,0.801,False
+21000,12276,17267.95,0.0,0,2,"Medicaid, Medicaid",1689.5,13383.2,27701.75,27701.75,"C: two parents, 2 children",frozen out,0.811,False
+21500,12276,17679.09,0.0,0,2,"Medicaid, Medicaid",1758.75,13458.2,27796.36,27796.36,"C: two parents, 2 children",frozen out,0.811,False
+22000,12276,18090.23,0.0,0,2,"Medicaid, Medicaid",1833.0,13533.2,27885.97,27885.97,"C: two parents, 2 children",frozen out,0.821,False
+22500,12276,18501.38,0.0,0,2,"Medicaid, Medicaid",1907.25,13608.2,27975.57,27975.57,"C: two parents, 2 children",frozen out,0.821,False
+23000,12276,18912.52,0.0,0,2,"Medicaid, Medicaid",1985.25,13683.2,28061.43,28061.43,"C: two parents, 2 children",frozen out,0.828,False
+23500,12276,19323.66,0.0,0,2,"Medicaid, Medicaid",2063.25,13758.2,28147.29,28147.29,"C: two parents, 2 children",frozen out,0.828,False
+24000,12276,19734.8,0.0,0,2,"Medicaid, Medicaid",2141.25,13833.2,28233.15,28233.15,"C: two parents, 2 children",frozen out,0.828,False
+24500,12276,20145.94,0.0,0,2,"Medicaid, Medicaid",2219.25,13908.2,28319.01,28319.01,"C: two parents, 2 children",frozen out,0.828,False
+25000,12276,20557.08,0.0,0,2,"Medicaid, Medicaid",2297.25,13983.2,28404.87,28404.87,"C: two parents, 2 children",frozen out,0.828,False
+25500,12276,20968.23,0.0,0,2,"Medicaid, Medicaid",2375.25,14008.2,28440.72,28440.72,"C: two parents, 2 children",frozen out,0.928,False
+26000,12276,21379.37,0.0,0,2,"Medicaid, Medicaid",2453.25,14008.2,28451.58,28451.58,"C: two parents, 2 children",frozen out,0.978,False
+26500,12276,21790.51,0.0,0,2,"Medicaid, Medicaid",2531.25,14008.2,28462.44,28462.44,"C: two parents, 2 children",frozen out,0.978,False
+27000,12276,22201.65,0.0,0,2,"Medicaid, Medicaid",2609.25,14008.2,28473.3,28473.3,"C: two parents, 2 children",frozen out,0.978,False
+27500,12276,22612.79,0.0,0,2,"Medicaid, Medicaid",2687.25,14008.2,28484.16,28484.16,"C: two parents, 2 children",frozen out,0.978,False
+28000,12276,23023.93,0.0,0,2,"Medicaid, Medicaid",2765.25,14008.2,28495.02,28495.02,"C: two parents, 2 children",frozen out,0.978,False
+28500,12276,23435.08,0.0,0,2,"Medicaid, Medicaid",2843.25,14008.2,28505.87,28505.87,"C: two parents, 2 children",frozen out,0.978,False
+29000,12276,23846.22,0.0,0,2,"Medicaid, Medicaid",2921.25,14008.2,28516.73,28516.73,"C: two parents, 2 children",frozen out,0.978,False
+29500,12276,24257.36,0.0,0,2,"Medicaid, Medicaid",2999.25,14008.2,28527.59,28527.59,"C: two parents, 2 children",frozen out,0.978,False
+30000,12276,24668.5,0.0,0,2,"Medicaid, Medicaid",3077.25,14008.2,28538.45,28538.45,"C: two parents, 2 children",frozen out,0.978,False
+30500,12276,25079.64,0.0,0,2,"Medicaid, Medicaid",3155.25,14008.2,28549.31,28549.31,"C: two parents, 2 children",frozen out,0.978,False
+31000,12276,25490.78,0.0,0,2,"Medicaid, Medicaid",3233.25,14008.2,28560.17,28560.17,"C: two parents, 2 children",frozen out,0.978,False
+31500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",3311.25,13904.37,28713.88,28713.88,"C: two parents, 2 children",frozen out,0.693,False
+32000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",3389.25,13751.69,28983.2,28983.2,"C: two parents, 2 children",frozen out,0.461,False
+32500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",3467.25,13599.01,29252.52,29252.52,"C: two parents, 2 children",frozen out,0.461,False
+33000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",3545.25,13446.32,29521.83,29521.83,"C: two parents, 2 children",frozen out,0.461,False
+33500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",3623.25,13293.64,29791.15,29791.15,"C: two parents, 2 children",frozen out,0.461,False
+34000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",3701.25,13140.95,30060.46,30060.46,"C: two parents, 2 children",frozen out,0.461,False
+34500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",3779.25,12988.27,30329.78,30329.78,"C: two parents, 2 children",frozen out,0.461,False
+35000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",3857.25,12835.58,30599.09,30599.09,"C: two parents, 2 children",frozen out,0.461,False
+35500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",3935.25,12682.9,30868.41,30868.41,"C: two parents, 2 children",frozen out,0.461,False
+36000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4013.25,12530.22,31137.73,31137.73,"C: two parents, 2 children",frozen out,0.461,False
+36500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4091.25,12377.53,31407.04,31407.04,"C: two parents, 2 children",frozen out,0.461,False
+37000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4169.25,12224.85,31676.36,31676.36,"C: two parents, 2 children",frozen out,0.461,False
+37500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4247.25,12072.16,31945.67,31945.67,"C: two parents, 2 children",frozen out,0.461,False
+38000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4325.25,11919.48,32214.99,32214.99,"C: two parents, 2 children",frozen out,0.461,False
+38500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4403.25,11766.79,32484.3,32484.3,"C: two parents, 2 children",frozen out,0.461,False
+39000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4481.25,11614.11,32753.62,32753.62,"C: two parents, 2 children",frozen out,0.461,False
+39500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4559.25,11461.43,33022.94,33022.94,"C: two parents, 2 children",frozen out,0.461,False
+40000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4637.25,11308.74,33292.25,33292.25,"C: two parents, 2 children",frozen out,0.461,False
+40500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4715.25,11156.06,33561.57,33561.57,"C: two parents, 2 children",frozen out,0.461,False
+41000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4793.25,11003.37,33830.88,33830.88,"C: two parents, 2 children",frozen out,0.461,False
+41500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4871.25,10850.69,34100.2,34100.2,"C: two parents, 2 children",frozen out,0.461,False
+42000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",4949.25,10698.0,34369.51,34369.51,"C: two parents, 2 children",frozen out,0.461,False
+42500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",5027.25,10515.32,34608.83,34608.83,"C: two parents, 2 children",frozen out,0.521,False
+43000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",5105.25,10312.64,34828.15,34828.15,"C: two parents, 2 children",frozen out,0.561,False
+43500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",5183.25,10109.95,35047.46,35047.46,"C: two parents, 2 children",frozen out,0.561,False
+44000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",5261.25,9907.27,35266.78,35266.78,"C: two parents, 2 children",frozen out,0.561,False
+44500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",5339.25,9704.58,35486.09,35486.09,"C: two parents, 2 children",frozen out,0.561,False
+45000,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",5417.25,9501.9,35705.41,35705.41,"C: two parents, 2 children",frozen out,0.561,False
+45500,12276,25655.24,0.0,0,2,"Medicaid, Medicaid",5495.25,9299.21,35924.72,35924.72,"C: two parents, 2 children",frozen out,0.561,False
+46000,12276,25655.24,0.0,6850,0,"Medicaid, MCHP",5573.25,9096.53,29294.04,36144.04,"C: two parents, 2 children",frozen out,14.261,True
+46500,12276,25655.24,0.0,6850,0,"Medicaid, MCHP",5651.25,8893.85,29513.36,36363.36,"C: two parents, 2 children",frozen out,0.561,False
+47000,12276,25655.24,0.0,6850,0,"Medicaid, MCHP",5729.25,8691.16,29732.67,36582.67,"C: two parents, 2 children",frozen out,0.561,False
+47500,12156,25655.24,0.0,6850,0,"MCHP, MCHP",5807.25,8488.48,29831.99,36681.99,"C: two parents, 2 children",frozen out,0.801,False
+48000,12036,25655.24,0.0,6850,0,"MCHP, MCHP",5885.25,8285.79,29931.3,36781.3,"C: two parents, 2 children",frozen out,0.801,False
+48500,11916,25655.24,0.0,6850,0,"MCHP, MCHP",5963.25,8083.11,30030.62,36880.62,"C: two parents, 2 children",frozen out,0.801,False
+49000,11796,25655.24,0.0,6850,0,"MCHP, MCHP",6041.25,7880.42,30129.93,36979.93,"C: two parents, 2 children",frozen out,0.801,False
+49500,11676,25655.24,0.0,6850,0,"MCHP, MCHP",6119.25,7677.74,30229.25,37079.25,"C: two parents, 2 children",frozen out,0.801,False
+50000,11556,25655.24,0.0,6850,0,"MCHP, MCHP",6197.25,7475.06,30328.57,37178.57,"C: two parents, 2 children",frozen out,0.801,False
+50500,11436,25655.24,0.0,6850,0,"MCHP, MCHP",6275.25,7272.37,30427.88,37277.88,"C: two parents, 2 children",frozen out,0.801,False
+51000,11316,25655.24,0.0,6850,0,"MCHP, MCHP",6353.25,7069.69,30527.2,37377.2,"C: two parents, 2 children",frozen out,0.801,False
+51500,11196,25655.24,0.0,6850,0,"MCHP, MCHP",6431.25,6867.0,30626.51,37476.51,"C: two parents, 2 children",frozen out,0.801,False
+52000,11076,25655.24,0.0,6850,0,"MCHP, MCHP",6509.25,6664.32,30725.83,37575.83,"C: two parents, 2 children",frozen out,0.801,False
+52500,10956,25655.24,0.0,6850,0,"MCHP, MCHP",6587.25,6461.63,30825.14,37675.14,"C: two parents, 2 children",frozen out,0.801,False
+53000,10836,25655.24,0.0,6850,0,"MCHP, MCHP",6665.25,6258.95,30924.46,37774.46,"C: two parents, 2 children",frozen out,0.801,False
+53500,10716,25655.24,0.0,6850,0,"MCHP, MCHP",6743.25,6056.27,31023.78,37873.78,"C: two parents, 2 children",frozen out,0.801,False
+54000,10596,25655.24,0.0,6850,0,"MCHP, MCHP",6821.25,5853.58,31123.09,37973.09,"C: two parents, 2 children",frozen out,0.801,False
+54500,10476,25655.24,0.0,6850,0,"MCHP, MCHP",6899.25,5650.9,31222.41,38072.41,"C: two parents, 2 children",frozen out,0.801,False
+55000,10356,25655.24,0.0,6850,0,"MCHP, MCHP",6977.25,5448.21,31321.72,38171.72,"C: two parents, 2 children",frozen out,0.801,False
+55500,10236,25655.24,0.0,6850,0,"MCHP, MCHP",7055.25,5245.53,31421.04,38271.04,"C: two parents, 2 children",frozen out,0.801,False
+56000,10116,25655.24,0.0,6850,0,"MCHP, MCHP",7133.25,5042.84,31520.35,38370.35,"C: two parents, 2 children",frozen out,0.801,False
+56500,9996,25655.24,0.0,6850,0,"MCHP, MCHP",7211.25,4840.16,31619.67,38469.67,"C: two parents, 2 children",frozen out,0.801,False
+57000,9876,25655.24,0.0,6850,0,"MCHP, MCHP",7289.25,4637.48,31718.99,38568.99,"C: two parents, 2 children",frozen out,0.801,False
+57500,9756,25655.24,0.0,6850,0,"MCHP, MCHP",7367.25,4424.79,31808.3,38658.3,"C: two parents, 2 children",frozen out,0.821,False
+58000,9636,25655.24,0.0,6850,0,"MCHP, MCHP",7445.25,4212.11,31897.62,38747.62,"C: two parents, 2 children",frozen out,0.821,False
+58500,9516,25655.24,0.0,6850,0,"MCHP, MCHP",7523.25,3999.42,31986.93,38836.93,"C: two parents, 2 children",frozen out,0.821,False
+59000,9396,25655.24,0.0,6850,0,"MCHP, MCHP",7601.25,3786.74,32076.25,38926.25,"C: two parents, 2 children",frozen out,0.821,False
+59500,9276,25655.24,0.0,6850,0,"MCHP, MCHP",7679.25,3574.05,32165.56,39015.56,"C: two parents, 2 children",frozen out,0.821,False
+60000,9156,25655.24,0.0,6850,0,"MCHP, MCHP",7757.25,3361.37,32254.88,39104.88,"C: two parents, 2 children",frozen out,0.821,False
+60500,9036,25655.24,0.0,6850,0,"MCHP, MCHP",7835.25,3148.69,32344.2,39194.2,"C: two parents, 2 children",frozen out,0.821,False
+61000,8916,25655.24,0.0,6850,0,"MCHP, MCHP",7913.25,2936.0,32433.51,39283.51,"C: two parents, 2 children",frozen out,0.821,False
+61500,8796,25655.24,0.0,6850,0,"MCHP, MCHP",7991.25,2723.32,32522.83,39372.83,"C: two parents, 2 children",frozen out,0.821,False
+62000,8676,25655.24,0.0,6850,0,"MCHP, MCHP",8069.25,2510.63,32612.14,39462.14,"C: two parents, 2 children",frozen out,0.821,False
+62500,8556,25655.24,0.0,6850,0,"MCHP, MCHP",8147.25,2297.95,32701.46,39551.46,"C: two parents, 2 children",frozen out,0.821,False
+63000,8436,25655.24,0.0,6850,0,"MCHP, MCHP",8225.25,2085.26,32790.77,39640.77,"C: two parents, 2 children",frozen out,0.821,False
+63500,8316,25655.24,0.0,6850,0,"MCHP, MCHP",8303.25,1872.58,32880.09,39730.09,"C: two parents, 2 children",frozen out,0.821,False
+64000,8196,25655.24,0.0,6850,0,"MCHP, MCHP",8381.25,1659.89,32969.4,39819.4,"C: two parents, 2 children",frozen out,0.821,False
+64500,8076,25655.24,0.0,6850,0,"MCHP, MCHP",8459.25,1447.21,33058.72,39908.72,"C: two parents, 2 children",frozen out,0.821,False
+65000,7956,25655.24,0.0,6850,0,"MCHP, MCHP",8537.25,1234.53,33148.04,39998.04,"C: two parents, 2 children",frozen out,0.821,False
+65500,7836,25655.24,0.0,6850,0,"MCHP, MCHP",8615.25,1021.84,33237.35,40087.35,"C: two parents, 2 children",frozen out,0.821,False
+66000,7716,25655.24,0.0,6850,0,"MCHP, MCHP",8693.25,840.0,33357.51,40207.51,"C: two parents, 2 children",frozen out,0.76,False
+66500,0,25655.24,0.0,6850,0,"MCHP, MCHP",8771.25,780.0,26003.51,32853.51,"C: two parents, 2 children",frozen out,15.708,True
+67000,0,25655.24,0.0,6850,0,"MCHP, MCHP",8849.25,720.0,26365.51,33215.51,"C: two parents, 2 children",frozen out,0.276,False
+67500,0,25655.24,0.0,6850,0,"MCHP, MCHP",8927.25,660.0,26727.51,33577.51,"C: two parents, 2 children",frozen out,0.276,False
+68000,0,25655.24,0.0,6850,0,"MCHP, MCHP",9005.25,600.0,27089.51,33939.51,"C: two parents, 2 children",frozen out,0.276,False
+68500,0,25655.24,0.0,6850,0,"MCHP, MCHP",9083.25,540.0,27451.51,34301.51,"C: two parents, 2 children",frozen out,0.276,False
+69000,0,25655.24,0.0,6850,0,"MCHP, MCHP",9161.25,480.0,27813.51,34663.51,"C: two parents, 2 children",frozen out,0.276,False
+69500,0,25655.24,0.0,6850,0,"MCHP, MCHP",9239.25,420.0,28175.51,35025.51,"C: two parents, 2 children",frozen out,0.276,False
+70000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",9317.25,360.0,27889.51,35387.51,"C: two parents, 2 children",frozen out,1.572,True
+70500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",9395.25,300.0,28251.51,35749.51,"C: two parents, 2 children",frozen out,0.276,False
+71000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",9473.25,240.0,28613.51,36111.51,"C: two parents, 2 children",frozen out,0.276,False
+71500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",9551.25,180.0,28975.51,36473.51,"C: two parents, 2 children",frozen out,0.276,False
+72000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",9629.25,120.0,29337.51,36835.51,"C: two parents, 2 children",frozen out,0.276,False
+72500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",9707.25,60.0,29699.51,37197.51,"C: two parents, 2 children",frozen out,0.276,False
+73000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",9785.25,0.0,30061.51,37559.51,"C: two parents, 2 children",frozen out,0.276,False
+73500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",9923.25,0.0,30423.51,37921.51,"C: two parents, 2 children",frozen out,0.276,False
+74000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",10061.25,0.0,30785.51,38283.51,"C: two parents, 2 children",frozen out,0.276,False
+74500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",10199.25,0.0,31147.51,38645.51,"C: two parents, 2 children",frozen out,0.276,False
+75000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",10337.25,0.0,31509.51,39007.51,"C: two parents, 2 children",frozen out,0.276,False
+75500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",10475.25,0.0,31871.51,39369.51,"C: two parents, 2 children",frozen out,0.276,False
+76000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",10613.25,0.0,32233.51,39731.51,"C: two parents, 2 children",frozen out,0.276,False
+76500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",10751.25,0.0,32595.51,40093.51,"C: two parents, 2 children",frozen out,0.276,False
+77000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",10889.25,0.0,32957.51,40455.51,"C: two parents, 2 children",frozen out,0.276,False
+77500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",11027.25,0.0,33319.51,40817.51,"C: two parents, 2 children",frozen out,0.276,False
+78000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",11165.25,0.0,33681.51,41179.51,"C: two parents, 2 children",frozen out,0.276,False
+78500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",11303.25,0.0,34043.51,41541.51,"C: two parents, 2 children",frozen out,0.276,False
+79000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",11441.25,0.0,34405.51,41903.51,"C: two parents, 2 children",frozen out,0.276,False
+79500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",11579.25,0.0,34767.51,42265.51,"C: two parents, 2 children",frozen out,0.276,False
+80000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",11717.25,0.0,35129.51,42627.51,"C: two parents, 2 children",frozen out,0.276,False
+80500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",11855.25,0.0,35491.51,42989.51,"C: two parents, 2 children",frozen out,0.276,False
+81000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",11993.25,0.0,35853.51,43351.51,"C: two parents, 2 children",frozen out,0.276,False
+81500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",12131.25,0.0,36215.51,43713.51,"C: two parents, 2 children",frozen out,0.276,False
+82000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",12269.25,0.0,36577.51,44075.51,"C: two parents, 2 children",frozen out,0.276,False
+82500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",12407.25,0.0,36939.51,44437.51,"C: two parents, 2 children",frozen out,0.276,False
+83000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",12545.25,0.0,37301.51,44799.51,"C: two parents, 2 children",frozen out,0.276,False
+83500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",12683.25,0.0,37663.51,45161.51,"C: two parents, 2 children",frozen out,0.276,False
+84000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",12821.25,0.0,38025.51,45523.51,"C: two parents, 2 children",frozen out,0.276,False
+84500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",12959.25,0.0,38387.51,45885.51,"C: two parents, 2 children",frozen out,0.276,False
+85000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",13097.25,0.0,38749.51,46247.51,"C: two parents, 2 children",frozen out,0.276,False
+85500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",13235.25,0.0,39111.51,46609.51,"C: two parents, 2 children",frozen out,0.276,False
+86000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",13373.25,0.0,39473.51,46971.51,"C: two parents, 2 children",frozen out,0.276,False
+86500,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",13511.25,0.0,39835.51,47333.51,"C: two parents, 2 children",frozen out,0.276,False
+87000,0,25655.24,0.0,7498,0,"MCHP Premium, MCHP Premium",13649.25,0.0,40197.51,47695.51,"C: two parents, 2 children",frozen out,0.276,False
+87500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",13787.25,0.0,40403.51,48057.51,"C: two parents, 2 children",frozen out,0.588,False
+88000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",13925.25,0.0,40765.51,48419.51,"C: two parents, 2 children",frozen out,0.276,False
+88500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",14063.25,0.0,41127.51,48781.51,"C: two parents, 2 children",frozen out,0.276,False
+89000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",14201.25,0.0,41489.51,49143.51,"C: two parents, 2 children",frozen out,0.276,False
+89500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",14339.25,0.0,41851.51,49505.51,"C: two parents, 2 children",frozen out,0.276,False
+90000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",14477.25,0.0,42213.51,49867.51,"C: two parents, 2 children",frozen out,0.276,False
+90500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",14615.25,0.0,42575.51,50229.51,"C: two parents, 2 children",frozen out,0.276,False
+91000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",14753.25,0.0,42937.51,50591.51,"C: two parents, 2 children",frozen out,0.276,False
+91500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",14891.25,0.0,43299.51,50953.51,"C: two parents, 2 children",frozen out,0.276,False
+92000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",15029.25,0.0,43661.51,51315.51,"C: two parents, 2 children",frozen out,0.276,False
+92500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",15167.25,0.0,44023.51,51677.51,"C: two parents, 2 children",frozen out,0.276,False
+93000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",15305.25,0.0,44385.51,52039.51,"C: two parents, 2 children",frozen out,0.276,False
+93500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",15443.25,0.0,44747.51,52401.51,"C: two parents, 2 children",frozen out,0.276,False
+94000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",15581.25,0.0,45109.51,52763.51,"C: two parents, 2 children",frozen out,0.276,False
+94500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",15719.25,0.0,45471.51,53125.51,"C: two parents, 2 children",frozen out,0.276,False
+95000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",15857.25,0.0,45833.51,53487.51,"C: two parents, 2 children",frozen out,0.276,False
+95500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",15995.25,0.0,46195.51,53849.51,"C: two parents, 2 children",frozen out,0.276,False
+96000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",16133.25,0.0,46557.51,54211.51,"C: two parents, 2 children",frozen out,0.276,False
+96500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",16271.25,0.0,46919.51,54573.51,"C: two parents, 2 children",frozen out,0.276,False
+97000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",16409.25,0.0,47281.51,54935.51,"C: two parents, 2 children",frozen out,0.276,False
+97500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",16547.25,0.0,47643.51,55297.51,"C: two parents, 2 children",frozen out,0.276,False
+98000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",16685.25,0.0,48005.51,55659.51,"C: two parents, 2 children",frozen out,0.276,False
+98500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",16823.25,0.0,48367.51,56021.51,"C: two parents, 2 children",frozen out,0.276,False
+99000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",16961.25,0.0,48729.51,56383.51,"C: two parents, 2 children",frozen out,0.276,False
+99500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",17099.25,0.0,49091.51,56745.51,"C: two parents, 2 children",frozen out,0.276,False
+100000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",17237.25,0.0,49453.51,57107.51,"C: two parents, 2 children",frozen out,0.276,False
+100500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",17375.25,0.0,49815.51,57469.51,"C: two parents, 2 children",frozen out,0.276,False
+101000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",17513.25,0.0,50177.51,57831.51,"C: two parents, 2 children",frozen out,0.276,False
+101500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",17651.25,0.0,50539.51,58193.51,"C: two parents, 2 children",frozen out,0.276,False
+102000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",17789.25,0.0,50901.51,58555.51,"C: two parents, 2 children",frozen out,0.276,False
+102500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",17927.25,0.0,51263.51,58917.51,"C: two parents, 2 children",frozen out,0.276,False
+103000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",18065.25,0.0,51625.51,59279.51,"C: two parents, 2 children",frozen out,0.276,False
+103500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",18203.25,0.0,51987.51,59641.51,"C: two parents, 2 children",frozen out,0.276,False
+104000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",18341.25,0.0,52349.51,60003.51,"C: two parents, 2 children",frozen out,0.276,False
+104500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",18479.25,0.0,52711.51,60365.51,"C: two parents, 2 children",frozen out,0.276,False
+105000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",18617.25,0.0,53073.51,60727.51,"C: two parents, 2 children",frozen out,0.276,False
+105500,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",18755.25,0.0,53435.51,61089.51,"C: two parents, 2 children",frozen out,0.276,False
+106000,0,25655.24,0.0,7654,0,"MCHP Premium, MCHP Premium",18893.25,0.0,53797.51,61451.51,"C: two parents, 2 children",frozen out,0.276,False
+106500,0,25655.24,0.0,6850,0,"None, None",19031.25,0.0,54963.51,61813.51,"C: two parents, 2 children",frozen out,-1.332,False
+107000,0,25655.24,0.0,6850,0,"None, None",19169.25,0.0,55325.51,62175.51,"C: two parents, 2 children",frozen out,0.276,False
+107500,0,25655.24,0.0,6850,0,"None, None",19307.25,0.0,55687.51,62537.51,"C: two parents, 2 children",frozen out,0.276,False
+108000,0,25655.24,0.0,6850,0,"None, None",19445.25,0.0,56049.51,62899.51,"C: two parents, 2 children",frozen out,0.276,False
+108500,0,25655.24,0.0,6850,0,"None, None",19583.25,0.0,56411.51,63261.51,"C: two parents, 2 children",frozen out,0.276,False
+109000,0,25655.24,0.0,6850,0,"None, None",19721.25,0.0,56773.51,63623.51,"C: two parents, 2 children",frozen out,0.276,False
+109500,0,25655.24,0.0,6850,0,"None, None",19859.25,0.0,57135.51,63985.51,"C: two parents, 2 children",frozen out,0.276,False
+110000,0,25655.24,0.0,6850,0,"None, None",19997.25,0.0,57497.51,64347.51,"C: two parents, 2 children",frozen out,0.276,False
+110500,0,25655.24,0.0,6850,0,"None, None",20135.25,0.0,57859.51,64709.51,"C: two parents, 2 children",frozen out,0.276,False
+111000,0,25655.24,0.0,6850,0,"None, None",20273.25,0.0,58221.51,65071.51,"C: two parents, 2 children",frozen out,0.276,False
+111500,0,25655.24,0.0,6850,0,"None, None",20411.25,0.0,58583.51,65433.51,"C: two parents, 2 children",frozen out,0.276,False
+112000,0,25655.24,0.0,6850,0,"None, None",20549.25,0.0,58945.51,65795.51,"C: two parents, 2 children",frozen out,0.276,False
+112500,0,25655.24,0.0,6850,0,"None, None",20687.25,0.0,59307.51,66157.51,"C: two parents, 2 children",frozen out,0.276,False
+113000,0,25655.24,0.0,6850,0,"None, None",20825.25,0.0,59669.51,66519.51,"C: two parents, 2 children",frozen out,0.276,False
+113500,0,25655.24,0.0,6850,0,"None, None",20963.25,0.0,60031.51,66881.51,"C: two parents, 2 children",frozen out,0.276,False
+114000,0,25655.24,0.0,6850,0,"None, None",21101.25,0.0,60393.51,67243.51,"C: two parents, 2 children",frozen out,0.276,False
+114500,0,25655.24,0.0,6850,0,"None, None",21239.25,0.0,60755.51,67605.51,"C: two parents, 2 children",frozen out,0.276,False
+115000,0,25655.24,0.0,6850,0,"None, None",21377.25,0.0,61117.51,67967.51,"C: two parents, 2 children",frozen out,0.276,False
+115500,0,25655.24,0.0,6850,0,"None, None",21515.25,0.0,61479.51,68329.51,"C: two parents, 2 children",frozen out,0.276,False
+116000,0,25655.24,0.0,6850,0,"None, None",21653.25,0.0,61841.51,68691.51,"C: two parents, 2 children",frozen out,0.276,False
+116500,0,25655.24,0.0,6850,0,"None, None",21791.25,0.0,62203.51,69053.51,"C: two parents, 2 children",frozen out,0.276,False
+117000,0,25655.24,0.0,6850,0,"None, None",21929.25,0.0,62565.51,69415.51,"C: two parents, 2 children",frozen out,0.276,False
+117500,0,25655.24,0.0,6850,0,"None, None",22067.25,0.0,62927.51,69777.51,"C: two parents, 2 children",frozen out,0.276,False
+118000,0,25655.24,0.0,6850,0,"None, None",22205.25,0.0,63289.51,70139.51,"C: two parents, 2 children",frozen out,0.276,False
+118500,0,25655.24,0.0,6850,0,"None, None",22343.25,0.0,63651.51,70501.51,"C: two parents, 2 children",frozen out,0.276,False
+119000,0,25655.24,0.0,6850,0,"None, None",22481.25,0.0,64013.51,70863.51,"C: two parents, 2 children",frozen out,0.276,False
+119500,0,25655.24,0.0,6850,0,"None, None",22619.25,0.0,64375.51,71225.51,"C: two parents, 2 children",frozen out,0.276,False
+120000,0,25655.24,0.0,6850,0,"None, None",22757.25,0.0,64737.51,71587.51,"C: two parents, 2 children",frozen out,0.276,False

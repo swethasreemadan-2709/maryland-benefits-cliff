@@ -6,6 +6,20 @@ meta:
   location: Baltimore City
   rules_as_of: "2026-11-17"
 
+# ---------- Work and health coverage assumptions ----------
+work:
+  wage_hourly: 15.00                # Maryland minimum wage, 2026
+  full_time_hours_per_year: 2080    # 40 hours x 52 weeks
+  # Child care need grows with hours worked, up to full time.
+  source: https://onpay.com/insights/minimum-wage-by-state-summary/maryland/
+
+health:
+  # Cost of replacement coverage when someone loses Medicaid/MCHP:
+  # what a worker pays toward employer coverage (KFF 2025 averages).
+  worker_contribution_single: 1440  # one person uncovered
+  worker_contribution_family: 6850  # two or more people uncovered
+  source: https://www.kff.org/health-costs/press-release/2025-employer-health-benefits-survey/
+
 # ---------- Housing (needed for the SNAP shelter deduction) ----------
 housing:
   rent_monthly: 1955                # TODO: replace with Baltimore 2-bedroom Fair Market Rent

@@ -1,0 +1,40 @@
+household,scenario,earnings,net_drop,main_cause
+"A: single parent, 1 child",enrolled,30000,1303.8600000000006,Health coverage
+"A: single parent, 1 child",enrolled,43500,2610.540000000001,Child care
+"A: single parent, 1 child",enrolled,46000,447.75,Health coverage
+"A: single parent, 1 child",enrolled,70000,4279.0,Health coverage
+"A: single parent, 1 child",enrolled,76500,10033.439999999995,Child care
+"A: single parent, 1 child",frozen out,30000,1435.7099999999991,Health coverage
+"A: single parent, 1 child",frozen out,43500,4433.860000000001,SNAP
+"A: single parent, 1 child",frozen out,46000,401.8600000000006,Health coverage
+"A: single parent, 1 child",frozen out,70000,4244.0,Health coverage
+"B: single parent, 2 children",enrolled,38000,1340.6800000000003,Health coverage
+"B: single parent, 2 children",enrolled,55000,2571.760000000002,Child care
+"B: single parent, 2 children",enrolled,58000,476.1599999999962,Health coverage
+"B: single parent, 2 children",enrolled,88000,4281.479999999996,Health coverage
+"B: single parent, 2 children",enrolled,94500,19794.71,Child care
+"B: single parent, 2 children",frozen out,24500,66.81999999999971,Child care
+"B: single parent, 2 children",frozen out,25000,66.83000000000175,Child care
+"B: single parent, 2 children",frozen out,25500,116.82999999999811,Child care
+"B: single parent, 2 children",frozen out,26000,141.83000000000175,Child care
+"B: single parent, 2 children",frozen out,26500,141.8199999999997,Child care
+"B: single parent, 2 children",frozen out,27000,141.8299999999981,Child care
+"B: single parent, 2 children",frozen out,27500,141.8199999999997,Child care
+"B: single parent, 2 children",frozen out,28000,141.8199999999997,Child care
+"B: single parent, 2 children",frozen out,28500,141.84000000000015,Child care
+"B: single parent, 2 children",frozen out,29000,141.8199999999997,Child care
+"B: single parent, 2 children",frozen out,29500,141.83000000000175,Child care
+"B: single parent, 2 children",frozen out,30000,141.8199999999997,Child care
+"B: single parent, 2 children",frozen out,30500,141.83000000000175,Child care
+"B: single parent, 2 children",frozen out,31000,141.8199999999997,Child care
+"B: single parent, 2 children",frozen out,38000,1220.6800000000003,Health coverage
+"B: single parent, 2 children",frozen out,55000,7650.689999999999,SNAP
+"B: single parent, 2 children",frozen out,58000,438.6800000000003,Health coverage
+"B: single parent, 2 children",frozen out,88000,4244.0,Health coverage
+"C: two parents, 2 children",enrolled,46000,6750.68,Health coverage
+"C: two parents, 2 children",enrolled,63000,1317.25,Child care
+"C: two parents, 2 children",enrolled,70000,317.67000000000553,Health coverage
+"C: two parents, 2 children",enrolled,112000,19770.379999999997,Child care
+"C: two parents, 2 children",frozen out,46000,6630.68,Health coverage
+"C: two parents, 2 children",frozen out,66500,7354.000000000004,SNAP
+"C: two parents, 2 children",frozen out,70000,286.0,Health coverage
